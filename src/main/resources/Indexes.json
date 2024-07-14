@@ -1,0 +1,4927 @@
+{
+  "LowS&P500_50" : {
+    "indexName" : "LowS&P500_50",
+    "indexShares" : [ {
+      "ticker" : "AAPL",
+      "longName" : "Apple Inc.",
+      "lastPrice" : 232.17,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-08-31",
+      "marketCap" : 3559964803072
+    }, {
+      "ticker" : "MSFT",
+      "longName" : "Microsoft Corporation",
+      "lastPrice" : 455.075,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-02-18",
+      "marketCap" : 3382258434048
+    }, {
+      "ticker" : "NVDA",
+      "longName" : "NVIDIA Corporation",
+      "lastPrice" : 131.3599,
+      "lastDividend" : 0.01,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-06-10",
+      "marketCap" : 3231220498432
+    }, {
+      "ticker" : "GOOGL",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 186.0988,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2309727977472
+    }, {
+      "ticker" : "GOOG",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 187.705,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2307776577536
+    }, {
+      "ticker" : "AMZN",
+      "longName" : "Amazon.com, Inc.",
+      "lastPrice" : 195.62,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-06-06",
+      "marketCap" : 2035739000832
+    }, {
+      "ticker" : "META",
+      "longName" : "Meta Platforms, Inc.",
+      "lastPrice" : 503.28,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 1276483338240
+    }, {
+      "ticker" : "LLY",
+      "longName" : "Eli Lilly and Company",
+      "lastPrice" : 947.65,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-10-16",
+      "marketCap" : 853277802496
+    }, {
+      "ticker" : "AVGO",
+      "longName" : "Broadcom Inc.",
+      "lastPrice" : 1717.09,
+      "lastDividend" : 5.25,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 799604670464
+    }, {
+      "ticker" : "TSLA",
+      "longName" : "Tesla, Inc.",
+      "lastPrice" : 250.54,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2022-08-25",
+      "marketCap" : 799181570048
+    }, {
+      "ticker" : "JPM",
+      "longName" : "JPMorgan Chase & Co.",
+      "lastPrice" : 205.51,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-06-12",
+      "marketCap" : 590156857344
+    }, {
+      "ticker" : "WMT",
+      "longName" : "Walmart Inc.",
+      "lastPrice" : 69.675,
+      "lastDividend" : 0.208,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2024-02-26",
+      "marketCap" : 560433659904
+    }, {
+      "ticker" : "V",
+      "longName" : "Visa Inc.",
+      "lastPrice" : 266.67,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2015-03-19",
+      "marketCap" : 545633501184
+    }, {
+      "ticker" : "XOM",
+      "longName" : "Exxon Mobil Corporation",
+      "lastPrice" : 113.16,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-07-19",
+      "marketCap" : 507627864064
+    }, {
+      "ticker" : "UNH",
+      "longName" : "UnitedHealth Group Incorporated",
+      "lastPrice" : 513.3,
+      "lastDividend" : 2.1,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-31",
+      "marketCap" : 472433623040
+    }, {
+      "ticker" : "MA",
+      "longName" : "Mastercard Incorporated",
+      "lastPrice" : 441.745,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2014-01-22",
+      "marketCap" : 410652770304
+    }, {
+      "ticker" : "ORCL",
+      "longName" : "Oracle Corporation",
+      "lastPrice" : 144.43,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-10-13",
+      "marketCap" : 398028832768
+    }, {
+      "ticker" : "PG",
+      "longName" : "The Procter & Gamble Company",
+      "lastPrice" : 167.44,
+      "lastDividend" : 1.007,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-06-21",
+      "marketCap" : 395212521472
+    }, {
+      "ticker" : "COST",
+      "longName" : "Costco Wholesale Corporation",
+      "lastPrice" : 846.105,
+      "lastDividend" : 1.16,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-14",
+      "marketCap" : 375107944448
+    }, {
+      "ticker" : "JNJ",
+      "longName" : "Johnson & Johnson",
+      "lastPrice" : 150.4,
+      "lastDividend" : 1.24,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-06-13",
+      "marketCap" : 361988751360
+    }, {
+      "ticker" : "HD",
+      "longName" : "The Home Depot, Inc.",
+      "lastPrice" : 363.11,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-12-31",
+      "marketCap" : 360064942080
+    }, {
+      "ticker" : "BAC",
+      "longName" : "Bank of America Corporation",
+      "lastPrice" : 41.725,
+      "lastDividend" : 0.24,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-30",
+      "marketCap" : 326383140864
+    }, {
+      "ticker" : "MRK",
+      "longName" : "Merck & Co., Inc.",
+      "lastPrice" : 127.89,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "1048:1000",
+      "lastSplitDate" : "2021-06-03",
+      "marketCap" : 323921051648
+    }, {
+      "ticker" : "ABBV",
+      "longName" : "AbbVie Inc.",
+      "lastPrice" : 171.01,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 301981401088
+    }, {
+      "ticker" : "AMD",
+      "longName" : "Advanced Micro Devices, Inc.",
+      "lastPrice" : 185.8664,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-22",
+      "marketCap" : 300423380992
+    }, {
+      "ticker" : "CVX",
+      "longName" : "Chevron Corporation",
+      "lastPrice" : 155.4708,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-09-13",
+      "marketCap" : 284324986880
+    }, {
+      "ticker" : "NFLX",
+      "longName" : "Netflix, Inc.",
+      "lastPrice" : 653.235,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "7:1",
+      "lastSplitDate" : "2015-07-15",
+      "marketCap" : 281479610368
+    }, {
+      "ticker" : "KO",
+      "longName" : "The Coca-Cola Company",
+      "lastPrice" : 64.06,
+      "lastDividend" : 0.485,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2012-08-13",
+      "marketCap" : 275924844544
+    }, {
+      "ticker" : "ADBE",
+      "longName" : "Adobe Inc.",
+      "lastPrice" : 560.085,
+      "lastDividend" : 0.0065,
+      "dividendLastDate" : "2005-03-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-24",
+      "marketCap" : 248428167168
+    }, {
+      "ticker" : "CRM",
+      "longName" : "Salesforce, Inc.",
+      "lastPrice" : 254.49,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2013-04-18",
+      "marketCap" : 246600810496
+    }, {
+      "ticker" : "PEP",
+      "longName" : "PepsiCo, Inc.",
+      "lastPrice" : 167.145,
+      "lastDividend" : 1.355,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1996-05-29",
+      "marketCap" : 229789286400
+    }, {
+      "ticker" : "QCOM",
+      "longName" : "QUALCOMM Incorporated",
+      "lastPrice" : 205.51,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-16",
+      "marketCap" : 229349146624
+    }, {
+      "ticker" : "LIN",
+      "longName" : "Linde plc",
+      "lastPrice" : 443.575,
+      "lastDividend" : 1.39,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-12-16",
+      "marketCap" : 213192736768
+    }, {
+      "ticker" : "TMUS",
+      "longName" : "T-Mobile US, Inc.",
+      "lastPrice" : 180.29,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "1:2",
+      "lastSplitDate" : "2013-05-01",
+      "marketCap" : 211862372352
+    }, {
+      "ticker" : "TMO",
+      "longName" : "Thermo Fisher Scientific Inc.",
+      "lastPrice" : 549.405,
+      "lastDividend" : 0.39,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1996-06-06",
+      "marketCap" : 209716690944
+    }, {
+      "ticker" : "AMAT",
+      "longName" : "Applied Materials, Inc.",
+      "lastPrice" : 247.76,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-05-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-04-17",
+      "marketCap" : 205143212032
+    }, {
+      "ticker" : "WFC",
+      "longName" : "Wells Fargo & Company",
+      "lastPrice" : 56.35,
+      "lastDividend" : 0.35,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-08-14",
+      "marketCap" : 196454137856
+    }, {
+      "ticker" : "ACN",
+      "longName" : "Accenture plc",
+      "lastPrice" : 311.025,
+      "lastDividend" : 1.29,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 194821079040
+    }, {
+      "ticker" : "CSCO",
+      "longName" : "Cisco Systems, Inc.",
+      "lastPrice" : 47.745,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-23",
+      "marketCap" : 192335790080
+    }, {
+      "ticker" : "TXN",
+      "longName" : "Texas Instruments Incorporated",
+      "lastPrice" : 204.91,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-23",
+      "marketCap" : 186566868992
+    }, {
+      "ticker" : "MCD",
+      "longName" : "McDonald's Corporation",
+      "lastPrice" : 255.88,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-03-08",
+      "marketCap" : 184436932608
+    }, {
+      "ticker" : "DHR",
+      "longName" : "Danaher Corporation",
+      "lastPrice" : 248.015,
+      "lastDividend" : 0.27,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "1128:1000",
+      "lastSplitDate" : "2023-10-02",
+      "marketCap" : 183701487616
+    }, {
+      "ticker" : "ABT",
+      "longName" : "Abbott Laboratories",
+      "lastPrice" : 104.61,
+      "lastDividend" : 0.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "10000:4798",
+      "lastSplitDate" : "2013-01-02",
+      "marketCap" : 181982691328
+    }, {
+      "ticker" : "INTU",
+      "longName" : "Intuit Inc.",
+      "lastPrice" : 645.605,
+      "lastDividend" : 0.9,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-07",
+      "marketCap" : 180476936192
+    }, {
+      "ticker" : "AMGN",
+      "longName" : "Amgen Inc.",
+      "lastPrice" : 333.55,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-11-22",
+      "marketCap" : 178927894528
+    }, {
+      "ticker" : "DIS",
+      "longName" : "The Walt Disney Company",
+      "lastPrice" : 97.3899,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "10000:9865",
+      "lastSplitDate" : "2007-06-13",
+      "marketCap" : 177509416960
+    }, {
+      "ticker" : "GE",
+      "longName" : "GE Aerospace",
+      "lastPrice" : 160.54,
+      "lastDividend" : 0.28,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "1253:1000",
+      "lastSplitDate" : "2024-04-02",
+      "marketCap" : 175717744640
+    }, {
+      "ticker" : "VZ",
+      "longName" : "Verizon Communications Inc.",
+      "lastPrice" : 41.505,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1000000:937889",
+      "lastSplitDate" : "2010-07-02",
+      "marketCap" : 174704934912
+    }, {
+      "ticker" : "AXP",
+      "longName" : "American Express Company",
+      "lastPrice" : 239.275,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "10000:8753",
+      "lastSplitDate" : "2005-10-03",
+      "marketCap" : 172111216640
+    }, {
+      "ticker" : "MS",
+      "longName" : "Morgan Stanley",
+      "lastPrice" : 105.01,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-27",
+      "marketCap" : 170641801216
+    } ],
+    "indexLevel" : 0.0
+  },
+  "LowS&P500_100" : {
+    "indexName" : "LowS&P500_100",
+    "indexShares" : [ {
+      "ticker" : "AAPL",
+      "longName" : "Apple Inc.",
+      "lastPrice" : 232.17,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-08-31",
+      "marketCap" : 3559964803072
+    }, {
+      "ticker" : "MSFT",
+      "longName" : "Microsoft Corporation",
+      "lastPrice" : 455.075,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-02-18",
+      "marketCap" : 3382258434048
+    }, {
+      "ticker" : "NVDA",
+      "longName" : "NVIDIA Corporation",
+      "lastPrice" : 131.3599,
+      "lastDividend" : 0.01,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-06-10",
+      "marketCap" : 3231220498432
+    }, {
+      "ticker" : "GOOGL",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 186.0988,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2309727977472
+    }, {
+      "ticker" : "GOOG",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 187.705,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2307776577536
+    }, {
+      "ticker" : "AMZN",
+      "longName" : "Amazon.com, Inc.",
+      "lastPrice" : 195.62,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-06-06",
+      "marketCap" : 2035739000832
+    }, {
+      "ticker" : "META",
+      "longName" : "Meta Platforms, Inc.",
+      "lastPrice" : 503.28,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 1276483338240
+    }, {
+      "ticker" : "LLY",
+      "longName" : "Eli Lilly and Company",
+      "lastPrice" : 947.65,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-10-16",
+      "marketCap" : 853277802496
+    }, {
+      "ticker" : "AVGO",
+      "longName" : "Broadcom Inc.",
+      "lastPrice" : 1717.09,
+      "lastDividend" : 5.25,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 799604670464
+    }, {
+      "ticker" : "TSLA",
+      "longName" : "Tesla, Inc.",
+      "lastPrice" : 250.54,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2022-08-25",
+      "marketCap" : 799181570048
+    }, {
+      "ticker" : "JPM",
+      "longName" : "JPMorgan Chase & Co.",
+      "lastPrice" : 205.51,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-06-12",
+      "marketCap" : 590156857344
+    }, {
+      "ticker" : "WMT",
+      "longName" : "Walmart Inc.",
+      "lastPrice" : 69.675,
+      "lastDividend" : 0.208,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2024-02-26",
+      "marketCap" : 560433659904
+    }, {
+      "ticker" : "V",
+      "longName" : "Visa Inc.",
+      "lastPrice" : 266.67,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2015-03-19",
+      "marketCap" : 545633501184
+    }, {
+      "ticker" : "XOM",
+      "longName" : "Exxon Mobil Corporation",
+      "lastPrice" : 113.16,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-07-19",
+      "marketCap" : 507627864064
+    }, {
+      "ticker" : "UNH",
+      "longName" : "UnitedHealth Group Incorporated",
+      "lastPrice" : 513.3,
+      "lastDividend" : 2.1,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-31",
+      "marketCap" : 472433623040
+    }, {
+      "ticker" : "MA",
+      "longName" : "Mastercard Incorporated",
+      "lastPrice" : 441.745,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2014-01-22",
+      "marketCap" : 410652770304
+    }, {
+      "ticker" : "ORCL",
+      "longName" : "Oracle Corporation",
+      "lastPrice" : 144.43,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-10-13",
+      "marketCap" : 398028832768
+    }, {
+      "ticker" : "PG",
+      "longName" : "The Procter & Gamble Company",
+      "lastPrice" : 167.44,
+      "lastDividend" : 1.007,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-06-21",
+      "marketCap" : 395212521472
+    }, {
+      "ticker" : "COST",
+      "longName" : "Costco Wholesale Corporation",
+      "lastPrice" : 846.105,
+      "lastDividend" : 1.16,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-14",
+      "marketCap" : 375107944448
+    }, {
+      "ticker" : "JNJ",
+      "longName" : "Johnson & Johnson",
+      "lastPrice" : 150.4,
+      "lastDividend" : 1.24,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-06-13",
+      "marketCap" : 361988751360
+    }, {
+      "ticker" : "HD",
+      "longName" : "The Home Depot, Inc.",
+      "lastPrice" : 363.11,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-12-31",
+      "marketCap" : 360064942080
+    }, {
+      "ticker" : "BAC",
+      "longName" : "Bank of America Corporation",
+      "lastPrice" : 41.725,
+      "lastDividend" : 0.24,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-30",
+      "marketCap" : 326383140864
+    }, {
+      "ticker" : "MRK",
+      "longName" : "Merck & Co., Inc.",
+      "lastPrice" : 127.89,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "1048:1000",
+      "lastSplitDate" : "2021-06-03",
+      "marketCap" : 323921051648
+    }, {
+      "ticker" : "ABBV",
+      "longName" : "AbbVie Inc.",
+      "lastPrice" : 171.01,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 301981401088
+    }, {
+      "ticker" : "AMD",
+      "longName" : "Advanced Micro Devices, Inc.",
+      "lastPrice" : 185.8664,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-22",
+      "marketCap" : 300423380992
+    }, {
+      "ticker" : "CVX",
+      "longName" : "Chevron Corporation",
+      "lastPrice" : 155.4708,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-09-13",
+      "marketCap" : 284324986880
+    }, {
+      "ticker" : "NFLX",
+      "longName" : "Netflix, Inc.",
+      "lastPrice" : 653.235,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "7:1",
+      "lastSplitDate" : "2015-07-15",
+      "marketCap" : 281479610368
+    }, {
+      "ticker" : "KO",
+      "longName" : "The Coca-Cola Company",
+      "lastPrice" : 64.06,
+      "lastDividend" : 0.485,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2012-08-13",
+      "marketCap" : 275924844544
+    }, {
+      "ticker" : "ADBE",
+      "longName" : "Adobe Inc.",
+      "lastPrice" : 560.085,
+      "lastDividend" : 0.0065,
+      "dividendLastDate" : "2005-03-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-24",
+      "marketCap" : 248428167168
+    }, {
+      "ticker" : "CRM",
+      "longName" : "Salesforce, Inc.",
+      "lastPrice" : 254.49,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2013-04-18",
+      "marketCap" : 246600810496
+    }, {
+      "ticker" : "PEP",
+      "longName" : "PepsiCo, Inc.",
+      "lastPrice" : 167.145,
+      "lastDividend" : 1.355,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1996-05-29",
+      "marketCap" : 229789286400
+    }, {
+      "ticker" : "QCOM",
+      "longName" : "QUALCOMM Incorporated",
+      "lastPrice" : 205.51,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-16",
+      "marketCap" : 229349146624
+    }, {
+      "ticker" : "LIN",
+      "longName" : "Linde plc",
+      "lastPrice" : 443.575,
+      "lastDividend" : 1.39,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-12-16",
+      "marketCap" : 213192736768
+    }, {
+      "ticker" : "TMUS",
+      "longName" : "T-Mobile US, Inc.",
+      "lastPrice" : 180.29,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "1:2",
+      "lastSplitDate" : "2013-05-01",
+      "marketCap" : 211862372352
+    }, {
+      "ticker" : "TMO",
+      "longName" : "Thermo Fisher Scientific Inc.",
+      "lastPrice" : 549.405,
+      "lastDividend" : 0.39,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1996-06-06",
+      "marketCap" : 209716690944
+    }, {
+      "ticker" : "AMAT",
+      "longName" : "Applied Materials, Inc.",
+      "lastPrice" : 247.76,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-05-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-04-17",
+      "marketCap" : 205143212032
+    }, {
+      "ticker" : "WFC",
+      "longName" : "Wells Fargo & Company",
+      "lastPrice" : 56.35,
+      "lastDividend" : 0.35,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-08-14",
+      "marketCap" : 196454137856
+    }, {
+      "ticker" : "ACN",
+      "longName" : "Accenture plc",
+      "lastPrice" : 311.025,
+      "lastDividend" : 1.29,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 194821079040
+    }, {
+      "ticker" : "CSCO",
+      "longName" : "Cisco Systems, Inc.",
+      "lastPrice" : 47.745,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-23",
+      "marketCap" : 192335790080
+    }, {
+      "ticker" : "TXN",
+      "longName" : "Texas Instruments Incorporated",
+      "lastPrice" : 204.91,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-23",
+      "marketCap" : 186566868992
+    }, {
+      "ticker" : "MCD",
+      "longName" : "McDonald's Corporation",
+      "lastPrice" : 255.88,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-03-08",
+      "marketCap" : 184436932608
+    }, {
+      "ticker" : "DHR",
+      "longName" : "Danaher Corporation",
+      "lastPrice" : 248.015,
+      "lastDividend" : 0.27,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "1128:1000",
+      "lastSplitDate" : "2023-10-02",
+      "marketCap" : 183701487616
+    }, {
+      "ticker" : "ABT",
+      "longName" : "Abbott Laboratories",
+      "lastPrice" : 104.61,
+      "lastDividend" : 0.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "10000:4798",
+      "lastSplitDate" : "2013-01-02",
+      "marketCap" : 181982691328
+    }, {
+      "ticker" : "INTU",
+      "longName" : "Intuit Inc.",
+      "lastPrice" : 645.605,
+      "lastDividend" : 0.9,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-07",
+      "marketCap" : 180476936192
+    }, {
+      "ticker" : "AMGN",
+      "longName" : "Amgen Inc.",
+      "lastPrice" : 333.55,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-11-22",
+      "marketCap" : 178927894528
+    }, {
+      "ticker" : "DIS",
+      "longName" : "The Walt Disney Company",
+      "lastPrice" : 97.3899,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "10000:9865",
+      "lastSplitDate" : "2007-06-13",
+      "marketCap" : 177509416960
+    }, {
+      "ticker" : "GE",
+      "longName" : "GE Aerospace",
+      "lastPrice" : 160.54,
+      "lastDividend" : 0.28,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "1253:1000",
+      "lastSplitDate" : "2024-04-02",
+      "marketCap" : 175717744640
+    }, {
+      "ticker" : "VZ",
+      "longName" : "Verizon Communications Inc.",
+      "lastPrice" : 41.505,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1000000:937889",
+      "lastSplitDate" : "2010-07-02",
+      "marketCap" : 174704934912
+    }, {
+      "ticker" : "AXP",
+      "longName" : "American Express Company",
+      "lastPrice" : 239.275,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "10000:8753",
+      "lastSplitDate" : "2005-10-03",
+      "marketCap" : 172111216640
+    }, {
+      "ticker" : "MS",
+      "longName" : "Morgan Stanley",
+      "lastPrice" : 105.01,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-27",
+      "marketCap" : 170641801216
+    }, {
+      "ticker" : "IBM",
+      "longName" : "International Business Machines Corporation",
+      "lastPrice" : 183.31,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1046:1000",
+      "lastSplitDate" : "2021-11-04",
+      "marketCap" : 168407498752
+    }, {
+      "ticker" : "PM",
+      "longName" : "Philip Morris International Inc.",
+      "lastPrice" : 106.56,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-06-21",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 165653905408
+    }, {
+      "ticker" : "CAT",
+      "longName" : "Caterpillar Inc.",
+      "lastPrice" : 337.379,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-04-19",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-07-14",
+      "marketCap" : 164996202496
+    }, {
+      "ticker" : "PFE",
+      "longName" : "Pfizer Inc.",
+      "lastPrice" : 29.0299,
+      "lastDividend" : 0.42,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1054:1000",
+      "lastSplitDate" : "2020-11-17",
+      "marketCap" : 164479582208
+    }, {
+      "ticker" : "ISRG",
+      "longName" : "Intuitive Surgical, Inc.",
+      "lastPrice" : 445.99,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2021-10-05",
+      "marketCap" : 158195318784
+    }, {
+      "ticker" : "NEE",
+      "longName" : "NextEra Energy, Inc.",
+      "lastPrice" : 76.4626,
+      "lastDividend" : 0.515,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-10-27",
+      "marketCap" : 157094707200
+    }, {
+      "ticker" : "NOW",
+      "longName" : "ServiceNow, Inc.",
+      "lastPrice" : 759.49,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 155985575936
+    }, {
+      "ticker" : "GS",
+      "longName" : "The Goldman Sachs Group, Inc.",
+      "lastPrice" : 482.35,
+      "lastDividend" : 2.75,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 155540029440
+    }, {
+      "ticker" : "SPGI",
+      "longName" : "S&P Global Inc.",
+      "lastPrice" : 480.0,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-05-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-18",
+      "marketCap" : 150176366592
+    }, {
+      "ticker" : "CMCSA",
+      "longName" : "Comcast Corporation",
+      "lastPrice" : 38.225,
+      "lastDividend" : 0.31,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2017-02-21",
+      "marketCap" : 149980758016
+    }, {
+      "ticker" : "INTC",
+      "longName" : "Intel Corporation",
+      "lastPrice" : 35.0613,
+      "lastDividend" : 0.125,
+      "dividendLastDate" : "2024-05-06",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-07-31",
+      "marketCap" : 149267136512
+    }, {
+      "ticker" : "MU",
+      "longName" : "Micron Technology, Inc.",
+      "lastPrice" : 134.02,
+      "lastDividend" : 0.115,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-02",
+      "marketCap" : 148639989760
+    }, {
+      "ticker" : "LRCX",
+      "longName" : "Lam Research Corporation",
+      "lastPrice" : 1089.238,
+      "lastDividend" : 2.0,
+      "dividendLastDate" : "2024-06-18",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2000-03-17",
+      "marketCap" : 142408073216
+    }, {
+      "ticker" : "UNP",
+      "longName" : "Union Pacific Corporation",
+      "lastPrice" : 231.24,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2014-06-09",
+      "marketCap" : 141084606464
+    }, {
+      "ticker" : "HON",
+      "longName" : "Honeywell International Inc.",
+      "lastPrice" : 216.2,
+      "lastDividend" : 1.08,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "1032:1000",
+      "lastSplitDate" : "2018-10-29",
+      "marketCap" : 140786401280
+    }, {
+      "ticker" : "SCHW",
+      "longName" : "The Charles Schwab Corporation",
+      "lastPrice" : 75.48,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-05-31",
+      "marketCap" : 137990275072
+    }, {
+      "ticker" : "BKNG",
+      "longName" : "Booking Holdings Inc.",
+      "lastPrice" : 4038.67,
+      "lastDividend" : 8.75,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1:6",
+      "lastSplitDate" : "2003-06-16",
+      "marketCap" : 137021972480
+    }, {
+      "ticker" : "LOW",
+      "longName" : "Lowe's Companies, Inc.",
+      "lastPrice" : 237.06,
+      "lastDividend" : 1.1,
+      "dividendLastDate" : "2024-04-23",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-03",
+      "marketCap" : 135087939584
+    }, {
+      "ticker" : "RTX",
+      "longName" : "RTX Corporation",
+      "lastPrice" : 101.44,
+      "lastDividend" : 0.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "15890:10000",
+      "lastSplitDate" : "2020-04-03",
+      "marketCap" : 134878789632
+    }, {
+      "ticker" : "T",
+      "longName" : "AT&T Inc.",
+      "lastPrice" : 18.785,
+      "lastDividend" : 0.278,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1324:1000",
+      "lastSplitDate" : "2022-04-11",
+      "marketCap" : 134691643392
+    }, {
+      "ticker" : "ETN",
+      "longName" : "Eaton Corporation plc",
+      "lastPrice" : 332.43,
+      "lastDividend" : 0.94,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2011-03-01",
+      "marketCap" : 132936097792
+    }, {
+      "ticker" : "COP",
+      "longName" : "ConocoPhillips",
+      "lastPrice" : 113.07,
+      "lastDividend" : 0.78,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "1311791:1000000",
+      "lastSplitDate" : "2012-05-01",
+      "marketCap" : 131648536576
+    }, {
+      "ticker" : "TJX",
+      "longName" : "The TJX Companies, Inc.",
+      "lastPrice" : 115.21,
+      "lastDividend" : 0.375,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2018-11-07",
+      "marketCap" : 130204581888
+    }, {
+      "ticker" : "SYK",
+      "longName" : "Stryker Corporation",
+      "lastPrice" : 340.585,
+      "lastDividend" : 0.8,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-05-17",
+      "marketCap" : 129745854464
+    }, {
+      "ticker" : "VRTX",
+      "longName" : "Vertex Pharmaceuticals Incorporated",
+      "lastPrice" : 490.78,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-24",
+      "marketCap" : 126647246848
+    }, {
+      "ticker" : "ELV",
+      "longName" : "Elevance Health, Inc.",
+      "lastPrice" : 537.04,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-06-01",
+      "marketCap" : 124817760256
+    }, {
+      "ticker" : "PGR",
+      "longName" : "The Progressive Corporation",
+      "lastPrice" : 212.99,
+      "lastDividend" : 0.1,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2006-05-19",
+      "marketCap" : 124711714816
+    }, {
+      "ticker" : "BLK",
+      "longName" : "BlackRock, Inc.",
+      "lastPrice" : 834.66,
+      "lastDividend" : 5.1,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 124030468096
+    }, {
+      "ticker" : "C",
+      "longName" : "Citigroup Inc.",
+      "lastPrice" : 64.49,
+      "lastDividend" : 0.53,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "1:10",
+      "lastSplitDate" : "2011-05-09",
+      "marketCap" : 122972659712
+    }, {
+      "ticker" : "REGN",
+      "longName" : "Regeneron Pharmaceuticals, Inc.",
+      "lastPrice" : 1101.64,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121385304064
+    }, {
+      "ticker" : "UPS",
+      "longName" : "United Parcel Service, Inc.",
+      "lastPrice" : 141.5,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121070149632
+    }, {
+      "ticker" : "ADI",
+      "longName" : "Analog Devices, Inc.",
+      "lastPrice" : 240.935,
+      "lastDividend" : 0.92,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-16",
+      "marketCap" : 119556038656
+    }, {
+      "ticker" : "KLAC",
+      "longName" : "KLA Corporation",
+      "lastPrice" : 873.985,
+      "lastDividend" : 1.45,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-19",
+      "marketCap" : 117649104896
+    }, {
+      "ticker" : "ANET",
+      "longName" : "Arista Networks, Inc.",
+      "lastPrice" : 366.0,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2021-11-18",
+      "marketCap" : 114690859008
+    }, {
+      "ticker" : "BSX",
+      "longName" : "Boston Scientific Corporation",
+      "lastPrice" : 77.795,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-11-06",
+      "marketCap" : 114372648960
+    }, {
+      "ticker" : "PLD",
+      "longName" : "Prologis, Inc.",
+      "lastPrice" : 121.52,
+      "lastDividend" : 0.96,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 112508559360
+    }, {
+      "ticker" : "BA",
+      "longName" : "The Boeing Company",
+      "lastPrice" : 182.965,
+      "lastDividend" : 2.055,
+      "dividendLastDate" : "2020-02-13",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-06-09",
+      "marketCap" : 112316227584
+    }, {
+      "ticker" : "NKE",
+      "longName" : "NIKE, Inc.",
+      "lastPrice" : 73.73,
+      "lastDividend" : 0.37,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-12-24",
+      "marketCap" : 111285116928
+    }, {
+      "ticker" : "LMT",
+      "longName" : "Lockheed Martin Corporation",
+      "lastPrice" : 464.36,
+      "lastDividend" : 3.15,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-01-04",
+      "marketCap" : 110488887296
+    }, {
+      "ticker" : "MMC",
+      "longName" : "Marsh & McLennan Companies, Inc.",
+      "lastPrice" : 219.18,
+      "lastDividend" : 0.71,
+      "dividendLastDate" : "2024-04-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-07-01",
+      "marketCap" : 107995242496
+    }, {
+      "ticker" : "CB",
+      "longName" : "Chubb Limited",
+      "lastPrice" : 258.7989,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1998-03-03",
+      "marketCap" : 105088131072
+    }, {
+      "ticker" : "DE",
+      "longName" : "Deere & Company",
+      "lastPrice" : 367.03,
+      "lastDividend" : 1.47,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2007-12-04",
+      "marketCap" : 101142454272
+    }, {
+      "ticker" : "MDT",
+      "longName" : "Medtronic plc",
+      "lastPrice" : 78.23,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-09-27",
+      "marketCap" : 100311982080
+    }, {
+      "ticker" : "AMT",
+      "longName" : "American Tower Corporation",
+      "lastPrice" : 211.885,
+      "lastDividend" : 1.62,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 98944999424
+    }, {
+      "ticker" : "ADP",
+      "longName" : "Automatic Data Processing, Inc.",
+      "lastPrice" : 238.935,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "1139:1000",
+      "lastSplitDate" : "2014-10-01",
+      "marketCap" : 97793949696
+    }, {
+      "ticker" : "CI",
+      "longName" : "The Cigna Group",
+      "lastPrice" : 334.75,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2007-06-05",
+      "marketCap" : 95093768192
+    }, {
+      "ticker" : "SNPS",
+      "longName" : "Synopsys, Inc.",
+      "lastPrice" : 618.12,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-09-24",
+      "marketCap" : 94705876992
+    }, {
+      "ticker" : "MDLZ",
+      "longName" : "Mondelez International, Inc.",
+      "lastPrice" : 65.685,
+      "lastDividend" : 0.425,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 88107229184
+    }, {
+      "ticker" : "GILD",
+      "longName" : "Gilead Sciences, Inc.",
+      "lastPrice" : 70.47,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2013-01-28",
+      "marketCap" : 87795048448
+    }, {
+      "ticker" : "SO",
+      "longName" : "The Southern Company",
+      "lastPrice" : 80.19,
+      "lastDividend" : 0.72,
+      "dividendLastDate" : "2024-05-17",
+      "lastSplitFactor" : "10000:6109",
+      "lastSplitDate" : "2001-04-03",
+      "marketCap" : 87682154496
+    } ],
+    "indexLevel" : 0.0
+  },
+  "TopS&P500_50" : {
+    "indexName" : "TopS&P500_50",
+    "indexShares" : [ {
+      "ticker" : "AAPL",
+      "longName" : "Apple Inc.",
+      "lastPrice" : 232.17,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-08-31",
+      "marketCap" : 3559964803072
+    }, {
+      "ticker" : "MSFT",
+      "longName" : "Microsoft Corporation",
+      "lastPrice" : 455.075,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-02-18",
+      "marketCap" : 3382258434048
+    }, {
+      "ticker" : "NVDA",
+      "longName" : "NVIDIA Corporation",
+      "lastPrice" : 131.3599,
+      "lastDividend" : 0.01,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-06-10",
+      "marketCap" : 3231220498432
+    }, {
+      "ticker" : "GOOGL",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 186.0988,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2309727977472
+    }, {
+      "ticker" : "GOOG",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 187.705,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2307776577536
+    }, {
+      "ticker" : "AMZN",
+      "longName" : "Amazon.com, Inc.",
+      "lastPrice" : 195.62,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-06-06",
+      "marketCap" : 2035739000832
+    }, {
+      "ticker" : "META",
+      "longName" : "Meta Platforms, Inc.",
+      "lastPrice" : 503.28,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 1276483338240
+    }, {
+      "ticker" : "LLY",
+      "longName" : "Eli Lilly and Company",
+      "lastPrice" : 947.65,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-10-16",
+      "marketCap" : 853277802496
+    }, {
+      "ticker" : "AVGO",
+      "longName" : "Broadcom Inc.",
+      "lastPrice" : 1717.09,
+      "lastDividend" : 5.25,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 799604670464
+    }, {
+      "ticker" : "TSLA",
+      "longName" : "Tesla, Inc.",
+      "lastPrice" : 250.54,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2022-08-25",
+      "marketCap" : 799181570048
+    }, {
+      "ticker" : "JPM",
+      "longName" : "JPMorgan Chase & Co.",
+      "lastPrice" : 205.51,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-06-12",
+      "marketCap" : 590156857344
+    }, {
+      "ticker" : "WMT",
+      "longName" : "Walmart Inc.",
+      "lastPrice" : 69.675,
+      "lastDividend" : 0.208,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2024-02-26",
+      "marketCap" : 560433659904
+    }, {
+      "ticker" : "V",
+      "longName" : "Visa Inc.",
+      "lastPrice" : 266.67,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2015-03-19",
+      "marketCap" : 545633501184
+    }, {
+      "ticker" : "XOM",
+      "longName" : "Exxon Mobil Corporation",
+      "lastPrice" : 113.16,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-07-19",
+      "marketCap" : 507627864064
+    }, {
+      "ticker" : "UNH",
+      "longName" : "UnitedHealth Group Incorporated",
+      "lastPrice" : 513.3,
+      "lastDividend" : 2.1,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-31",
+      "marketCap" : 472433623040
+    }, {
+      "ticker" : "MA",
+      "longName" : "Mastercard Incorporated",
+      "lastPrice" : 441.745,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2014-01-22",
+      "marketCap" : 410652770304
+    }, {
+      "ticker" : "ORCL",
+      "longName" : "Oracle Corporation",
+      "lastPrice" : 144.43,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-10-13",
+      "marketCap" : 398028832768
+    }, {
+      "ticker" : "PG",
+      "longName" : "The Procter & Gamble Company",
+      "lastPrice" : 167.44,
+      "lastDividend" : 1.007,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-06-21",
+      "marketCap" : 395212521472
+    }, {
+      "ticker" : "COST",
+      "longName" : "Costco Wholesale Corporation",
+      "lastPrice" : 846.105,
+      "lastDividend" : 1.16,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-14",
+      "marketCap" : 375107944448
+    }, {
+      "ticker" : "JNJ",
+      "longName" : "Johnson & Johnson",
+      "lastPrice" : 150.4,
+      "lastDividend" : 1.24,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-06-13",
+      "marketCap" : 361988751360
+    }, {
+      "ticker" : "HD",
+      "longName" : "The Home Depot, Inc.",
+      "lastPrice" : 363.11,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-12-31",
+      "marketCap" : 360064942080
+    }, {
+      "ticker" : "BAC",
+      "longName" : "Bank of America Corporation",
+      "lastPrice" : 41.725,
+      "lastDividend" : 0.24,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-30",
+      "marketCap" : 326383140864
+    }, {
+      "ticker" : "MRK",
+      "longName" : "Merck & Co., Inc.",
+      "lastPrice" : 127.89,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "1048:1000",
+      "lastSplitDate" : "2021-06-03",
+      "marketCap" : 323921051648
+    }, {
+      "ticker" : "ABBV",
+      "longName" : "AbbVie Inc.",
+      "lastPrice" : 171.01,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 301981401088
+    }, {
+      "ticker" : "AMD",
+      "longName" : "Advanced Micro Devices, Inc.",
+      "lastPrice" : 185.8664,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-22",
+      "marketCap" : 300423380992
+    }, {
+      "ticker" : "CVX",
+      "longName" : "Chevron Corporation",
+      "lastPrice" : 155.4708,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-09-13",
+      "marketCap" : 284324986880
+    }, {
+      "ticker" : "NFLX",
+      "longName" : "Netflix, Inc.",
+      "lastPrice" : 653.235,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "7:1",
+      "lastSplitDate" : "2015-07-15",
+      "marketCap" : 281479610368
+    }, {
+      "ticker" : "KO",
+      "longName" : "The Coca-Cola Company",
+      "lastPrice" : 64.06,
+      "lastDividend" : 0.485,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2012-08-13",
+      "marketCap" : 275924844544
+    }, {
+      "ticker" : "ADBE",
+      "longName" : "Adobe Inc.",
+      "lastPrice" : 560.085,
+      "lastDividend" : 0.0065,
+      "dividendLastDate" : "2005-03-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-24",
+      "marketCap" : 248428167168
+    }, {
+      "ticker" : "CRM",
+      "longName" : "Salesforce, Inc.",
+      "lastPrice" : 254.49,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2013-04-18",
+      "marketCap" : 246600810496
+    }, {
+      "ticker" : "PEP",
+      "longName" : "PepsiCo, Inc.",
+      "lastPrice" : 167.145,
+      "lastDividend" : 1.355,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1996-05-29",
+      "marketCap" : 229789286400
+    }, {
+      "ticker" : "QCOM",
+      "longName" : "QUALCOMM Incorporated",
+      "lastPrice" : 205.51,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-16",
+      "marketCap" : 229349146624
+    }, {
+      "ticker" : "LIN",
+      "longName" : "Linde plc",
+      "lastPrice" : 443.575,
+      "lastDividend" : 1.39,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-12-16",
+      "marketCap" : 213192736768
+    }, {
+      "ticker" : "TMUS",
+      "longName" : "T-Mobile US, Inc.",
+      "lastPrice" : 180.29,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "1:2",
+      "lastSplitDate" : "2013-05-01",
+      "marketCap" : 211862372352
+    }, {
+      "ticker" : "TMO",
+      "longName" : "Thermo Fisher Scientific Inc.",
+      "lastPrice" : 549.405,
+      "lastDividend" : 0.39,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1996-06-06",
+      "marketCap" : 209716690944
+    }, {
+      "ticker" : "AMAT",
+      "longName" : "Applied Materials, Inc.",
+      "lastPrice" : 247.76,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-05-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-04-17",
+      "marketCap" : 205143212032
+    }, {
+      "ticker" : "WFC",
+      "longName" : "Wells Fargo & Company",
+      "lastPrice" : 56.35,
+      "lastDividend" : 0.35,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-08-14",
+      "marketCap" : 196454137856
+    }, {
+      "ticker" : "ACN",
+      "longName" : "Accenture plc",
+      "lastPrice" : 311.025,
+      "lastDividend" : 1.29,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 194821079040
+    }, {
+      "ticker" : "CSCO",
+      "longName" : "Cisco Systems, Inc.",
+      "lastPrice" : 47.745,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-23",
+      "marketCap" : 192335790080
+    }, {
+      "ticker" : "TXN",
+      "longName" : "Texas Instruments Incorporated",
+      "lastPrice" : 204.91,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-23",
+      "marketCap" : 186566868992
+    }, {
+      "ticker" : "MCD",
+      "longName" : "McDonald's Corporation",
+      "lastPrice" : 255.88,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-03-08",
+      "marketCap" : 184436932608
+    }, {
+      "ticker" : "DHR",
+      "longName" : "Danaher Corporation",
+      "lastPrice" : 248.015,
+      "lastDividend" : 0.27,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "1128:1000",
+      "lastSplitDate" : "2023-10-02",
+      "marketCap" : 183701487616
+    }, {
+      "ticker" : "ABT",
+      "longName" : "Abbott Laboratories",
+      "lastPrice" : 104.61,
+      "lastDividend" : 0.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "10000:4798",
+      "lastSplitDate" : "2013-01-02",
+      "marketCap" : 181982691328
+    }, {
+      "ticker" : "INTU",
+      "longName" : "Intuit Inc.",
+      "lastPrice" : 645.605,
+      "lastDividend" : 0.9,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-07",
+      "marketCap" : 180476936192
+    }, {
+      "ticker" : "AMGN",
+      "longName" : "Amgen Inc.",
+      "lastPrice" : 333.55,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-11-22",
+      "marketCap" : 178927894528
+    }, {
+      "ticker" : "DIS",
+      "longName" : "The Walt Disney Company",
+      "lastPrice" : 97.3899,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "10000:9865",
+      "lastSplitDate" : "2007-06-13",
+      "marketCap" : 177509416960
+    }, {
+      "ticker" : "GE",
+      "longName" : "GE Aerospace",
+      "lastPrice" : 160.54,
+      "lastDividend" : 0.28,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "1253:1000",
+      "lastSplitDate" : "2024-04-02",
+      "marketCap" : 175717744640
+    }, {
+      "ticker" : "VZ",
+      "longName" : "Verizon Communications Inc.",
+      "lastPrice" : 41.505,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1000000:937889",
+      "lastSplitDate" : "2010-07-02",
+      "marketCap" : 174704934912
+    }, {
+      "ticker" : "AXP",
+      "longName" : "American Express Company",
+      "lastPrice" : 239.275,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "10000:8753",
+      "lastSplitDate" : "2005-10-03",
+      "marketCap" : 172111216640
+    }, {
+      "ticker" : "MS",
+      "longName" : "Morgan Stanley",
+      "lastPrice" : 105.01,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-27",
+      "marketCap" : 170641801216
+    } ],
+    "indexLevel" : 0.0
+  },
+  "TopS&P500_100" : {
+    "indexName" : "TopS&P500_100",
+    "indexShares" : [ {
+      "ticker" : "AAPL",
+      "longName" : "Apple Inc.",
+      "lastPrice" : 232.17,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-08-31",
+      "marketCap" : 3559964803072
+    }, {
+      "ticker" : "MSFT",
+      "longName" : "Microsoft Corporation",
+      "lastPrice" : 455.075,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-02-18",
+      "marketCap" : 3382258434048
+    }, {
+      "ticker" : "NVDA",
+      "longName" : "NVIDIA Corporation",
+      "lastPrice" : 131.3599,
+      "lastDividend" : 0.01,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-06-10",
+      "marketCap" : 3231220498432
+    }, {
+      "ticker" : "GOOGL",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 186.0988,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2309727977472
+    }, {
+      "ticker" : "GOOG",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 187.705,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2307776577536
+    }, {
+      "ticker" : "AMZN",
+      "longName" : "Amazon.com, Inc.",
+      "lastPrice" : 195.62,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-06-06",
+      "marketCap" : 2035739000832
+    }, {
+      "ticker" : "META",
+      "longName" : "Meta Platforms, Inc.",
+      "lastPrice" : 503.28,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 1276483338240
+    }, {
+      "ticker" : "LLY",
+      "longName" : "Eli Lilly and Company",
+      "lastPrice" : 947.65,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-10-16",
+      "marketCap" : 853277802496
+    }, {
+      "ticker" : "AVGO",
+      "longName" : "Broadcom Inc.",
+      "lastPrice" : 1717.09,
+      "lastDividend" : 5.25,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 799604670464
+    }, {
+      "ticker" : "TSLA",
+      "longName" : "Tesla, Inc.",
+      "lastPrice" : 250.54,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2022-08-25",
+      "marketCap" : 799181570048
+    }, {
+      "ticker" : "JPM",
+      "longName" : "JPMorgan Chase & Co.",
+      "lastPrice" : 205.51,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-06-12",
+      "marketCap" : 590156857344
+    }, {
+      "ticker" : "WMT",
+      "longName" : "Walmart Inc.",
+      "lastPrice" : 69.675,
+      "lastDividend" : 0.208,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2024-02-26",
+      "marketCap" : 560433659904
+    }, {
+      "ticker" : "V",
+      "longName" : "Visa Inc.",
+      "lastPrice" : 266.67,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2015-03-19",
+      "marketCap" : 545633501184
+    }, {
+      "ticker" : "XOM",
+      "longName" : "Exxon Mobil Corporation",
+      "lastPrice" : 113.16,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-07-19",
+      "marketCap" : 507627864064
+    }, {
+      "ticker" : "UNH",
+      "longName" : "UnitedHealth Group Incorporated",
+      "lastPrice" : 513.3,
+      "lastDividend" : 2.1,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-31",
+      "marketCap" : 472433623040
+    }, {
+      "ticker" : "MA",
+      "longName" : "Mastercard Incorporated",
+      "lastPrice" : 441.745,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2014-01-22",
+      "marketCap" : 410652770304
+    }, {
+      "ticker" : "ORCL",
+      "longName" : "Oracle Corporation",
+      "lastPrice" : 144.43,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-10-13",
+      "marketCap" : 398028832768
+    }, {
+      "ticker" : "PG",
+      "longName" : "The Procter & Gamble Company",
+      "lastPrice" : 167.44,
+      "lastDividend" : 1.007,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-06-21",
+      "marketCap" : 395212521472
+    }, {
+      "ticker" : "COST",
+      "longName" : "Costco Wholesale Corporation",
+      "lastPrice" : 846.105,
+      "lastDividend" : 1.16,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-14",
+      "marketCap" : 375107944448
+    }, {
+      "ticker" : "JNJ",
+      "longName" : "Johnson & Johnson",
+      "lastPrice" : 150.4,
+      "lastDividend" : 1.24,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-06-13",
+      "marketCap" : 361988751360
+    }, {
+      "ticker" : "HD",
+      "longName" : "The Home Depot, Inc.",
+      "lastPrice" : 363.11,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-12-31",
+      "marketCap" : 360064942080
+    }, {
+      "ticker" : "BAC",
+      "longName" : "Bank of America Corporation",
+      "lastPrice" : 41.725,
+      "lastDividend" : 0.24,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-30",
+      "marketCap" : 326383140864
+    }, {
+      "ticker" : "MRK",
+      "longName" : "Merck & Co., Inc.",
+      "lastPrice" : 127.89,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "1048:1000",
+      "lastSplitDate" : "2021-06-03",
+      "marketCap" : 323921051648
+    }, {
+      "ticker" : "ABBV",
+      "longName" : "AbbVie Inc.",
+      "lastPrice" : 171.01,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 301981401088
+    }, {
+      "ticker" : "AMD",
+      "longName" : "Advanced Micro Devices, Inc.",
+      "lastPrice" : 185.8664,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-22",
+      "marketCap" : 300423380992
+    }, {
+      "ticker" : "CVX",
+      "longName" : "Chevron Corporation",
+      "lastPrice" : 155.4708,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-09-13",
+      "marketCap" : 284324986880
+    }, {
+      "ticker" : "NFLX",
+      "longName" : "Netflix, Inc.",
+      "lastPrice" : 653.235,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "7:1",
+      "lastSplitDate" : "2015-07-15",
+      "marketCap" : 281479610368
+    }, {
+      "ticker" : "KO",
+      "longName" : "The Coca-Cola Company",
+      "lastPrice" : 64.06,
+      "lastDividend" : 0.485,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2012-08-13",
+      "marketCap" : 275924844544
+    }, {
+      "ticker" : "ADBE",
+      "longName" : "Adobe Inc.",
+      "lastPrice" : 560.085,
+      "lastDividend" : 0.0065,
+      "dividendLastDate" : "2005-03-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-24",
+      "marketCap" : 248428167168
+    }, {
+      "ticker" : "CRM",
+      "longName" : "Salesforce, Inc.",
+      "lastPrice" : 254.49,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2013-04-18",
+      "marketCap" : 246600810496
+    }, {
+      "ticker" : "PEP",
+      "longName" : "PepsiCo, Inc.",
+      "lastPrice" : 167.145,
+      "lastDividend" : 1.355,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1996-05-29",
+      "marketCap" : 229789286400
+    }, {
+      "ticker" : "QCOM",
+      "longName" : "QUALCOMM Incorporated",
+      "lastPrice" : 205.51,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-16",
+      "marketCap" : 229349146624
+    }, {
+      "ticker" : "LIN",
+      "longName" : "Linde plc",
+      "lastPrice" : 443.575,
+      "lastDividend" : 1.39,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-12-16",
+      "marketCap" : 213192736768
+    }, {
+      "ticker" : "TMUS",
+      "longName" : "T-Mobile US, Inc.",
+      "lastPrice" : 180.29,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "1:2",
+      "lastSplitDate" : "2013-05-01",
+      "marketCap" : 211862372352
+    }, {
+      "ticker" : "TMO",
+      "longName" : "Thermo Fisher Scientific Inc.",
+      "lastPrice" : 549.405,
+      "lastDividend" : 0.39,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1996-06-06",
+      "marketCap" : 209716690944
+    }, {
+      "ticker" : "AMAT",
+      "longName" : "Applied Materials, Inc.",
+      "lastPrice" : 247.76,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-05-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-04-17",
+      "marketCap" : 205143212032
+    }, {
+      "ticker" : "WFC",
+      "longName" : "Wells Fargo & Company",
+      "lastPrice" : 56.35,
+      "lastDividend" : 0.35,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-08-14",
+      "marketCap" : 196454137856
+    }, {
+      "ticker" : "ACN",
+      "longName" : "Accenture plc",
+      "lastPrice" : 311.025,
+      "lastDividend" : 1.29,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 194821079040
+    }, {
+      "ticker" : "CSCO",
+      "longName" : "Cisco Systems, Inc.",
+      "lastPrice" : 47.745,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-23",
+      "marketCap" : 192335790080
+    }, {
+      "ticker" : "TXN",
+      "longName" : "Texas Instruments Incorporated",
+      "lastPrice" : 204.91,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-23",
+      "marketCap" : 186566868992
+    }, {
+      "ticker" : "MCD",
+      "longName" : "McDonald's Corporation",
+      "lastPrice" : 255.88,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-03-08",
+      "marketCap" : 184436932608
+    }, {
+      "ticker" : "DHR",
+      "longName" : "Danaher Corporation",
+      "lastPrice" : 248.015,
+      "lastDividend" : 0.27,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "1128:1000",
+      "lastSplitDate" : "2023-10-02",
+      "marketCap" : 183701487616
+    }, {
+      "ticker" : "ABT",
+      "longName" : "Abbott Laboratories",
+      "lastPrice" : 104.61,
+      "lastDividend" : 0.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "10000:4798",
+      "lastSplitDate" : "2013-01-02",
+      "marketCap" : 181982691328
+    }, {
+      "ticker" : "INTU",
+      "longName" : "Intuit Inc.",
+      "lastPrice" : 645.605,
+      "lastDividend" : 0.9,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-07",
+      "marketCap" : 180476936192
+    }, {
+      "ticker" : "AMGN",
+      "longName" : "Amgen Inc.",
+      "lastPrice" : 333.55,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-11-22",
+      "marketCap" : 178927894528
+    }, {
+      "ticker" : "DIS",
+      "longName" : "The Walt Disney Company",
+      "lastPrice" : 97.3899,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "10000:9865",
+      "lastSplitDate" : "2007-06-13",
+      "marketCap" : 177509416960
+    }, {
+      "ticker" : "GE",
+      "longName" : "GE Aerospace",
+      "lastPrice" : 160.54,
+      "lastDividend" : 0.28,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "1253:1000",
+      "lastSplitDate" : "2024-04-02",
+      "marketCap" : 175717744640
+    }, {
+      "ticker" : "VZ",
+      "longName" : "Verizon Communications Inc.",
+      "lastPrice" : 41.505,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1000000:937889",
+      "lastSplitDate" : "2010-07-02",
+      "marketCap" : 174704934912
+    }, {
+      "ticker" : "AXP",
+      "longName" : "American Express Company",
+      "lastPrice" : 239.275,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "10000:8753",
+      "lastSplitDate" : "2005-10-03",
+      "marketCap" : 172111216640
+    }, {
+      "ticker" : "MS",
+      "longName" : "Morgan Stanley",
+      "lastPrice" : 105.01,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-27",
+      "marketCap" : 170641801216
+    }, {
+      "ticker" : "IBM",
+      "longName" : "International Business Machines Corporation",
+      "lastPrice" : 183.31,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1046:1000",
+      "lastSplitDate" : "2021-11-04",
+      "marketCap" : 168407498752
+    }, {
+      "ticker" : "PM",
+      "longName" : "Philip Morris International Inc.",
+      "lastPrice" : 106.56,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-06-21",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 165653905408
+    }, {
+      "ticker" : "CAT",
+      "longName" : "Caterpillar Inc.",
+      "lastPrice" : 337.379,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-04-19",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-07-14",
+      "marketCap" : 164996202496
+    }, {
+      "ticker" : "PFE",
+      "longName" : "Pfizer Inc.",
+      "lastPrice" : 29.0299,
+      "lastDividend" : 0.42,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1054:1000",
+      "lastSplitDate" : "2020-11-17",
+      "marketCap" : 164479582208
+    }, {
+      "ticker" : "ISRG",
+      "longName" : "Intuitive Surgical, Inc.",
+      "lastPrice" : 445.99,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2021-10-05",
+      "marketCap" : 158195318784
+    }, {
+      "ticker" : "NEE",
+      "longName" : "NextEra Energy, Inc.",
+      "lastPrice" : 76.4626,
+      "lastDividend" : 0.515,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-10-27",
+      "marketCap" : 157094707200
+    }, {
+      "ticker" : "NOW",
+      "longName" : "ServiceNow, Inc.",
+      "lastPrice" : 759.49,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 155985575936
+    }, {
+      "ticker" : "GS",
+      "longName" : "The Goldman Sachs Group, Inc.",
+      "lastPrice" : 482.35,
+      "lastDividend" : 2.75,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 155540029440
+    }, {
+      "ticker" : "SPGI",
+      "longName" : "S&P Global Inc.",
+      "lastPrice" : 480.0,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-05-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-18",
+      "marketCap" : 150176366592
+    }, {
+      "ticker" : "CMCSA",
+      "longName" : "Comcast Corporation",
+      "lastPrice" : 38.225,
+      "lastDividend" : 0.31,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2017-02-21",
+      "marketCap" : 149980758016
+    }, {
+      "ticker" : "INTC",
+      "longName" : "Intel Corporation",
+      "lastPrice" : 35.0613,
+      "lastDividend" : 0.125,
+      "dividendLastDate" : "2024-05-06",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-07-31",
+      "marketCap" : 149267136512
+    }, {
+      "ticker" : "MU",
+      "longName" : "Micron Technology, Inc.",
+      "lastPrice" : 134.02,
+      "lastDividend" : 0.115,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-02",
+      "marketCap" : 148639989760
+    }, {
+      "ticker" : "LRCX",
+      "longName" : "Lam Research Corporation",
+      "lastPrice" : 1089.238,
+      "lastDividend" : 2.0,
+      "dividendLastDate" : "2024-06-18",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2000-03-17",
+      "marketCap" : 142408073216
+    }, {
+      "ticker" : "UNP",
+      "longName" : "Union Pacific Corporation",
+      "lastPrice" : 231.24,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2014-06-09",
+      "marketCap" : 141084606464
+    }, {
+      "ticker" : "HON",
+      "longName" : "Honeywell International Inc.",
+      "lastPrice" : 216.2,
+      "lastDividend" : 1.08,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "1032:1000",
+      "lastSplitDate" : "2018-10-29",
+      "marketCap" : 140786401280
+    }, {
+      "ticker" : "SCHW",
+      "longName" : "The Charles Schwab Corporation",
+      "lastPrice" : 75.48,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-05-31",
+      "marketCap" : 137990275072
+    }, {
+      "ticker" : "BKNG",
+      "longName" : "Booking Holdings Inc.",
+      "lastPrice" : 4038.67,
+      "lastDividend" : 8.75,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1:6",
+      "lastSplitDate" : "2003-06-16",
+      "marketCap" : 137021972480
+    }, {
+      "ticker" : "LOW",
+      "longName" : "Lowe's Companies, Inc.",
+      "lastPrice" : 237.06,
+      "lastDividend" : 1.1,
+      "dividendLastDate" : "2024-04-23",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-03",
+      "marketCap" : 135087939584
+    }, {
+      "ticker" : "RTX",
+      "longName" : "RTX Corporation",
+      "lastPrice" : 101.44,
+      "lastDividend" : 0.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "15890:10000",
+      "lastSplitDate" : "2020-04-03",
+      "marketCap" : 134878789632
+    }, {
+      "ticker" : "T",
+      "longName" : "AT&T Inc.",
+      "lastPrice" : 18.785,
+      "lastDividend" : 0.278,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1324:1000",
+      "lastSplitDate" : "2022-04-11",
+      "marketCap" : 134691643392
+    }, {
+      "ticker" : "ETN",
+      "longName" : "Eaton Corporation plc",
+      "lastPrice" : 332.43,
+      "lastDividend" : 0.94,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2011-03-01",
+      "marketCap" : 132936097792
+    }, {
+      "ticker" : "COP",
+      "longName" : "ConocoPhillips",
+      "lastPrice" : 113.07,
+      "lastDividend" : 0.78,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "1311791:1000000",
+      "lastSplitDate" : "2012-05-01",
+      "marketCap" : 131648536576
+    }, {
+      "ticker" : "TJX",
+      "longName" : "The TJX Companies, Inc.",
+      "lastPrice" : 115.21,
+      "lastDividend" : 0.375,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2018-11-07",
+      "marketCap" : 130204581888
+    }, {
+      "ticker" : "SYK",
+      "longName" : "Stryker Corporation",
+      "lastPrice" : 340.585,
+      "lastDividend" : 0.8,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-05-17",
+      "marketCap" : 129745854464
+    }, {
+      "ticker" : "VRTX",
+      "longName" : "Vertex Pharmaceuticals Incorporated",
+      "lastPrice" : 490.78,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-24",
+      "marketCap" : 126647246848
+    }, {
+      "ticker" : "ELV",
+      "longName" : "Elevance Health, Inc.",
+      "lastPrice" : 537.04,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-06-01",
+      "marketCap" : 124817760256
+    }, {
+      "ticker" : "PGR",
+      "longName" : "The Progressive Corporation",
+      "lastPrice" : 212.99,
+      "lastDividend" : 0.1,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2006-05-19",
+      "marketCap" : 124711714816
+    }, {
+      "ticker" : "BLK",
+      "longName" : "BlackRock, Inc.",
+      "lastPrice" : 834.66,
+      "lastDividend" : 5.1,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 124030468096
+    }, {
+      "ticker" : "C",
+      "longName" : "Citigroup Inc.",
+      "lastPrice" : 64.49,
+      "lastDividend" : 0.53,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "1:10",
+      "lastSplitDate" : "2011-05-09",
+      "marketCap" : 122972659712
+    }, {
+      "ticker" : "REGN",
+      "longName" : "Regeneron Pharmaceuticals, Inc.",
+      "lastPrice" : 1101.64,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121385304064
+    }, {
+      "ticker" : "UPS",
+      "longName" : "United Parcel Service, Inc.",
+      "lastPrice" : 141.5,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121070149632
+    }, {
+      "ticker" : "ADI",
+      "longName" : "Analog Devices, Inc.",
+      "lastPrice" : 240.935,
+      "lastDividend" : 0.92,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-16",
+      "marketCap" : 119556038656
+    }, {
+      "ticker" : "KLAC",
+      "longName" : "KLA Corporation",
+      "lastPrice" : 873.985,
+      "lastDividend" : 1.45,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-19",
+      "marketCap" : 117649104896
+    }, {
+      "ticker" : "ANET",
+      "longName" : "Arista Networks, Inc.",
+      "lastPrice" : 366.0,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2021-11-18",
+      "marketCap" : 114690859008
+    }, {
+      "ticker" : "BSX",
+      "longName" : "Boston Scientific Corporation",
+      "lastPrice" : 77.795,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-11-06",
+      "marketCap" : 114372648960
+    }, {
+      "ticker" : "PLD",
+      "longName" : "Prologis, Inc.",
+      "lastPrice" : 121.52,
+      "lastDividend" : 0.96,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 112508559360
+    }, {
+      "ticker" : "BA",
+      "longName" : "The Boeing Company",
+      "lastPrice" : 182.965,
+      "lastDividend" : 2.055,
+      "dividendLastDate" : "2020-02-13",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-06-09",
+      "marketCap" : 112316227584
+    }, {
+      "ticker" : "NKE",
+      "longName" : "NIKE, Inc.",
+      "lastPrice" : 73.73,
+      "lastDividend" : 0.37,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-12-24",
+      "marketCap" : 111285116928
+    }, {
+      "ticker" : "LMT",
+      "longName" : "Lockheed Martin Corporation",
+      "lastPrice" : 464.36,
+      "lastDividend" : 3.15,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-01-04",
+      "marketCap" : 110488887296
+    }, {
+      "ticker" : "MMC",
+      "longName" : "Marsh & McLennan Companies, Inc.",
+      "lastPrice" : 219.18,
+      "lastDividend" : 0.71,
+      "dividendLastDate" : "2024-04-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-07-01",
+      "marketCap" : 107995242496
+    }, {
+      "ticker" : "CB",
+      "longName" : "Chubb Limited",
+      "lastPrice" : 258.7989,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1998-03-03",
+      "marketCap" : 105088131072
+    }, {
+      "ticker" : "DE",
+      "longName" : "Deere & Company",
+      "lastPrice" : 367.03,
+      "lastDividend" : 1.47,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2007-12-04",
+      "marketCap" : 101142454272
+    }, {
+      "ticker" : "MDT",
+      "longName" : "Medtronic plc",
+      "lastPrice" : 78.23,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-09-27",
+      "marketCap" : 100311982080
+    }, {
+      "ticker" : "AMT",
+      "longName" : "American Tower Corporation",
+      "lastPrice" : 211.885,
+      "lastDividend" : 1.62,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 98944999424
+    }, {
+      "ticker" : "ADP",
+      "longName" : "Automatic Data Processing, Inc.",
+      "lastPrice" : 238.935,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "1139:1000",
+      "lastSplitDate" : "2014-10-01",
+      "marketCap" : 97793949696
+    }, {
+      "ticker" : "CI",
+      "longName" : "The Cigna Group",
+      "lastPrice" : 334.75,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2007-06-05",
+      "marketCap" : 95093768192
+    }, {
+      "ticker" : "SNPS",
+      "longName" : "Synopsys, Inc.",
+      "lastPrice" : 618.12,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-09-24",
+      "marketCap" : 94705876992
+    }, {
+      "ticker" : "MDLZ",
+      "longName" : "Mondelez International, Inc.",
+      "lastPrice" : 65.685,
+      "lastDividend" : 0.425,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 88107229184
+    }, {
+      "ticker" : "GILD",
+      "longName" : "Gilead Sciences, Inc.",
+      "lastPrice" : 70.47,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2013-01-28",
+      "marketCap" : 87795048448
+    }, {
+      "ticker" : "SO",
+      "longName" : "The Southern Company",
+      "lastPrice" : 80.19,
+      "lastDividend" : 0.72,
+      "dividendLastDate" : "2024-05-17",
+      "lastSplitFactor" : "10000:6109",
+      "lastSplitDate" : "2001-04-03",
+      "marketCap" : 87682154496
+    } ],
+    "indexLevel" : 0.0
+  },
+  "TopS&P500_200" : {
+    "indexName" : "TopS&P500_200",
+    "indexShares" : [ {
+      "ticker" : "AVGO",
+      "longName" : "Broadcom Inc.",
+      "lastPrice" : 1700.87,
+      "lastDividend" : 0.525,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-07-15",
+      "marketCap" : 7916414304256,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "AAPL",
+      "longName" : "Apple Inc.",
+      "lastPrice" : 230.57,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-08-31",
+      "marketCap" : 3535123251200,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "MSFT",
+      "longName" : "Microsoft Corporation",
+      "lastPrice" : 453.76,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-02-18",
+      "marketCap" : 3370924113920,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "NVDA",
+      "longName" : "NVIDIA Corporation",
+      "lastPrice" : 129.17,
+      "lastDividend" : 0.01,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2024-06-10",
+      "marketCap" : 3179084513280,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "GOOG",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 186.78,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2296702828544,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "GOOGL",
+      "longName" : "Alphabet Inc.",
+      "lastPrice" : 185.05,
+      "lastDividend" : 0.2,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-07-18",
+      "marketCap" : 2296700207104,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "AMZN",
+      "longName" : "Amazon.com, Inc.",
+      "lastPrice" : 194.5,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "20:1",
+      "lastSplitDate" : "2022-06-06",
+      "marketCap" : 2023979614208,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "META",
+      "longName" : "Meta Platforms, Inc.",
+      "lastPrice" : 498.59,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 1265398710272,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "LLY",
+      "longName" : "Eli Lilly and Company",
+      "lastPrice" : 948.1,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-10-16",
+      "marketCap" : 853944107008,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "TSLA",
+      "longName" : "Tesla, Inc.",
+      "lastPrice" : 248.33,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2022-08-25",
+      "marketCap" : 791655088128,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "JPM",
+      "longName" : "JPMorgan Chase & Co.",
+      "lastPrice" : 205.07,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-06-12",
+      "marketCap" : 588520030208,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "WMT",
+      "longName" : "Walmart Inc.",
+      "lastPrice" : 69.28,
+      "lastDividend" : 0.208,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2024-02-26",
+      "marketCap" : 556934692864,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "V",
+      "longName" : "Visa Inc.",
+      "lastPrice" : 265.76,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2015-03-19",
+      "marketCap" : 543730597888,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "XOM",
+      "longName" : "Exxon Mobil Corporation",
+      "lastPrice" : 113.26,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-07-19",
+      "marketCap" : 508121284608,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "UNH",
+      "longName" : "UnitedHealth Group Incorporated",
+      "lastPrice" : 511.76,
+      "lastDividend" : 2.1,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-31",
+      "marketCap" : 470804561920,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "MA",
+      "longName" : "Mastercard Incorporated",
+      "lastPrice" : 440.04,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "10:1",
+      "lastSplitDate" : "2014-01-22",
+      "marketCap" : 409132826624,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "ORCL",
+      "longName" : "Oracle Corporation",
+      "lastPrice" : 144.77,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-10-13",
+      "marketCap" : 398965866496,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "PG",
+      "longName" : "The Procter & Gamble Company",
+      "lastPrice" : 166.62,
+      "lastDividend" : 1.007,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-06-21",
+      "marketCap" : 393222946816,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "COST",
+      "longName" : "Costco Wholesale Corporation",
+      "lastPrice" : 843.03,
+      "lastDividend" : 1.16,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-14",
+      "marketCap" : 373687091200,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "JNJ",
+      "longName" : "Johnson & Johnson",
+      "lastPrice" : 149.96,
+      "lastDividend" : 1.24,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-06-13",
+      "marketCap" : 360713224192,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "HD",
+      "longName" : "The Home Depot, Inc.",
+      "lastPrice" : 359.77,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-12-31",
+      "marketCap" : 356752949248,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "BAC",
+      "longName" : "Bank of America Corporation",
+      "lastPrice" : 41.61,
+      "lastDividend" : 0.24,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-30",
+      "marketCap" : 325249171456,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "MRK",
+      "longName" : "Merck & Co., Inc.",
+      "lastPrice" : 127.76,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "1048:1000",
+      "lastSplitDate" : "2021-06-03",
+      "marketCap" : 323591798784,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "ABBV",
+      "longName" : "AbbVie Inc.",
+      "lastPrice" : 170.39,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 300692340736,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "AMD",
+      "longName" : "Advanced Micro Devices, Inc.",
+      "lastPrice" : 181.65,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-22",
+      "marketCap" : 293538070528,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "CVX",
+      "longName" : "Chevron Corporation",
+      "lastPrice" : 155.62,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-09-13",
+      "marketCap" : 284542992384,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "NFLX",
+      "longName" : "Netflix, Inc.",
+      "lastPrice" : 647.62,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "7:1",
+      "lastSplitDate" : "2015-07-15",
+      "marketCap" : 279051468800,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "KO",
+      "longName" : "The Coca-Cola Company",
+      "lastPrice" : 63.74,
+      "lastDividend" : 0.485,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2012-08-13",
+      "marketCap" : 274417041408,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "ADBE",
+      "longName" : "Adobe Inc.",
+      "lastPrice" : 559.26,
+      "lastDividend" : 0.0065,
+      "dividendLastDate" : "2005-03-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-24",
+      "marketCap" : 247882760192,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "CRM",
+      "longName" : "Salesforce, Inc.",
+      "lastPrice" : 254.18,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-09",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2013-04-18",
+      "marketCap" : 246096936960,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "PEP",
+      "longName" : "PepsiCo, Inc.",
+      "lastPrice" : 166.36,
+      "lastDividend" : 1.355,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1996-05-29",
+      "marketCap" : 228737564672,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "QCOM",
+      "longName" : "QUALCOMM Incorporated",
+      "lastPrice" : 202.43,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-08-16",
+      "marketCap" : 225911865344,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "LIN",
+      "longName" : "Linde plc",
+      "lastPrice" : 440.84,
+      "lastDividend" : 1.39,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-12-16",
+      "marketCap" : 211851542528,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "TMUS",
+      "longName" : "T-Mobile US, Inc.",
+      "lastPrice" : 179.58,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "1:2",
+      "lastSplitDate" : "2013-05-01",
+      "marketCap" : 210981044224,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "TMO",
+      "longName" : "Thermo Fisher Scientific Inc.",
+      "lastPrice" : 548.7,
+      "lastDividend" : 0.39,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1996-06-06",
+      "marketCap" : 209214734336,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "AMAT",
+      "longName" : "Applied Materials, Inc.",
+      "lastPrice" : 243.43,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-05-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-04-17",
+      "marketCap" : 201529098240,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "WFC",
+      "longName" : "Wells Fargo & Company",
+      "lastPrice" : 56.61,
+      "lastDividend" : 0.35,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-08-14",
+      "marketCap" : 197116542976,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "ACN",
+      "longName" : "Accenture plc",
+      "lastPrice" : 310.69,
+      "lastDividend" : 1.29,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 194573664256,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "CSCO",
+      "longName" : "Cisco Systems, Inc.",
+      "lastPrice" : 47.37,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-23",
+      "marketCap" : 190885019648,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "TXN",
+      "longName" : "Texas Instruments Incorporated",
+      "lastPrice" : 201.87,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-23",
+      "marketCap" : 183798988800,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "MCD",
+      "longName" : "McDonald's Corporation",
+      "lastPrice" : 253.95,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-03-08",
+      "marketCap" : 182981148672,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "DHR",
+      "longName" : "Danaher Corporation",
+      "lastPrice" : 246.79,
+      "lastDividend" : 0.27,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "1128:1000",
+      "lastSplitDate" : "2023-10-02",
+      "marketCap" : 182727475200,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "ABT",
+      "longName" : "Abbott Laboratories",
+      "lastPrice" : 104.26,
+      "lastDividend" : 0.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "10000:4798",
+      "lastSplitDate" : "2013-01-02",
+      "marketCap" : 181304229888,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "INTU",
+      "longName" : "Intuit Inc.",
+      "lastPrice" : 641.95,
+      "lastDividend" : 0.9,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-07",
+      "marketCap" : 179455197184,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "AMGN",
+      "longName" : "Amgen Inc.",
+      "lastPrice" : 330.9,
+      "lastDividend" : 2.25,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-11-22",
+      "marketCap" : 177468784640,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "DIS",
+      "longName" : "The Walt Disney Company",
+      "lastPrice" : 97.17,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "10000:9865",
+      "lastSplitDate" : "2007-06-13",
+      "marketCap" : 177071865856,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "VZ",
+      "longName" : "Verizon Communications Inc.",
+      "lastPrice" : 41.45,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1000000:937889",
+      "lastSplitDate" : "2010-07-02",
+      "marketCap" : 174389231616,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "GE",
+      "longName" : "GE Aerospace",
+      "lastPrice" : 158.89,
+      "lastDividend" : 0.28,
+      "dividendLastDate" : "2024-07-11",
+      "lastSplitFactor" : "1253:1000",
+      "lastSplitDate" : "2024-04-02",
+      "marketCap" : 174053933056,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "AXP",
+      "longName" : "American Express Company",
+      "lastPrice" : 238.67,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "10000:8753",
+      "lastSplitDate" : "2005-10-03",
+      "marketCap" : 171647270912,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "MS",
+      "longName" : "Morgan Stanley",
+      "lastPrice" : 104.17,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-27",
+      "marketCap" : 169162899456,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "IBM",
+      "longName" : "International Business Machines Corporation",
+      "lastPrice" : 182.85,
+      "lastDividend" : 1.67,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1046:1000",
+      "lastSplitDate" : "2021-11-04",
+      "marketCap" : 167948189696,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "PM",
+      "longName" : "Philip Morris International Inc.",
+      "lastPrice" : 105.961,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-06-21",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 164705632256,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "CAT",
+      "longName" : "Caterpillar Inc.",
+      "lastPrice" : 335.53,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-04-19",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-07-14",
+      "marketCap" : 164121296896,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "PFE",
+      "longName" : "Pfizer Inc.",
+      "lastPrice" : 28.93,
+      "lastDividend" : 0.42,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "1054:1000",
+      "lastSplitDate" : "2020-11-17",
+      "marketCap" : 163877781504,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "ISRG",
+      "longName" : "Intuitive Surgical, Inc.",
+      "lastPrice" : 444.24,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2021-10-05",
+      "marketCap" : 157546217472,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "NEE",
+      "longName" : "NextEra Energy, Inc.",
+      "lastPrice" : 76.015,
+      "lastDividend" : 0.515,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2020-10-27",
+      "marketCap" : 156144287744,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "NOW",
+      "longName" : "ServiceNow, Inc.",
+      "lastPrice" : 759.19,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 155780186112,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "GS",
+      "longName" : "The Goldman Sachs Group, Inc.",
+      "lastPrice" : 480.27,
+      "lastDividend" : 2.75,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 154743554048,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "CMCSA",
+      "longName" : "Comcast Corporation",
+      "lastPrice" : 38.31,
+      "lastDividend" : 0.31,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2017-02-21",
+      "marketCap" : 150235791360,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "SPGI",
+      "longName" : "S&P Global Inc.",
+      "lastPrice" : 478.33,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-05-29",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-18",
+      "marketCap" : 149666332672,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "MU",
+      "longName" : "Micron Technology, Inc.",
+      "lastPrice" : 133.55,
+      "lastDividend" : 0.115,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-05-02",
+      "marketCap" : 148085571584,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "INTC",
+      "longName" : "Intel Corporation",
+      "lastPrice" : 34.5,
+      "lastDividend" : 0.125,
+      "dividendLastDate" : "2024-05-06",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-07-31",
+      "marketCap" : 146819448832,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "UNP",
+      "longName" : "Union Pacific Corporation",
+      "lastPrice" : 230.33,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2014-06-09",
+      "marketCap" : 140462276608,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "HON",
+      "longName" : "Honeywell International Inc.",
+      "lastPrice" : 215.18,
+      "lastDividend" : 1.08,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "1032:1000",
+      "lastSplitDate" : "2018-10-29",
+      "marketCap" : 140076613632,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "LRCX",
+      "longName" : "Lam Research Corporation",
+      "lastPrice" : 1069.82,
+      "lastDividend" : 2.0,
+      "dividendLastDate" : "2024-06-18",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2000-03-17",
+      "marketCap" : 139869323264,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "SCHW",
+      "longName" : "The Charles Schwab Corporation",
+      "lastPrice" : 75.42,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-05-31",
+      "marketCap" : 137807446016,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "BKNG",
+      "longName" : "Booking Holdings Inc.",
+      "lastPrice" : 4026.99,
+      "lastDividend" : 8.75,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1:6",
+      "lastSplitDate" : "2003-06-16",
+      "marketCap" : 136606703616,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "T",
+      "longName" : "AT&T Inc.",
+      "lastPrice" : 18.81,
+      "lastDividend" : 0.278,
+      "dividendLastDate" : "2024-07-10",
+      "lastSplitFactor" : "1324:1000",
+      "lastSplitDate" : "2022-04-11",
+      "marketCap" : 134870892544,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "RTX",
+      "longName" : "RTX Corporation",
+      "lastPrice" : 101.32,
+      "lastDividend" : 0.63,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "15890:10000",
+      "lastSplitDate" : "2020-04-03",
+      "marketCap" : 134652772352,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "LOW",
+      "longName" : "Lowe's Companies, Inc.",
+      "lastPrice" : 234.25,
+      "lastDividend" : 1.1,
+      "dividendLastDate" : "2024-04-23",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-07-03",
+      "marketCap" : 133386977280,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "ETN",
+      "longName" : "Eaton Corporation plc",
+      "lastPrice" : 330.84,
+      "lastDividend" : 0.94,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2011-03-01",
+      "marketCap" : 132156309504,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "COP",
+      "longName" : "ConocoPhillips",
+      "lastPrice" : 113.18,
+      "lastDividend" : 0.78,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "1311791:1000000",
+      "lastSplitDate" : "2012-05-01",
+      "marketCap" : 131730030592,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "SYK",
+      "longName" : "Stryker Corporation",
+      "lastPrice" : 339.62,
+      "lastDividend" : 0.8,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-05-17",
+      "marketCap" : 129283006464,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "TJX",
+      "longName" : "The TJX Companies, Inc.",
+      "lastPrice" : 114.36,
+      "lastDividend" : 0.375,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2018-11-07",
+      "marketCap" : 129176150016,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "VRTX",
+      "longName" : "Vertex Pharmaceuticals Incorporated",
+      "lastPrice" : 488.93,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-08-24",
+      "marketCap" : 126120820736,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "PGR",
+      "longName" : "The Progressive Corporation",
+      "lastPrice" : 213.41,
+      "lastDividend" : 0.1,
+      "dividendLastDate" : "2024-07-03",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2006-05-19",
+      "marketCap" : 124922552320,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "ELV",
+      "longName" : "Elevance Health, Inc.",
+      "lastPrice" : 535.56,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-06-01",
+      "marketCap" : 124469133312,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "C",
+      "longName" : "Citigroup Inc.",
+      "lastPrice" : 64.53,
+      "lastDividend" : 0.53,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "1:10",
+      "lastSplitDate" : "2011-05-09",
+      "marketCap" : 124246155264,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "BLK",
+      "longName" : "BlackRock, Inc.",
+      "lastPrice" : 828.07,
+      "lastDividend" : 5.1,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 123036336128,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "UPS",
+      "longName" : "United Parcel Service, Inc.",
+      "lastPrice" : 142.39,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121788825600,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "REGN",
+      "longName" : "Regeneron Pharmaceuticals, Inc.",
+      "lastPrice" : 1100.59,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 121210118144,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "ADI",
+      "longName" : "Analog Devices, Inc.",
+      "lastPrice" : 238.56,
+      "lastDividend" : 0.92,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-03-16",
+      "marketCap" : 118377521152,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "KLAC",
+      "longName" : "KLA Corporation",
+      "lastPrice" : 857.33,
+      "lastDividend" : 1.45,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-01-19",
+      "marketCap" : 115483418624,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "BSX",
+      "longName" : "Boston Scientific Corporation",
+      "lastPrice" : 77.7,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-11-06",
+      "marketCap" : 114218287104,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "ANET",
+      "longName" : "Arista Networks, Inc.",
+      "lastPrice" : 361.88,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2021-11-18",
+      "marketCap" : 113406066688,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "BA",
+      "longName" : "The Boeing Company",
+      "lastPrice" : 182.41,
+      "lastDividend" : 2.055,
+      "dividendLastDate" : "2020-02-13",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-06-09",
+      "marketCap" : 111917195264,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "PLD",
+      "longName" : "Prologis, Inc.",
+      "lastPrice" : 120.14,
+      "lastDividend" : 0.96,
+      "dividendLastDate" : "2024-06-17",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 111240151040,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "NKE",
+      "longName" : "NIKE, Inc.",
+      "lastPrice" : 73.44,
+      "lastDividend" : 0.37,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-12-24",
+      "marketCap" : 110817206272,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "LMT",
+      "longName" : "Lockheed Martin Corporation",
+      "lastPrice" : 463.9,
+      "lastDividend" : 3.15,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-01-04",
+      "marketCap" : 110338990080,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "MMC",
+      "longName" : "Marsh & McLennan Companies, Inc.",
+      "lastPrice" : 218.43,
+      "lastDividend" : 0.71,
+      "dividendLastDate" : "2024-04-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2002-07-01",
+      "marketCap" : 107586289664,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "CB",
+      "longName" : "Chubb Limited",
+      "lastPrice" : 258.38,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1998-03-03",
+      "marketCap" : 104901795840,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "DE",
+      "longName" : "Deere & Company",
+      "lastPrice" : 365.56,
+      "lastDividend" : 1.47,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2007-12-04",
+      "marketCap" : 100673978368,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "MDT",
+      "longName" : "Medtronic plc",
+      "lastPrice" : 77.96,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-09-27",
+      "marketCap" : 99952934912,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "AMT",
+      "longName" : "American Tower Corporation",
+      "lastPrice" : 210.61,
+      "lastDividend" : 1.62,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 98349604864,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "ADP",
+      "longName" : "Automatic Data Processing, Inc.",
+      "lastPrice" : 238.07,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "1139:1000",
+      "lastSplitDate" : "2014-10-01",
+      "marketCap" : 97419444224,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "CI",
+      "longName" : "The Cigna Group",
+      "lastPrice" : 334.88,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2007-06-05",
+      "marketCap" : 95105130496,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "SNPS",
+      "longName" : "Synopsys, Inc.",
+      "lastPrice" : 614.21,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-09-24",
+      "marketCap" : 94082285568,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "MDLZ",
+      "longName" : "Mondelez International, Inc.",
+      "lastPrice" : 65.35,
+      "lastDividend" : 0.425,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 87671291904,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "SO",
+      "longName" : "The Southern Company",
+      "lastPrice" : 80.03,
+      "lastDividend" : 0.72,
+      "dividendLastDate" : "2024-05-17",
+      "lastSplitFactor" : "10000:6109",
+      "lastSplitDate" : "2001-04-03",
+      "marketCap" : 87463460864,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "GILD",
+      "longName" : "Gilead Sciences, Inc.",
+      "lastPrice" : 69.98,
+      "lastDividend" : 0.77,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2013-01-28",
+      "marketCap" : 87159660544,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "CDNS",
+      "longName" : "Cadence Design Systems, Inc.",
+      "lastPrice" : 315.84,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1997-11-17",
+      "marketCap" : 85995773952,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "WM",
+      "longName" : "Waste Management, Inc.",
+      "lastPrice" : 213.82,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 85731491840,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "ICE",
+      "longName" : "Intercontinental Exchange, Inc.",
+      "lastPrice" : 148.42,
+      "lastDividend" : 0.45,
+      "dividendLastDate" : "2024-06-13",
+      "lastSplitFactor" : "5:1",
+      "lastSplitDate" : "2016-11-04",
+      "marketCap" : 85120016384,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "HCA",
+      "longName" : "HCA Healthcare, Inc.",
+      "lastPrice" : 324.32,
+      "lastDividend" : 0.66,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 84943953920,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "SBUX",
+      "longName" : "Starbucks Corporation",
+      "lastPrice" : 74.83,
+      "lastDividend" : 0.57,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-04-09",
+      "marketCap" : 84759945216,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "APH",
+      "longName" : "Amphenol Corporation",
+      "lastPrice" : 69.88,
+      "lastDividend" : 0.11,
+      "dividendLastDate" : "2024-06-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2024-06-12",
+      "marketCap" : 83916529664,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "BMY",
+      "longName" : "Bristol-Myers Squibb Company",
+      "lastPrice" : 40.47,
+      "lastDividend" : 0.6,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "1000000:951777",
+      "lastSplitDate" : "2001-08-07",
+      "marketCap" : 82016468992,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "MO",
+      "longName" : "Altria Group, Inc.",
+      "lastPrice" : 47.75,
+      "lastDividend" : 0.98,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1997-04-11",
+      "marketCap" : 81982480384,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "ZTS",
+      "longName" : "Zoetis Inc.",
+      "lastPrice" : 179.05,
+      "lastDividend" : 0.432,
+      "dividendLastDate" : "2024-04-18",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 81695055872,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "MCO",
+      "longName" : "Moody's Corporation",
+      "lastPrice" : 446.2,
+      "lastDividend" : 0.85,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-19",
+      "marketCap" : 81439956992,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "DUK",
+      "longName" : "Duke Energy Corporation",
+      "lastPrice" : 105.41,
+      "lastDividend" : 1.025,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "1:3",
+      "lastSplitDate" : "2012-07-03",
+      "marketCap" : 81336737792,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "SHW",
+      "longName" : "The Sherwin-Williams Company",
+      "lastPrice" : 318.46,
+      "lastDividend" : 0.715,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2021-04-01",
+      "marketCap" : 80722395136,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "CL",
+      "longName" : "Colgate-Palmolive Company",
+      "lastPrice" : 98.12,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-04-19",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2013-05-16",
+      "marketCap" : 80460652544,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "CMG",
+      "longName" : "Chipotle Mexican Grill, Inc.",
+      "lastPrice" : 57.67,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "50:1",
+      "lastSplitDate" : "2024-06-26",
+      "marketCap" : 79201091584,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "GD",
+      "longName" : "General Dynamics Corporation",
+      "lastPrice" : 284.0,
+      "lastDividend" : 1.42,
+      "dividendLastDate" : "2024-07-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-03-27",
+      "marketCap" : 77889200128,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "TT",
+      "longName" : "Trane Technologies plc",
+      "lastPrice" : 343.74,
+      "lastDividend" : 0.84,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1289:1000",
+      "lastSplitDate" : "2020-03-02",
+      "marketCap" : 77822083072,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "EQIX",
+      "longName" : "Equinix, Inc.",
+      "lastPrice" : 804.93,
+      "lastDividend" : 4.26,
+      "dividendLastDate" : "2024-05-21",
+      "lastSplitFactor" : "1:32",
+      "lastSplitDate" : "2002-12-31",
+      "marketCap" : 76383903744,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "MCK",
+      "longName" : "McKesson Corporation",
+      "lastPrice" : 577.52,
+      "lastDividend" : 0.62,
+      "dividendLastDate" : "2024-06-03",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1998-01-05",
+      "marketCap" : 74799144960,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "EOG",
+      "longName" : "EOG Resources, Inc.",
+      "lastPrice" : 128.96,
+      "lastDividend" : 0.91,
+      "dividendLastDate" : "2024-04-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2014-04-01",
+      "marketCap" : 74108977152,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "CVS",
+      "longName" : "CVS Health Corporation",
+      "lastPrice" : 59.04,
+      "lastDividend" : 0.665,
+      "dividendLastDate" : "2024-04-19",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-06-07",
+      "marketCap" : 74066829312,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "FCX",
+      "longName" : "Freeport-McMoRan Inc.",
+      "lastPrice" : 51.28,
+      "lastDividend" : 0.15,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2011-02-02",
+      "marketCap" : 73663201280,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "FDX",
+      "longName" : "FedEx Corporation",
+      "lastPrice" : 299.11,
+      "lastDividend" : 1.38,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1999-05-07",
+      "marketCap" : 73583132672,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "ITW",
+      "longName" : "Illinois Tool Works Inc.",
+      "lastPrice" : 246.03,
+      "lastDividend" : 1.4,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-05-26",
+      "marketCap" : 73385508864,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "CTAS",
+      "longName" : "Cintas Corporation",
+      "lastPrice" : 721.37,
+      "lastDividend" : 1.35,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2000-03-08",
+      "marketCap" : 73231933440,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "NXPI",
+      "longName" : "NXP Semiconductors N.V.",
+      "lastPrice" : 280.17,
+      "lastDividend" : 1.014,
+      "dividendLastDate" : "2024-06-13",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 71640096768,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "TGT",
+      "longName" : "Target Corporation",
+      "lastPrice" : 152.85,
+      "lastDividend" : 1.1,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2000-07-20",
+      "marketCap" : 70714064896,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "ECL",
+      "longName" : "Ecolab Inc.",
+      "lastPrice" : 246.17,
+      "lastDividend" : 0.57,
+      "dividendLastDate" : "2024-06-18",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2003-06-09",
+      "marketCap" : 70284484608,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "CME",
+      "longName" : "CME Group Inc.",
+      "lastPrice" : 193.39,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "5:1",
+      "lastSplitDate" : "2012-07-23",
+      "marketCap" : 69647368192,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "TDG",
+      "longName" : "TransDigm Group Incorporated",
+      "lastPrice" : 1241.25,
+      "lastDividend" : 35.0,
+      "dividendLastDate" : "2023-11-17",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 69517803520,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "MAR",
+      "longName" : "Marriott International, Inc.",
+      "lastPrice" : 242.82,
+      "lastDividend" : 0.63,
+      "dividendLastDate" : "2024-05-23",
+      "lastSplitFactor" : "1061:1000",
+      "lastSplitDate" : "2011-11-22",
+      "marketCap" : 69346164736,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "PH",
+      "longName" : "Parker-Hannifin Corporation",
+      "lastPrice" : 538.36,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2007-10-02",
+      "marketCap" : 69142208512,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "CEG",
+      "longName" : "Constellation Energy Corporation",
+      "lastPrice" : 217.14,
+      "lastDividend" : 0.353,
+      "dividendLastDate" : "2024-05-29",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 68450127872,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "PNC",
+      "longName" : "The PNC Financial Services Group, Inc.",
+      "lastPrice" : 168.61,
+      "lastDividend" : 1.55,
+      "dividendLastDate" : "2024-04-12",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1992-11-16",
+      "marketCap" : 67071205376,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "SLB",
+      "longName" : "Schlumberger Limited",
+      "lastPrice" : 46.44,
+      "lastDividend" : 0.275,
+      "dividendLastDate" : "2024-06-05",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-04-10",
+      "marketCap" : 66349961216,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "BDX",
+      "longName" : "Becton, Dickinson and Company",
+      "lastPrice" : 229.24,
+      "lastDividend" : 0.95,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "1025:1000",
+      "lastSplitDate" : "2022-04-01",
+      "marketCap" : 66214166528,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "CSX",
+      "longName" : "CSX Corporation",
+      "lastPrice" : 33.79,
+      "lastDividend" : 0.12,
+      "dividendLastDate" : "2024-05-31",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2021-06-29",
+      "marketCap" : 66057089024,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "USB",
+      "longName" : "U.S. Bancorp",
+      "lastPrice" : 42.13,
+      "lastDividend" : 0.49,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1999-04-16",
+      "marketCap" : 65695363072,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "EMR",
+      "longName" : "Emerson Electric Co.",
+      "lastPrice" : 114.59,
+      "lastDividend" : 0.525,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2006-12-12",
+      "marketCap" : 65556934656,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "MSI",
+      "longName" : "Motorola Solutions, Inc.",
+      "lastPrice" : 390.24,
+      "lastDividend" : 0.98,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "10000:40425",
+      "lastSplitDate" : "2011-01-04",
+      "marketCap" : 65073618944,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "AON",
+      "longName" : "Aon plc",
+      "lastPrice" : 298.14,
+      "lastDividend" : 0.675,
+      "dividendLastDate" : "2024-04-30",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1999-05-18",
+      "marketCap" : 64822706176,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "NOC",
+      "longName" : "Northrop Grumman Corporation",
+      "lastPrice" : 432.41,
+      "lastDividend" : 2.06,
+      "dividendLastDate" : "2024-05-24",
+      "lastSplitFactor" : "10000:9035",
+      "lastSplitDate" : "2011-03-31",
+      "marketCap" : 64032030720,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "RSG",
+      "longName" : "Republic Services, Inc.",
+      "lastPrice" : 200.26,
+      "lastDividend" : 0.535,
+      "dividendLastDate" : "2024-07-02",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2007-03-19",
+      "marketCap" : 63065133056,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "PYPL",
+      "longName" : "PayPal Holdings, Inc.",
+      "lastPrice" : 60.26,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 63045431296,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "WELL",
+      "longName" : "Welltower Inc.",
+      "lastPrice" : 104.25,
+      "lastDividend" : 0.61,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1985-09-04",
+      "marketCap" : 62302846976,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "ORLY",
+      "longName" : "O'Reilly Automotive, Inc.",
+      "lastPrice" : 1039.98,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-06-16",
+      "marketCap" : 61256339456,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "ROP",
+      "longName" : "Roper Technologies, Inc.",
+      "lastPrice" : 558.68,
+      "lastDividend" : 0.75,
+      "dividendLastDate" : "2024-07-08",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-08-29",
+      "marketCap" : 59771789312,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "CARR",
+      "longName" : "Carrier Global Corporation",
+      "lastPrice" : 66.02,
+      "lastDividend" : 0.19,
+      "dividendLastDate" : "2024-06-21",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 59466788864,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "AJG",
+      "longName" : "Arthur J. Gallagher & Co.",
+      "lastPrice" : 271.06,
+      "lastDividend" : 0.6,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2001-01-19",
+      "marketCap" : 59228758016,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "PSX",
+      "longName" : "Phillips 66",
+      "lastPrice" : 138.66,
+      "lastDividend" : 1.15,
+      "dividendLastDate" : "2024-05-17",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 58776702976,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "MPC",
+      "longName" : "Marathon Petroleum Corporation",
+      "lastPrice" : 165.51,
+      "lastDividend" : 0.825,
+      "dividendLastDate" : "2024-05-15",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-06-11",
+      "marketCap" : 58296520704,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "APD",
+      "longName" : "Air Products and Chemicals, Inc.",
+      "lastPrice" : 261.3,
+      "lastDividend" : 1.77,
+      "dividendLastDate" : "2024-07-01",
+      "lastSplitFactor" : "1081:1000",
+      "lastSplitDate" : "2016-10-03",
+      "marketCap" : 58090778624,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "MMM",
+      "longName" : "3M Company",
+      "lastPrice" : 104.08,
+      "lastDividend" : 0.7,
+      "dividendLastDate" : "2024-05-23",
+      "lastSplitFactor" : "1196:1000",
+      "lastSplitDate" : "2024-04-01",
+      "marketCap" : 57571680256,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "SPG",
+      "longName" : "Simon Property Group, Inc.",
+      "lastPrice" : 149.51,
+      "lastDividend" : 2.0,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1063:1000",
+      "lastSplitDate" : "2014-05-29",
+      "marketCap" : 56023310336,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "GM",
+      "longName" : "General Motors Company",
+      "lastPrice" : 49.03,
+      "lastDividend" : 0.12,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 55890513920,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "F",
+      "longName" : "Ford Motor Company",
+      "lastPrice" : 14.025,
+      "lastDividend" : 0.15,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "1748175:1000000",
+      "lastSplitDate" : "2000-08-03",
+      "marketCap" : 55750025216,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "HLT",
+      "longName" : "Hilton Worldwide Holdings Inc.",
+      "lastPrice" : 220.77,
+      "lastDividend" : 0.15,
+      "dividendLastDate" : "2024-05-16",
+      "lastSplitFactor" : "1000:2052",
+      "lastSplitDate" : "2017-01-04",
+      "marketCap" : 55190155264,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "EW",
+      "longName" : "Edwards Lifesciences Corporation",
+      "lastPrice" : 91.03,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2020-06-01",
+      "marketCap" : 54830571520,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "NEM",
+      "longName" : "Newmont Corporation",
+      "lastPrice" : 47.51,
+      "lastDividend" : 0.25,
+      "dividendLastDate" : "2024-06-04",
+      "lastSplitFactor" : "5:4",
+      "lastSplitDate" : "1994-04-22",
+      "marketCap" : 54785679360,
+      "stockNumber" : 0.0,
+      "sector" : "Basic_Materials"
+    }, {
+      "ticker" : "ADSK",
+      "longName" : "Autodesk, Inc.",
+      "lastPrice" : 253.55,
+      "lastDividend" : 0.015,
+      "dividendLastDate" : "2005-03-22",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2004-12-21",
+      "marketCap" : 54620753920,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "OXY",
+      "longName" : "Occidental Petroleum Corporation",
+      "lastPrice" : 61.23,
+      "lastDividend" : 0.22,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "10000:9983",
+      "lastSplitDate" : "2016-02-25",
+      "marketCap" : 54262185984,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "TFC",
+      "longName" : "Truist Financial Corporation",
+      "lastPrice" : 40.54,
+      "lastDividend" : 0.52,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1998-08-04",
+      "marketCap" : 54206427136,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "PCAR",
+      "longName" : "PACCAR Inc",
+      "lastPrice" : 103.11,
+      "lastDividend" : 0.3,
+      "dividendLastDate" : "2024-05-14",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "2023-02-08",
+      "marketCap" : 54044590080,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "CPRT",
+      "longName" : "Copart, Inc.",
+      "lastPrice" : 55.55,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2023-08-22",
+      "marketCap" : 53446029312,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "PSA",
+      "longName" : "Public Storage",
+      "lastPrice" : 302.83,
+      "lastDividend" : 3.0,
+      "dividendLastDate" : "2024-06-12",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 53179654144,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "COF",
+      "longName" : "Capital One Financial Corporation",
+      "lastPrice" : 138.4,
+      "lastDividend" : 0.6,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1999-06-02",
+      "marketCap" : 52861825024,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "AFL",
+      "longName" : "Aflac Incorporated",
+      "lastPrice" : 92.68,
+      "lastDividend" : 0.5,
+      "dividendLastDate" : "2024-05-21",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2018-03-19",
+      "marketCap" : 52640088064,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "DLR",
+      "longName" : "Digital Realty Trust, Inc.",
+      "lastPrice" : 158.36,
+      "lastDividend" : 1.22,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 52428099584,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "WMB",
+      "longName" : "The Williams Companies, Inc.",
+      "lastPrice" : 42.99,
+      "lastDividend" : 0.475,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "10000:8152",
+      "lastSplitDate" : "2012-01-03",
+      "marketCap" : 52381872128,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "MET",
+      "longName" : "MetLife, Inc.",
+      "lastPrice" : 73.39,
+      "lastDividend" : 0.545,
+      "dividendLastDate" : "2024-05-06",
+      "lastSplitFactor" : "1122:1000",
+      "lastSplitDate" : "2017-08-07",
+      "marketCap" : 52189319168,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "AIG",
+      "longName" : "American International Group, Inc.",
+      "lastPrice" : 77.21,
+      "lastDividend" : 0.4,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "1:20",
+      "lastSplitDate" : "2009-07-01",
+      "marketCap" : 51195346944,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "DHI",
+      "longName" : "D.R. Horton, Inc.",
+      "lastPrice" : 153.775,
+      "lastDividend" : 0.3,
+      "dividendLastDate" : "2024-05-01",
+      "lastSplitFactor" : "4:3",
+      "lastSplitDate" : "2005-03-17",
+      "marketCap" : 50628427776,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "ROST",
+      "longName" : "Ross Stores, Inc.",
+      "lastPrice" : 151.85,
+      "lastDividend" : 0.368,
+      "dividendLastDate" : "2024-06-11",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2015-06-12",
+      "marketCap" : 50613334016,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "MNST",
+      "longName" : "Monster Beverage Corporation",
+      "lastPrice" : 50.82,
+      "lastDividend" : 0.005208,
+      "dividendLastDate" : "1990-11-08",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2023-03-28",
+      "marketCap" : 50089562112,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "NSC",
+      "longName" : "Norfolk Southern Corporation",
+      "lastPrice" : 221.45,
+      "lastDividend" : 1.35,
+      "dividendLastDate" : "2024-05-02",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "1997-10-10",
+      "marketCap" : 50006065152,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "AZO",
+      "longName" : "AutoZone, Inc.",
+      "lastPrice" : 2922.385,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1994-04-21",
+      "marketCap" : 49895956480,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Cyclical"
+    }, {
+      "ticker" : "MCHP",
+      "longName" : "Microchip Technology Incorporated",
+      "lastPrice" : 92.61,
+      "lastDividend" : 0.452,
+      "dividendLastDate" : "2024-05-21",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2021-10-13",
+      "marketCap" : 49685729280,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "OKE",
+      "longName" : "ONEOK, Inc.",
+      "lastPrice" : 84.67,
+      "lastDividend" : 0.99,
+      "dividendLastDate" : "2024-04-30",
+      "lastSplitFactor" : "11422:10000",
+      "lastSplitDate" : "2014-02-03",
+      "marketCap" : 49411555328,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "SRE",
+      "longName" : "Sempra",
+      "lastPrice" : 77.1,
+      "lastDividend" : 0.62,
+      "dividendLastDate" : "2024-06-27",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2023-08-22",
+      "marketCap" : 48760786944,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "VLO",
+      "longName" : "Valero Energy Corporation",
+      "lastPrice" : 147.85,
+      "lastDividend" : 1.07,
+      "dividendLastDate" : "2024-05-30",
+      "lastSplitFactor" : "1094:1000",
+      "lastSplitDate" : "2013-05-02",
+      "marketCap" : 48732835840,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "O",
+      "longName" : "Realty Income Corporation",
+      "lastPrice" : 55.75,
+      "lastDividend" : 0.263,
+      "dividendLastDate" : "2024-07-01",
+      "lastSplitFactor" : "1032:1000",
+      "lastSplitDate" : "2021-11-15",
+      "marketCap" : 48545652736,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "TRV",
+      "longName" : "The Travelers Companies, Inc.",
+      "lastPrice" : 211.73,
+      "lastDividend" : 1.05,
+      "dividendLastDate" : "2024-06-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1998-05-12",
+      "marketCap" : 48454918144,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "BK",
+      "longName" : "The Bank of New York Mellon Corporation",
+      "lastPrice" : 64.7,
+      "lastDividend" : 0.42,
+      "dividendLastDate" : "2024-04-25",
+      "lastSplitFactor" : "9434:10000",
+      "lastSplitDate" : "2007-07-02",
+      "marketCap" : 48376217600,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "AEP",
+      "longName" : "American Electric Power Company, Inc.",
+      "lastPrice" : 91.0,
+      "lastDividend" : 0.88,
+      "dividendLastDate" : "2024-05-09",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 47947014144,
+      "stockNumber" : 0.0,
+      "sector" : "Utilities"
+    }, {
+      "ticker" : "TEL",
+      "longName" : "TE Connectivity Ltd.",
+      "lastPrice" : 155.81,
+      "lastDividend" : 0.65,
+      "dividendLastDate" : "2024-05-23",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 47713382400,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "KMB",
+      "longName" : "Kimberly-Clark Corporation",
+      "lastPrice" : 141.56,
+      "lastDividend" : 1.22,
+      "dividendLastDate" : "2024-06-07",
+      "lastSplitFactor" : "1043:1000",
+      "lastSplitDate" : "2014-11-03",
+      "marketCap" : 47654424576,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "STZ",
+      "longName" : "Constellation Brands, Inc.",
+      "lastPrice" : 259.99,
+      "lastDividend" : 1.01,
+      "dividendLastDate" : "2024-05-02",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "2005-05-16",
+      "marketCap" : 47350636544,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    }, {
+      "ticker" : "JCI",
+      "longName" : "Johnson Controls International plc",
+      "lastPrice" : 70.0,
+      "lastDividend" : 0.37,
+      "dividendLastDate" : "2024-06-24",
+      "lastSplitFactor" : "955:1000",
+      "lastSplitDate" : "2016-09-06",
+      "marketCap" : 47143849984,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "MRNA",
+      "longName" : "Moderna, Inc.",
+      "lastPrice" : 121.44,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 46548328448,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "HUM",
+      "longName" : "Humana Inc.",
+      "lastPrice" : 382.04,
+      "lastDividend" : 0.885,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "3:2",
+      "lastSplitDate" : "1991-08-01",
+      "marketCap" : 46057893888,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "HES",
+      "longName" : "Hess Corporation",
+      "lastPrice" : 148.48,
+      "lastDividend" : 0.438,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "3:1",
+      "lastSplitDate" : "2006-06-01",
+      "marketCap" : 45717659648,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "URI",
+      "longName" : "United Rentals, Inc.",
+      "lastPrice" : 679.69,
+      "lastDividend" : 1.63,
+      "dividendLastDate" : "2024-05-07",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 45647597568,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "FTNT",
+      "longName" : "Fortinet, Inc.",
+      "lastPrice" : 59.56,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "5:1",
+      "lastSplitDate" : "2022-06-23",
+      "marketCap" : 45492506624,
+      "stockNumber" : 0.0,
+      "sector" : "Technology"
+    }, {
+      "ticker" : "DXCM",
+      "longName" : "DexCom, Inc.",
+      "lastPrice" : 114.09,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "4:1",
+      "lastSplitDate" : "2022-06-13",
+      "marketCap" : 45359837184,
+      "stockNumber" : 0.0,
+      "sector" : "Healthcare"
+    }, {
+      "ticker" : "GWW",
+      "longName" : "W.W. Grainger, Inc.",
+      "lastPrice" : 919.63,
+      "lastDividend" : 2.05,
+      "dividendLastDate" : "2024-05-10",
+      "lastSplitFactor" : "2:1",
+      "lastSplitDate" : "1998-06-15",
+      "marketCap" : 45126881280,
+      "stockNumber" : 0.0,
+      "sector" : "Industrials"
+    }, {
+      "ticker" : "CCI",
+      "longName" : "Crown Castle Inc.",
+      "lastPrice" : 103.59,
+      "lastDividend" : 1.565,
+      "dividendLastDate" : "2024-06-14",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44994859008,
+      "stockNumber" : 0.0,
+      "sector" : "Real_Estate"
+    }, {
+      "ticker" : "KMI",
+      "longName" : "Kinder Morgan, Inc.",
+      "lastPrice" : 20.19,
+      "lastDividend" : 0.288,
+      "dividendLastDate" : "2024-04-29",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44809281536,
+      "stockNumber" : 0.0,
+      "sector" : "Energy"
+    }, {
+      "ticker" : "CHTR",
+      "longName" : "Charter Communications, Inc.",
+      "lastPrice" : 311.04,
+      "lastDividend" : 0.0,
+      "dividendLastDate" : "",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44799090688,
+      "stockNumber" : 0.0,
+      "sector" : "Communication_Services"
+    }, {
+      "ticker" : "AMP",
+      "longName" : "Ameriprise Financial, Inc.",
+      "lastPrice" : 446.52,
+      "lastDividend" : 1.48,
+      "dividendLastDate" : "2024-05-03",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44325720064,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "PRU",
+      "longName" : "Prudential Financial, Inc.",
+      "lastPrice" : 123.34,
+      "lastDividend" : 1.3,
+      "dividendLastDate" : "2024-05-20",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44263297024,
+      "stockNumber" : 0.0,
+      "sector" : "Financial_Services"
+    }, {
+      "ticker" : "KDP",
+      "longName" : "Keurig Dr Pepper Inc.",
+      "lastPrice" : 32.64,
+      "lastDividend" : 0.215,
+      "dividendLastDate" : "2024-06-28",
+      "lastSplitFactor" : "0",
+      "lastSplitDate" : "",
+      "marketCap" : 44218691584,
+      "stockNumber" : 0.0,
+      "sector" : "Consumer_Defensive"
+    } ],
+    "indexLevel" : 0.0
+  }
+}

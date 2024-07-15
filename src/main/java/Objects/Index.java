@@ -7,6 +7,7 @@ public class Index {
 	private String indexName;
 	private ArrayList <Stock> indexShares;
 	private float indexLevel;
+	private long indexTotalValue;
 	
 	public Index () {
 	}
@@ -33,5 +34,13 @@ public class Index {
 
 	public void setIndexLevel(float indexLevel) {
 		this.indexLevel = indexLevel;
+	}
+
+	public long getIndexTotalValue() {
+		return indexTotalValue;
+	}
+
+	public void setIndexTotalValue(long indexTotalValue) {
+		this.indexTotalValue = indexTotalValue;
 	}
 }

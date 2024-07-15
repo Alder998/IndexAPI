@@ -7,6 +7,8 @@ import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -30,12 +32,22 @@ public class RestService {
     }
     
     @GetMapping("/api/createIndex")
-    public Index createIndex(int stockNumber, String stockPickingMethod) throws Exception {
-        return apiController.createIndex(stockNumber, stockPickingMethod);
+    public Index createIndex(int stockNumber, String stockPickingMethod, long indexTotalValue) throws Exception {
+        return apiController.createIndex(stockNumber, stockPickingMethod, indexTotalValue);
     }
     
     @GetMapping("/api/deleteIndex")
     public void deleteIndex(String indexName) throws Exception {
         apiController.deleteIndex(indexName);
+    }
+    
+    @PostMapping("/api/addStockToIndex")
+    public void addStockToIndex(@RequestBody Stock stockToAdd, @RequestParam String indexName) throws Exception {
+    	apiController.addStockToIndex(stockToAdd, indexName);
+    }
+    
+    @PostMapping("/api/deleteStockFromIndex")
+    public void deleteStockFromIndex(@RequestBody Stock stockToDelete, @RequestParam String indexName) throws Exception {
+    	apiController.deleteStockFromIndex(stockToDelete, indexName);
     }
 }

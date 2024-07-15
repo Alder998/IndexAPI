@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import Objects.Index;
 import Objects.Stock;
@@ -35,9 +37,9 @@ public class APIController {
     }
     
     // API Create Index
-    public Index createIndex(int stockNumber, String stockPickingMethod) {
+    public Index createIndex(int stockNumber, String stockPickingMethod, long indexTotalValue) {
         try {
-            return data.createIndex(stockNumber, stockPickingMethod);
+            return data.createIndex(stockNumber, stockPickingMethod, indexTotalValue);
         } catch (Exception e) {
             e.printStackTrace();
             return null;
@@ -48,6 +50,24 @@ public class APIController {
     public void deleteIndex(String indexName) {
         try {
             data.deleteIndex(indexName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    
+    // API Add Stock to existing Index
+    public void addStockToIndex(@RequestBody Stock stockToAdd, @RequestParam String indexName) {
+        try {
+            data.addStockToIndex(stockToAdd, indexName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    
+    // API Add Stock to existing Index
+    public void deleteStockFromIndex(@RequestBody Stock stockToDelete, @RequestParam String indexName) {
+        try {
+            data.deleteStockFromIndex(stockToDelete, indexName);
         } catch (Exception e) {
             e.printStackTrace();
         }

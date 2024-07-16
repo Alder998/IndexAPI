@@ -50,4 +50,9 @@ public class RestService {
     public void deleteStockFromIndex(@RequestBody Stock stockToDelete, @RequestParam String indexName) throws Exception {
     	apiController.deleteStockFromIndex(stockToDelete, indexName);
     }
+    
+    @GetMapping("/api/indexesStateAll")
+    public void computeAllIndexLevel() throws Exception {
+    	apiController.computeAllIndexLevel();
+    }
 }

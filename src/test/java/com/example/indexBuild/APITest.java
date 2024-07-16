@@ -50,8 +50,8 @@ class APITest {
 //       								 	   .param("stockPickingMethod", "LowS&P500")
 //       								 	   .param("indexTotalValue", String.valueOf(10000)))
 //               .andExpect(MockMvcResultMatchers.status().isOk());
-//   }
-//    
+//    }
+    
 //    @Test
 //    public void deleteIndex() throws Exception {
 //        mockMvc.perform(get("/api/deleteIndex").param("indexName", "TopS&P500_200"))
@@ -85,23 +85,10 @@ class APITest {
 // 
 //    }
     
+
     @Test
-    public void deleteStockFromIndex() throws Exception {
-        // Create Stock with the desired Values
-    	
-    	Stock stockToDelete = data.getStockFromJsonDataByIndexName("AMZN");
-        // get the Index Name
-        String indexName = "LowS&P500_75";
-
-        // Convert the Object just created in JSON
-        ObjectMapper objectMapper = new ObjectMapper();
-        String stockToDeleteJson = objectMapper.writeValueAsString(stockToDelete);
-
-        // Test the API call
-        mockMvc.perform(post("/api/deleteStockFromIndex")
-                .param("indexName", indexName)
-                .contentType(MediaType.APPLICATION_JSON)
-                .content(stockToDeleteJson))
+    public void computeAllIndexLevel() throws Exception {
+        mockMvc.perform(get("/api/indexesStateAll"))
                 .andExpect(MockMvcResultMatchers.status().isOk());
     }
 }

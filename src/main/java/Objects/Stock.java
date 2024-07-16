@@ -11,15 +11,9 @@ public class Stock {
 	private String longName;
 	private float lastPrice;  // price cannot be null
 	private float lastDividend;
-	
-    @JsonDeserialize(using = DataUtils.OffsetDateTimeDeserializer.class)
 	private String dividendLastDate;
-    
 	private String lastSplitFactor;
-	
-    @JsonDeserialize(using = DataUtils.OffsetDateTimeDeserializer.class)
 	private String lastSplitDate;
-    
 	private long marketCap;
 	private float stockNumber;
 	private String sector;

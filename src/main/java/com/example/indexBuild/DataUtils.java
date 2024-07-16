@@ -7,15 +7,21 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.OffsetDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.nio.file.Path;
 
 import com.fasterxml.jackson.core.JsonParser;
-import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonDeserializer;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.node.ObjectNode;
+
+import Objects.Index;
 
 public class DataUtils {
 	
@@ -55,16 +61,42 @@ public class DataUtils {
         mapper.writeValue(jsonFile, rootNode);
     }
     
-    // class to convert from String to OffsetDatetime
-    public class OffsetDateTimeDeserializer extends JsonDeserializer<OffsetDateTime> {
 
-        private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+    public static void createIndexSeries(ArrayList<Index> indexes) {
+        // Date Formatter for offsetDatetime.now()
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
+        String dateString = OffsetDateTime.now().format(formatter);
+        // New JSON Map
+        Map<String, Map<String, Float>> newData = new HashMap<String, Map<String, Float>>();;
+        Map<String, Float> singleIndexMap = new HashMap<String, Float>();
+        for (Index index : indexes) {
+            singleIndexMap.put(index.getIndexName(), index.getIndexLevel());
+        }
+        newData.put(dateString, singleIndexMap);
 
-        @Override
-        public OffsetDateTime deserialize(JsonParser p, DeserializationContext ctxt)
-                throws IOException, JsonProcessingException {
-            String dateString = p.getText();
-            return OffsetDateTime.parse(dateString, formatter);
+        // JSON file path
+        Path path = Paths.get("src/main/resources/IndexSeries.json");
+        try {
+            // Read JSON File (if exists)
+            Map<String, Map<String, Float>> existingData = new HashMap<String, Map<String, Float>>();
+            if (Files.exists(path)) {
+                ObjectMapper mapper = new ObjectMapper();
+                existingData = mapper.readValue(new File(path.toString()), new TypeReference<Map<String, Map<String, Float>>>() {});
+            }
+
+            // Add the new data
+            existingData.putAll(newData);
+            // Convert to JSON
+            ObjectMapper mapper = new ObjectMapper();
+            mapper.enable(SerializationFeature.INDENT_OUTPUT);
+            String jsonString = mapper.writeValueAsString(existingData);
+
+            // Create Directories
+            Files.createDirectories(path.getParent());
+            Files.write(path, jsonString.getBytes());
+            
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 	

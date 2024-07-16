@@ -2,6 +2,7 @@ package com.example.indexBuild;
 
 import java.io.InputStream;
 import java.time.OffsetDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
@@ -16,10 +17,49 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import Objects.Index;
+import Objects.IndexOperations;
 import Objects.Stock;
 
 @Component
 public class DataClass {
+	
+	// custom Messages service
+	public class IndexNotFoundException extends Exception {
+	    public IndexNotFoundException(String message) {
+	        super(message);
+	    }
+	}
+	
+	public class StockNotFoundException extends Exception {
+	    public StockNotFoundException(String message) {
+	        super(message);
+	    }
+	}
+	
+	public class IndexAlreadyExistsException extends Exception {
+	    public IndexAlreadyExistsException(String message) {
+	        super(message);
+	    }
+	}
+	
+	
+	public class StockAlreadyExistsException extends Exception {
+	    public StockAlreadyExistsException(String message) {
+	        super(message);
+	    }
+	}
+	
+	public class ValidationException extends Exception {
+	    public ValidationException(String message) {
+	        super(message);
+	    }
+	}
+	
+	public class TwoMembersException extends Exception {
+	    public TwoMembersException(String message) {
+	        super(message);
+	    }
+	}
 
 	// Here we are storing the methods to Complete the requested Tasks. Therefore, the create update and Calculate Methods for indexes
 
@@ -84,7 +124,7 @@ public class DataClass {
 			 return filteredIndex;
 		 }
 		 else {
-	         throw new Exception("ERROR: The Index:" + indexName + " has not been found!");
+	         throw new IndexNotFoundException("ERROR: The Index:" + indexName + " has not been found!");
 		 }
 	}
 	
@@ -103,7 +143,7 @@ public class DataClass {
 			 return filteredStock;
 		 }
 		 else {
-	         throw new Exception("ERROR: The Index:" + stockName + " has not been found!");
+	         throw new IndexNotFoundException("ERROR: The Index:" + stockName + " has not been found!");
 		 }
 	}
 	
@@ -159,7 +199,7 @@ public class DataClass {
 		// Any index must have at least two members, so if the total value is low, it could happen that the stock present in the
 		// Index would be less than two
 		if (selectedStocks.size() <= 2) {
-			throw new Exception("ERROR: the number of stocks in the index is less than two!");
+			throw new TwoMembersException ("ERROR: the number of stocks in the index is less than two!");
 		}
 		
 		// Add stocks to index and set index parameters
@@ -175,7 +215,7 @@ public class DataClass {
 		// Check the presence of the index created now among the existing Indexes
 		for (Index index : existingIndexes) {
 			if (index.getIndexName().equals(indexName)) {
-				throw new Exception("ERROR Index " + indexName + " already Existing!");
+				throw new IndexAlreadyExistsException ("ERROR Index " + indexName + " already Existing!");
 			}
 		}
         // Convert newIndex to JSON string
@@ -201,7 +241,7 @@ public class DataClass {
 	}
 	
 	// Method to add a Stock to one given index and keep the uniformity of the stock quantity
-	public void addStockToIndex (Stock stockToAdd, String indexName) throws Exception {
+	public IndexOperations addStockToIndex (Stock stockToAdd, String indexName) throws Exception {
 		
 		// Take the index using the indexName
 		Index index = this.getIndexFromJsonDataByIndexName(indexName);
@@ -211,7 +251,7 @@ public class DataClass {
 		for (Stock stock : index.getIndexShares()) {
 			// Check presence of the stock in the index
 			if (stock.getTicker().equals(stockToAdd.getTicker())) {
-				throw new Exception("ERROR Stock " + stockToAdd.getTicker() + " already Present in Index:" + indexName);
+				throw new StockAlreadyExistsException("ERROR Stock " + stockToAdd.getTicker() + " already Present in Index:" + indexName);
 			}
 		}
 		// Add the stock to the Index
@@ -229,19 +269,29 @@ public class DataClass {
         String jsonString = mapper.writeValueAsString(updatedIndex);
         // Save jsonString to Indexes.json file
         DataUtils.updateJSONFile(indexName, jsonString, "create");
-		
+        
+        // configure the response with the Object IndexOperations
+        IndexOperations operationResponse = new IndexOperations();
+        operationResponse.setOperation("Stock-Addiction");
+        ArrayList<Stock> stockResponse = new ArrayList<Stock>();        
+        Stock response = updatedIndex.getIndexShares().stream().filter(x -> x.getTicker() == stockToAdd.getTicker()).findFirst().orElse(null);
+        stockResponse.add(response);
+        operationResponse.setSharesAffected(stockResponse);
+        operationResponse.setIndexName(indexName);
+        
+        return operationResponse;
 	}
 	
 	// Method to remove a Stock from Index
 	
-	public void deleteStockFromIndex (Stock stockToDelete, String indexName) throws Exception {
+	public IndexOperations deleteStockFromIndex (Stock stockToDelete, String indexName) throws Exception {
 		Index updatedIndex = new Index();
 		// Take the index using the indexName
 		Index selectedIndex = this.getIndexFromJsonDataByIndexName(indexName);
 		ArrayList<Stock> updatedShares = selectedIndex.getIndexShares().stream().filter(x -> !x.getTicker().equals(stockToDelete.getTicker())).collect(Collectors.toCollection(ArrayList::new));
 		
 		if (updatedShares.size()==selectedIndex.getIndexShares().size()) {
-			throw new Exception("ERROR Stock " + stockToDelete.getTicker() + " Not Present in Index:" + indexName);
+			throw new StockNotFoundException("ERROR Stock " + stockToDelete.getTicker() + " Not Present in Index:" + indexName);
 		}
 		
 		// Set the other Index Parameters
@@ -254,15 +304,149 @@ public class DataClass {
         String jsonString = mapper.writeValueAsString(updatedIndex);
         // Save jsonString to Indexes.json file
         DataUtils.updateJSONFile(indexName, jsonString, "create");
+        
+        // configure the response with the Object IndexOperations
+        IndexOperations operationResponse = new IndexOperations();
+        operationResponse.setOperation("Stock-Deletion");
+        ArrayList<Stock> stockResponse = new ArrayList<Stock>();        
+        Stock response = updatedIndex.getIndexShares().stream().filter(x -> x.getTicker() == stockToDelete.getTicker()).findFirst().orElse(null);
+        stockResponse.add(response);
+        operationResponse.setSharesAffected(stockResponse);
+        operationResponse.setIndexName(indexName);
+        
+        return operationResponse;
 	}
 	
-	public void adjustIndexForDividend () throws Exception {
+	public IndexOperations adjustIndexForDividend (String indexName) throws Exception {
 		
-		// get all the stocks and check who gave dividends
-		ArrayList<Stock> dividendStocks = this.getStocksFromJsonData().stream().filter(x -> x.getDividendLastDate().equals(OffsetDateTime.now())).collect(Collectors.toCollection(ArrayList::new));;
+		// get the index
+		Index selectedIndex = this.getIndexFromJsonDataByIndexName(indexName);
 		
-		// get all the Indexes
+		// get all the stocks in the index and check who gave dividends
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+        String dateString = OffsetDateTime.now().format(formatter);
+		ArrayList<Stock> dividendStocks = selectedIndex.getIndexShares().stream().filter(x -> x.getDividendLastDate().equals(dateString)).collect(Collectors.toCollection(ArrayList::new));;
+		
+		// Suppose we have a total Return index, and therefore, the dividend would be reinvested in the Index itself. The dividend value needs to be added to the index Total Budget
+		double totalDividends = 0.0;
+		for (Stock stock : dividendStocks) {
+			float dividendValue = stock.getLastDividend() * stock.getStockNumber();
+			totalDividends += dividendValue;
+		}
+		long newIndexTotalValue = (long) (selectedIndex.getIndexTotalValue() + totalDividends);
+		
+		// Update the index
+		selectedIndex.setIndexTotalValue(newIndexTotalValue);
+		// Update the weights to the new Total Value
+		ArrayList<Stock> newComposition = this.createStockQuantitiesForIndex(selectedIndex.getIndexShares(), newIndexTotalValue);
+		selectedIndex.setIndexShares(newComposition);
+		
+		// save the updated Index to JSON
+		ObjectMapper mapper = new ObjectMapper();
+        String jsonString = mapper.writeValueAsString(selectedIndex);
+        // Save jsonString to Indexes.json file
+        DataUtils.updateJSONFile(indexName, jsonString, "create");
+        
+        // configure the response with the Object IndexOperations
+        
+        // get the precise stock with the Updated Values
+        ArrayList<Stock> responseStock = new ArrayList<Stock>();
+        for (Stock singleDividendStock : dividendStocks) {
+            Stock response = selectedIndex.getIndexShares().stream().filter(x -> x.getTicker() == singleDividendStock.getTicker()).findFirst().orElse(null);
+            responseStock.add(response);
+            }
+        IndexOperations operationResponse = new IndexOperations();
+        operationResponse.setOperation("Share-Dividend");
+        operationResponse.setSharesAffected(responseStock);
+        operationResponse.setIndexName(indexName);
+        
+        return operationResponse;
+	}
+	
+	public Index computeIndexLevelByIndexName (String indexName) throws Exception {
+		
+		// get the target Index
+		Index selectedIndex = this.getIndexFromJsonDataByIndexName(indexName);
+
+		// if the level has not been computed, compute it keeping the base level as 100 for simplicity)
+		// Sum all the stock last Prices multiplied for the relative values
+		float indexRawValue = 0;
+		for (Stock stock : selectedIndex.getIndexShares()) {
+			indexRawValue += stock.getLastPrice();
+		}
+		// if it has never been computed, compute the divisor
+		float indexValue = 0;
+		if (selectedIndex.getIndexLevel() == 0) {
+			float firstDivisor = indexRawValue / 100;
+			selectedIndex.setIndexDivisor(firstDivisor);
+			indexValue = indexRawValue / firstDivisor;
+		}
+		else {
+			indexValue = indexRawValue / selectedIndex.getIndexDivisor();
+		}
+	
+		selectedIndex.setIndexLevel(indexValue);
+		
+		// save the updated Index to JSON
+		ObjectMapper mapper = new ObjectMapper();
+        String jsonString = mapper.writeValueAsString(selectedIndex);
+        // Save jsonString to Indexes.json file
+        DataUtils.updateJSONFile(indexName, jsonString, "create");
+        
+        return selectedIndex;
+		
+	}
+	
+	public ArrayList<Index> computeAllIndexLevel () throws Exception {
+		
+		// first of all, Update Stock Prices within the indexes
+		this.updateIndexStockPrices();
+		
+		// get All the Indexes
 		ArrayList<Index> allIndexes = new ArrayList<Index>(this.getIndexesFromJsonData());
+		
+		// iterate for all the indexes, compute the values
+		ArrayList<Index> indexesWithState = new ArrayList<Index>();
+		for (Index index : allIndexes) {
+			Index indexWithState = this.computeIndexLevelByIndexName(index.getIndexName());
+			indexesWithState.add(indexWithState);
+			
+			// Update the values in the JSON
+			ObjectMapper mapper = new ObjectMapper();
+	        String jsonString = mapper.writeValueAsString(indexWithState);
+	        // Save jsonString to Indexes.json file
+	        DataUtils.updateJSONFile(indexWithState.getIndexName(), jsonString, "create");
+	        
+	        // Added Logging
+	        System.out.println("Index: " + indexWithState.getIndexName() + " Level: " + indexWithState.getIndexLevel());
+		}
+		// save series to JSON
+		DataUtils.createIndexSeries(indexesWithState);
+		
+        return indexesWithState;
+	}
+	
+	public void updateIndexStockPrices() throws Exception {
+		// Take all the indexes
+		ArrayList<Index> allIndexes = new ArrayList<Index>(this.getIndexesFromJsonData());
+		
+		// Iterate for each Index
+		for (Index index : allIndexes) {
+			// Iterate for each Stock in the Index
+			ArrayList<Stock> updatedStocks = new ArrayList<Stock>();
+			for (Stock stock : index.getIndexShares()) {
+				float newPrice = this.getStockFromJsonDataByIndexName(stock.getTicker()).getLastPrice();
+				stock.setLastPrice(newPrice);
+				updatedStocks.add(stock);
+			}
+			index.setIndexShares(updatedStocks);
+			
+			// save the Updated Index Back to JSON
+			ObjectMapper mapper = new ObjectMapper();
+	        String jsonString = mapper.writeValueAsString(index);
+	        // Save jsonString to Indexes.json file
+	        DataUtils.updateJSONFile(index.getIndexName(), jsonString, "create");
+		}
 		
 	}
 		

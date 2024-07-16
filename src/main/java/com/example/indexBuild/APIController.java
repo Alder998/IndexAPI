@@ -72,4 +72,13 @@ public class APIController {
             e.printStackTrace();
         }
     }
+    
+    // API Add Stock to existing Index
+    public void computeAllIndexLevel() {
+        try {
+            data.computeAllIndexLevel();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }

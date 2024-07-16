@@ -1,7 +1,7 @@
 {
     "AAPL": {
         "longName": "Apple Inc.",
-        "lastPrice": 234.80999755859375,
+        "lastPrice": 234.82000732421875,
         "lastDividend": 0.25,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "4:1",
@@ -12,7 +12,7 @@
     },
     "MSFT": {
         "longName": "Microsoft Corporation",
-        "lastPrice": 449.489990234375,
+        "lastPrice": 449.5199890136719,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "2:1",
@@ -23,7 +23,7 @@
     },
     "AMZN": {
         "longName": "Amazon.com, Inc.",
-        "lastPrice": 193.0,
+        "lastPrice": 193.02000427246094,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "20:1",
@@ -34,7 +34,7 @@
     },
     "GOOGL": {
         "longName": "Alphabet Inc.",
-        "lastPrice": 183.91000366210938,
+        "lastPrice": 183.9199981689453,
         "lastDividend": 0.2,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": "20:1",
@@ -56,7 +56,7 @@
     },
     "TSLA": {
         "longName": "Tesla, Inc.",
-        "lastPrice": 256.44000244140625,
+        "lastPrice": 256.55999755859375,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:1",
@@ -67,7 +67,7 @@
     },
     "UNH": {
         "longName": "UnitedHealth Group Incorporated",
-        "lastPrice": 548.8900146484375,
+        "lastPrice": 548.8699951171875,
         "lastDividend": 2.1,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": "2:1",
@@ -78,7 +78,7 @@
     },
     "JNJ": {
         "longName": "Johnson & Johnson",
-        "lastPrice": 151.0,
+        "lastPrice": 151.00999450683594,
         "lastDividend": 1.24,
         "dividendLastDate": "2024-05-20",
         "lastSplitFactor": "2:1",
@@ -89,7 +89,7 @@
     },
     "XOM": {
         "longName": "Exxon Mobil Corporation",
-        "lastPrice": 116.05999755859375,
+        "lastPrice": 116.04000091552734,
         "lastDividend": 0.95,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -100,7 +100,7 @@
     },
     "META": {
         "longName": "Meta Platforms, Inc.",
-        "lastPrice": 489.9100036621094,
+        "lastPrice": 489.7900085449219,
         "lastDividend": 0.5,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -111,7 +111,7 @@
     },
     "NVDA": {
         "longName": "NVIDIA Corporation",
-        "lastPrice": 126.31500244140625,
+        "lastPrice": 126.36000061035156,
         "lastDividend": 0.01,
         "dividendLastDate": "2024-06-11",
         "lastSplitFactor": "10:1",
@@ -122,7 +122,7 @@
     },
     "PG": {
         "longName": "The Procter & Gamble Company",
-        "lastPrice": 166.9600067138672,
+        "lastPrice": 166.9499969482422,
         "lastDividend": 1.007,
         "dividendLastDate": "2024-04-18",
         "lastSplitFactor": "2:1",
@@ -144,7 +144,7 @@
     },
     "V": {
         "longName": "Visa Inc.",
-        "lastPrice": 269.2699890136719,
+        "lastPrice": 269.25,
         "lastDividend": 0.52,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "4:1",
@@ -155,7 +155,7 @@
     },
     "PFE": {
         "longName": "Pfizer Inc.",
-        "lastPrice": 29.489999771118164,
+        "lastPrice": 29.5,
         "lastDividend": 0.42,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "1054:1000",
@@ -166,7 +166,7 @@
     },
     "HD": {
         "longName": "The Home Depot, Inc.",
-        "lastPrice": 369.1099853515625,
+        "lastPrice": 369.1199951171875,
         "lastDividend": 2.25,
         "dividendLastDate": "2024-05-30",
         "lastSplitFactor": "3:2",
@@ -177,7 +177,7 @@
     },
     "CVX": {
         "longName": "Chevron Corporation",
-        "lastPrice": 157.85000610351562,
+        "lastPrice": 157.77000427246094,
         "lastDividend": 1.63,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "2:1",
@@ -188,7 +188,7 @@
     },
     "MA": {
         "longName": "Mastercard Incorporated",
-        "lastPrice": 443.55999755859375,
+        "lastPrice": 443.5299987792969,
         "lastDividend": 0.66,
         "dividendLastDate": "2024-07-09",
         "lastSplitFactor": "10:1",
@@ -199,7 +199,7 @@
     },
     "ABBV": {
         "longName": "AbbVie Inc.",
-        "lastPrice": 169.24000549316406,
+        "lastPrice": 169.1999969482422,
         "lastDividend": 1.55,
         "dividendLastDate": "2024-07-15",
         "lastSplitFactor": 0,
@@ -210,7 +210,7 @@
     },
     "LLY": {
         "longName": "Eli Lilly and Company",
-        "lastPrice": 942.5399780273438,
+        "lastPrice": 941.5999755859375,
         "lastDividend": 1.3,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "2:1",
@@ -221,7 +221,7 @@
     },
     "KO": {
         "longName": "The Coca-Cola Company",
-        "lastPrice": 64.29499816894531,
+        "lastPrice": 64.2699966430664,
         "lastDividend": 0.485,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "2:1",
@@ -232,7 +232,7 @@
     },
     "PEP": {
         "longName": "PepsiCo, Inc.",
-        "lastPrice": 164.74000549316406,
+        "lastPrice": 164.75999450683594,
         "lastDividend": 1.355,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "2:1",
@@ -243,7 +243,7 @@
     },
     "MRK": {
         "longName": "Merck & Co., Inc.",
-        "lastPrice": 125.43000030517578,
+        "lastPrice": 125.44000244140625,
         "lastDividend": 0.77,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": "1048:1000",
@@ -265,7 +265,7 @@
     },
     "VZ": {
         "longName": "Verizon Communications Inc.",
-        "lastPrice": 41.459999084472656,
+        "lastPrice": 41.45000076293945,
         "lastDividend": 0.665,
         "dividendLastDate": "2024-07-10",
         "lastSplitFactor": "1000000:937889",
@@ -276,7 +276,7 @@
     },
     "COST": {
         "longName": "Costco Wholesale Corporation",
-        "lastPrice": 850.8099975585938,
+        "lastPrice": 850.77001953125,
         "lastDividend": 1.16,
         "dividendLastDate": "2024-04-25",
         "lastSplitFactor": "2:1",
@@ -287,7 +287,7 @@
     },
     "TMO": {
         "longName": "Thermo Fisher Scientific Inc.",
-        "lastPrice": 555.4000244140625,
+        "lastPrice": 555.4199829101562,
         "lastDividend": 0.39,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "3:2",
@@ -298,7 +298,7 @@
     },
     "AVGO": {
         "longName": "Broadcom Inc.",
-        "lastPrice": 169.39999389648438,
+        "lastPrice": 169.375,
         "lastDividend": 0.525,
         "dividendLastDate": "2024-06-24",
         "lastSplitFactor": "10:1",
@@ -309,7 +309,7 @@
     },
     "ABT": {
         "longName": "Abbott Laboratories",
-        "lastPrice": 102.7300033569336,
+        "lastPrice": 102.72000122070312,
         "lastDividend": 0.55,
         "dividendLastDate": "2024-07-15",
         "lastSplitFactor": "10000:4798",
@@ -320,7 +320,7 @@
     },
     "MCD": {
         "longName": "McDonald's Corporation",
-        "lastPrice": 257.260009765625,
+        "lastPrice": 257.2699890136719,
         "lastDividend": 1.67,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "2:1",
@@ -331,7 +331,7 @@
     },
     "CMCSA": {
         "longName": "Comcast Corporation",
-        "lastPrice": 39.61899948120117,
+        "lastPrice": 39.61000061035156,
         "lastDividend": 0.31,
         "dividendLastDate": "2024-07-03",
         "lastSplitFactor": "2:1",
@@ -342,7 +342,7 @@
     },
     "ACN": {
         "longName": "Accenture plc",
-        "lastPrice": 325.0199890136719,
+        "lastPrice": 325.0,
         "lastDividend": 1.29,
         "dividendLastDate": "2024-07-11",
         "lastSplitFactor": 0,
@@ -353,7 +353,7 @@
     },
     "CSCO": {
         "longName": "Cisco Systems, Inc.",
-        "lastPrice": 47.40999984741211,
+        "lastPrice": 47.41999816894531,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-07-05",
         "lastSplitFactor": "2:1",
@@ -364,7 +364,7 @@
     },
     "DIS": {
         "longName": "The Walt Disney Company",
-        "lastPrice": 98.4800033569336,
+        "lastPrice": 98.47000122070312,
         "lastDividend": 0.45,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "10000:9865",
@@ -386,7 +386,7 @@
     },
     "WMT": {
         "longName": "Walmart Inc.",
-        "lastPrice": 70.01000213623047,
+        "lastPrice": 69.98999786376953,
         "lastDividend": 0.208,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "3:1",
@@ -397,7 +397,7 @@
     },
     "CRM": {
         "longName": "Salesforce, Inc.",
-        "lastPrice": 256.04998779296875,
+        "lastPrice": 256.0299987792969,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-07-09",
         "lastSplitFactor": "4:1",
@@ -408,7 +408,7 @@
     },
     "DHR": {
         "longName": "Danaher Corporation",
-        "lastPrice": 252.14999389648438,
+        "lastPrice": 252.13999938964844,
         "lastDividend": 0.27,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "1128:1000",
@@ -430,7 +430,7 @@
     },
     "NEE": {
         "longName": "NextEra Energy, Inc.",
-        "lastPrice": 71.88999938964844,
+        "lastPrice": 71.9000015258789,
         "lastDividend": 0.515,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "4:1",
@@ -474,7 +474,7 @@
     },
     "INTC": {
         "longName": "Intel Corporation",
-        "lastPrice": 34.345001220703125,
+        "lastPrice": 34.34000015258789,
         "lastDividend": 0.125,
         "dividendLastDate": "2024-05-06",
         "lastSplitFactor": "2:1",
@@ -496,7 +496,7 @@
     },
     "LIN": {
         "longName": "Linde plc",
-        "lastPrice": 445.5199890136719,
+        "lastPrice": 445.7300109863281,
         "lastDividend": 1.39,
         "dividendLastDate": "2024-06-04",
         "lastSplitFactor": "2:1",
@@ -507,7 +507,7 @@
     },
     "QCOM": {
         "longName": "QUALCOMM Incorporated",
-        "lastPrice": 209.625,
+        "lastPrice": 209.63999938964844,
         "lastDividend": 0.85,
         "dividendLastDate": "2024-05-30",
         "lastSplitFactor": "2:1",
@@ -529,7 +529,7 @@
     },
     "UPS": {
         "longName": "United Parcel Service, Inc.",
-        "lastPrice": 147.33999633789062,
+        "lastPrice": 147.3300018310547,
         "lastDividend": 1.63,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": 0,
@@ -540,7 +540,7 @@
     },
     "UNP": {
         "longName": "Union Pacific Corporation",
-        "lastPrice": 243.0800018310547,
+        "lastPrice": 243.05999755859375,
         "lastDividend": 1.3,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "2:1",
@@ -551,7 +551,7 @@
     },
     "AMGN": {
         "longName": "Amgen Inc.",
-        "lastPrice": 333.260009765625,
+        "lastPrice": 333.1400146484375,
         "lastDividend": 2.25,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "2:1",
@@ -573,7 +573,7 @@
     },
     "IBM": {
         "longName": "International Business Machines Corporation",
-        "lastPrice": 185.77999877929688,
+        "lastPrice": 185.80999755859375,
         "lastDividend": 1.67,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "1046:1000",
@@ -584,7 +584,7 @@
     },
     "CVS": {
         "longName": "CVS Health Corporation",
-        "lastPrice": 60.06999969482422,
+        "lastPrice": 60.060001373291016,
         "lastDividend": 0.665,
         "dividendLastDate": "2024-04-19",
         "lastSplitFactor": "2:1",
@@ -595,7 +595,7 @@
     },
     "MDT": {
         "longName": "Medtronic plc",
-        "lastPrice": 78.11000061035156,
+        "lastPrice": 78.0999984741211,
         "lastDividend": 0.7,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "2:1",
@@ -606,7 +606,7 @@
     },
     "AMT": {
         "longName": "American Tower Corporation",
-        "lastPrice": 210.16000366210938,
+        "lastPrice": 210.14999389648438,
         "lastDividend": 1.62,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -617,7 +617,7 @@
     },
     "AMD": {
         "longName": "Advanced Micro Devices, Inc.",
-        "lastPrice": 177.5,
+        "lastPrice": 177.5500030517578,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -628,7 +628,7 @@
     },
     "HON": {
         "longName": "Honeywell International Inc.",
-        "lastPrice": 218.4499969482422,
+        "lastPrice": 218.47000122070312,
         "lastDividend": 1.08,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "1032:1000",
@@ -639,7 +639,7 @@
     },
     "SPGI": {
         "longName": "S&P Global Inc.",
-        "lastPrice": 488.80999755859375,
+        "lastPrice": 488.7900085449219,
         "lastDividend": 0.91,
         "dividendLastDate": "2024-05-29",
         "lastSplitFactor": "2:1",
@@ -650,7 +650,7 @@
     },
     "COP": {
         "longName": "ConocoPhillips",
-        "lastPrice": 115.18000030517578,
+        "lastPrice": 115.19000244140625,
         "lastDividend": 0.78,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "1311791:1000000",
@@ -661,7 +661,7 @@
     },
     "ELV": {
         "longName": "Elevance Health, Inc.",
-        "lastPrice": 552.969970703125,
+        "lastPrice": 553.1400146484375,
         "lastDividend": 1.63,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": "2:1",
@@ -672,7 +672,7 @@
     },
     "LOW": {
         "longName": "Lowe's Companies, Inc.",
-        "lastPrice": 240.9600067138672,
+        "lastPrice": 240.97000122070312,
         "lastDividend": 1.1,
         "dividendLastDate": "2024-04-23",
         "lastSplitFactor": "2:1",
@@ -683,7 +683,7 @@
     },
     "ORCL": {
         "longName": "Oracle Corporation",
-        "lastPrice": 142.60000610351562,
+        "lastPrice": 142.61000061035156,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-07-11",
         "lastSplitFactor": "2:1",
@@ -694,7 +694,7 @@
     },
     "INTU": {
         "longName": "Intuit Inc.",
-        "lastPrice": 666.155029296875,
+        "lastPrice": 666.1500244140625,
         "lastDividend": 0.9,
         "dividendLastDate": "2024-07-10",
         "lastSplitFactor": "2:1",
@@ -705,7 +705,7 @@
     },
     "MS": {
         "longName": "Morgan Stanley",
-        "lastPrice": 106.23999786376953,
+        "lastPrice": 106.22000122070312,
         "lastDividend": 0.85,
         "dividendLastDate": "2024-04-29",
         "lastSplitFactor": "2:1",
@@ -716,7 +716,7 @@
     },
     "GS": {
         "longName": "The Goldman Sachs Group, Inc.",
-        "lastPrice": 503.29998779296875,
+        "lastPrice": 503.0199890136719,
         "lastDividend": 2.75,
         "dividendLastDate": "2024-05-30",
         "lastSplitFactor": 0,
@@ -727,7 +727,7 @@
     },
     "LMT": {
         "longName": "Lockheed Martin Corporation",
-        "lastPrice": 468.6199951171875,
+        "lastPrice": 468.5799865722656,
         "lastDividend": 3.15,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "2:1",
@@ -749,7 +749,7 @@
     },
     "SCHW": {
         "longName": "The Charles Schwab Corporation",
-        "lastPrice": 67.41999816894531,
+        "lastPrice": 67.43000030517578,
         "lastDividend": 0.25,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "3:2",
@@ -760,7 +760,7 @@
     },
     "CAT": {
         "longName": "Caterpillar Inc.",
-        "lastPrice": 360.5899963378906,
+        "lastPrice": 360.5799865722656,
         "lastDividend": 1.3,
         "dividendLastDate": "2024-04-19",
         "lastSplitFactor": "2:1",
@@ -771,7 +771,7 @@
     },
     "C": {
         "longName": "Citigroup Inc.",
-        "lastPrice": 67.27999877929688,
+        "lastPrice": 67.2699966430664,
         "lastDividend": 0.53,
         "dividendLastDate": "2024-05-03",
         "lastSplitFactor": "1:10",
@@ -793,7 +793,7 @@
     },
     "ADP": {
         "longName": "Automatic Data Processing, Inc.",
-        "lastPrice": 245.72999572753906,
+        "lastPrice": 245.82000732421875,
         "lastDividend": 1.4,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "1139:1000",
@@ -804,7 +804,7 @@
     },
     "PLD": {
         "longName": "Prologis, Inc.",
-        "lastPrice": 121.5,
+        "lastPrice": 121.48999786376953,
         "lastDividend": 0.96,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": 0,
@@ -815,7 +815,7 @@
     },
     "MDLZ": {
         "longName": "Mondelez International, Inc.",
-        "lastPrice": 65.83999633789062,
+        "lastPrice": 65.83000183105469,
         "lastDividend": 0.425,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": 0,
@@ -826,7 +826,7 @@
     },
     "BLK": {
         "longName": "BlackRock, Inc.",
-        "lastPrice": 843.9299926757812,
+        "lastPrice": 843.9400024414062,
         "lastDividend": 5.1,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": 0,
@@ -870,7 +870,7 @@
     },
     "DE": {
         "longName": "Deere & Company",
-        "lastPrice": 377.6400146484375,
+        "lastPrice": 377.510009765625,
         "lastDividend": 1.47,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "2:1",
@@ -881,7 +881,7 @@
     },
     "CB": {
         "longName": "Chubb Limited",
-        "lastPrice": 261.7099914550781,
+        "lastPrice": 261.6499938964844,
         "lastDividend": 0.91,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "3:1",
@@ -892,7 +892,7 @@
     },
     "PYPL": {
         "longName": "PayPal Holdings, Inc.",
-        "lastPrice": 61.83000183105469,
+        "lastPrice": 61.810001373291016,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -903,7 +903,7 @@
     },
     "ZTS": {
         "longName": "Zoetis Inc.",
-        "lastPrice": 183.00999450683594,
+        "lastPrice": 182.91000366210938,
         "lastDividend": 0.432,
         "dividendLastDate": "2024-04-18",
         "lastSplitFactor": 0,
@@ -914,7 +914,7 @@
     },
     "TMUS": {
         "longName": "T-Mobile US, Inc.",
-        "lastPrice": 182.92999267578125,
+        "lastPrice": 182.97999572753906,
         "lastDividend": 0.65,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "1:2",
@@ -925,7 +925,7 @@
     },
     "NFLX": {
         "longName": "Netflix, Inc.",
-        "lastPrice": 656.1599731445312,
+        "lastPrice": 656.3200073242188,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "7:1",
@@ -936,7 +936,7 @@
     },
     "MMC": {
         "longName": "Marsh & McLennan Companies, Inc.",
-        "lastPrice": 218.86000061035156,
+        "lastPrice": 218.91000366210938,
         "lastDividend": 0.71,
         "dividendLastDate": "2024-04-03",
         "lastSplitFactor": "2:1",
@@ -947,7 +947,7 @@
     },
     "GILD": {
         "longName": "Gilead Sciences, Inc.",
-        "lastPrice": 71.6500015258789,
+        "lastPrice": 71.63999938964844,
         "lastDividend": 0.77,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "2:1",
@@ -958,7 +958,7 @@
     },
     "BA": {
         "longName": "The Boeing Company",
-        "lastPrice": 186.07000732421875,
+        "lastPrice": 186.0500030517578,
         "lastDividend": 2.055,
         "dividendLastDate": "2020-02-13",
         "lastSplitFactor": "2:1",
@@ -969,7 +969,7 @@
     },
     "SO": {
         "longName": "The Southern Company",
-        "lastPrice": 81.11000061035156,
+        "lastPrice": 81.12000274658203,
         "lastDividend": 0.72,
         "dividendLastDate": "2024-05-17",
         "lastSplitFactor": "10000:6109",
@@ -980,7 +980,7 @@
     },
     "MO": {
         "longName": "Altria Group, Inc.",
-        "lastPrice": 48.02000045776367,
+        "lastPrice": 48.029998779296875,
         "lastDividend": 0.98,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "3:1",
@@ -1002,7 +1002,7 @@
     },
     "ADI": {
         "longName": "Analog Devices, Inc.",
-        "lastPrice": 243.3699951171875,
+        "lastPrice": 243.3300018310547,
         "lastDividend": 0.92,
         "dividendLastDate": "2024-06-04",
         "lastSplitFactor": "2:1",
@@ -1013,7 +1013,7 @@
     },
     "CCI": {
         "longName": "Crown Castle Inc.",
-        "lastPrice": 103.88999938964844,
+        "lastPrice": 103.9000015258789,
         "lastDividend": 1.565,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -1024,7 +1024,7 @@
     },
     "ISRG": {
         "longName": "Intuitive Surgical, Inc.",
-        "lastPrice": 437.9599914550781,
+        "lastPrice": 438.010009765625,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:1",
@@ -1035,7 +1035,7 @@
     },
     "VRTX": {
         "longName": "Vertex Pharmaceuticals Incorporated",
-        "lastPrice": 488.8500061035156,
+        "lastPrice": 488.9800109863281,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1046,7 +1046,7 @@
     },
     "CME": {
         "longName": "CME Group Inc.",
-        "lastPrice": 197.36000061035156,
+        "lastPrice": 197.3699951171875,
         "lastDividend": 1.15,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "5:1",
@@ -1068,7 +1068,7 @@
     },
     "BKNG": {
         "longName": "Booking Holdings Inc.",
-        "lastPrice": 4117.02001953125,
+        "lastPrice": 4119.08984375,
         "lastDividend": 8.75,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "1:6",
@@ -1077,20 +1077,9 @@
         "sector": "Consumer_Cyclical",
         "stockNumber": 0
     },
-    "BDX": {
-        "longName": "Becton, Dickinson and Company",
-        "lastPrice": 230.7100067138672,
-        "lastDividend": 0.95,
-        "dividendLastDate": "2024-06-10",
-        "lastSplitFactor": "1025:1000",
-        "lastSplitDate": "2022-04-01",
-        "marketCap": 66673688576,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
     "NOC": {
         "longName": "Northrop Grumman Corporation",
-        "lastPrice": 435.07000732421875,
+        "lastPrice": 435.1600036621094,
         "lastDividend": 2.06,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "10000:9035",
@@ -1101,7 +1090,7 @@
     },
     "GE": {
         "longName": "GE Aerospace",
-        "lastPrice": 162.8800048828125,
+        "lastPrice": 162.85000610351562,
         "lastDividend": 0.28,
         "dividendLastDate": "2024-07-11",
         "lastSplitFactor": "1253:1000",
@@ -1112,7 +1101,7 @@
     },
     "PGR": {
         "longName": "The Progressive Corporation",
-        "lastPrice": 210.02000427246094,
+        "lastPrice": 210.0,
         "lastDividend": 0.1,
         "dividendLastDate": "2024-07-03",
         "lastSplitFactor": "4:1",
@@ -1123,7 +1112,7 @@
     },
     "CL": {
         "longName": "Colgate-Palmolive Company",
-        "lastPrice": 97.41999816894531,
+        "lastPrice": 97.4000015258789,
         "lastDividend": 0.5,
         "dividendLastDate": "2024-04-19",
         "lastSplitFactor": "2:1",
@@ -1134,7 +1123,7 @@
     },
     "SYK": {
         "longName": "Stryker Corporation",
-        "lastPrice": 333.3599853515625,
+        "lastPrice": 333.42999267578125,
         "lastDividend": 0.8,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "2:1",
@@ -1145,7 +1134,7 @@
     },
     "PNC": {
         "longName": "The PNC Financial Services Group, Inc.",
-        "lastPrice": 176.9499969482422,
+        "lastPrice": 176.97999572753906,
         "lastDividend": 1.6,
         "dividendLastDate": "2024-07-15",
         "lastSplitFactor": "2:1",
@@ -1156,7 +1145,7 @@
     },
     "TGT": {
         "longName": "Target Corporation",
-        "lastPrice": 155.0,
+        "lastPrice": 155.00999450683594,
         "lastDividend": 1.1,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -1189,7 +1178,7 @@
     },
     "EOG": {
         "longName": "EOG Resources, Inc.",
-        "lastPrice": 131.5399932861328,
+        "lastPrice": 131.52000427246094,
         "lastDividend": 0.91,
         "dividendLastDate": "2024-04-15",
         "lastSplitFactor": "2:1",
@@ -1200,7 +1189,7 @@
     },
     "REGN": {
         "longName": "Regeneron Pharmaceuticals, Inc.",
-        "lastPrice": 1094.1199951171875,
+        "lastPrice": 1094.989990234375,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -1211,7 +1200,7 @@
     },
     "TFC": {
         "longName": "Truist Financial Corporation",
-        "lastPrice": 42.45000076293945,
+        "lastPrice": 42.439998626708984,
         "lastDividend": 0.52,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "2:1",
@@ -1222,7 +1211,7 @@
     },
     "CSX": {
         "longName": "CSX Corporation",
-        "lastPrice": 35.349998474121094,
+        "lastPrice": 35.33000183105469,
         "lastDividend": 0.12,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "3:1",
@@ -1244,7 +1233,7 @@
     },
     "EQIX": {
         "longName": "Equinix, Inc.",
-        "lastPrice": 812.4500122070312,
+        "lastPrice": 812.6199951171875,
         "lastDividend": 4.26,
         "dividendLastDate": "2024-05-21",
         "lastSplitFactor": "1:32",
@@ -1255,7 +1244,7 @@
     },
     "EW": {
         "longName": "Edwards Lifesciences Corporation",
-        "lastPrice": 87.73899841308594,
+        "lastPrice": 87.7300033569336,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:1",
@@ -1266,7 +1255,7 @@
     },
     "HUM": {
         "longName": "Humana Inc.",
-        "lastPrice": 395.92999267578125,
+        "lastPrice": 395.6000061035156,
         "lastDividend": 0.885,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "3:2",
@@ -1277,7 +1266,7 @@
     },
     "MU": {
         "longName": "Micron Technology, Inc.",
-        "lastPrice": 127.47000122070312,
+        "lastPrice": 127.48999786376953,
         "lastDividend": 0.115,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "2:1",
@@ -1288,7 +1277,7 @@
     },
     "WM": {
         "longName": "Waste Management, Inc.",
-        "lastPrice": 220.94000244140625,
+        "lastPrice": 220.88999938964844,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": 0,
@@ -1299,7 +1288,7 @@
     },
     "EL": {
         "longName": "The Est\u00e9e Lauder Companies Inc.",
-        "lastPrice": 100.95999908447266,
+        "lastPrice": 100.98999786376953,
         "lastDividend": 0.66,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "2:1",
@@ -1310,7 +1299,7 @@
     },
     "AON": {
         "longName": "Aon plc",
-        "lastPrice": 297.739990234375,
+        "lastPrice": 297.75,
         "lastDividend": 0.675,
         "dividendLastDate": "2024-04-30",
         "lastSplitFactor": "3:2",
@@ -1321,7 +1310,7 @@
     },
     "FIS": {
         "longName": "Fidelity National Information Services, Inc.",
-        "lastPrice": 76.91999816894531,
+        "lastPrice": 76.91000366210938,
         "lastDividend": 0.36,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": 0,
@@ -1332,7 +1321,7 @@
     },
     "SHW": {
         "longName": "The Sherwin-Williams Company",
-        "lastPrice": 326.4100036621094,
+        "lastPrice": 326.3999938964844,
         "lastDividend": 0.715,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "3:1",
@@ -1343,7 +1332,7 @@
     },
     "DG": {
         "longName": "Dollar General Corporation",
-        "lastPrice": 127.5,
+        "lastPrice": 127.4800033569336,
         "lastDividend": 0.59,
         "dividendLastDate": "2024-07-09",
         "lastSplitFactor": 0,
@@ -1354,7 +1343,7 @@
     },
     "CHTR": {
         "longName": "Charter Communications, Inc.",
-        "lastPrice": 327.3900146484375,
+        "lastPrice": 327.4200134277344,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -1365,7 +1354,7 @@
     },
     "LRCX": {
         "longName": "Lam Research Corporation",
-        "lastPrice": 1075.9300537109375,
+        "lastPrice": 1075.989990234375,
         "lastDividend": 2.0,
         "dividendLastDate": "2024-06-18",
         "lastSplitFactor": "3:1",
@@ -1376,7 +1365,7 @@
     },
     "NSC": {
         "longName": "Norfolk Southern Corporation",
-        "lastPrice": 234.92999267578125,
+        "lastPrice": 234.7899932861328,
         "lastDividend": 1.35,
         "dividendLastDate": "2024-05-02",
         "lastSplitFactor": "3:1",
@@ -1398,7 +1387,7 @@
     },
     "APD": {
         "longName": "Air Products and Chemicals, Inc.",
-        "lastPrice": 267.6199951171875,
+        "lastPrice": 267.5299987792969,
         "lastDividend": 1.77,
         "dividendLastDate": "2024-07-01",
         "lastSplitFactor": "1081:1000",
@@ -1431,7 +1420,7 @@
     },
     "ICE": {
         "longName": "Intercontinental Exchange, Inc.",
-        "lastPrice": 148.91000366210938,
+        "lastPrice": 148.9199981689453,
         "lastDividend": 0.45,
         "dividendLastDate": "2024-06-13",
         "lastSplitFactor": "5:1",
@@ -1442,7 +1431,7 @@
     },
     "ITW": {
         "longName": "Illinois Tool Works Inc.",
-        "lastPrice": 253.5399932861328,
+        "lastPrice": 253.49000549316406,
         "lastDividend": 1.4,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "2:1",
@@ -1453,7 +1442,7 @@
     },
     "MRNA": {
         "longName": "Moderna, Inc.",
-        "lastPrice": 125.23999786376953,
+        "lastPrice": 125.13999938964844,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -1464,7 +1453,7 @@
     },
     "GD": {
         "longName": "General Dynamics Corporation",
-        "lastPrice": 291.5799865722656,
+        "lastPrice": 291.5899963378906,
         "lastDividend": 1.42,
         "dividendLastDate": "2024-07-05",
         "lastSplitFactor": "2:1",
@@ -1475,7 +1464,7 @@
     },
     "ETN": {
         "longName": "Eaton Corporation plc",
-        "lastPrice": 332.4800109863281,
+        "lastPrice": 332.4599914550781,
         "lastDividend": 0.94,
         "dividendLastDate": "2024-05-03",
         "lastSplitFactor": "2:1",
@@ -1486,7 +1475,7 @@
     },
     "CNC": {
         "longName": "Centene Corporation",
-        "lastPrice": 69.0999984741211,
+        "lastPrice": 69.11000061035156,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1508,7 +1497,7 @@
     },
     "AEP": {
         "longName": "American Electric Power Company, Inc.",
-        "lastPrice": 91.86000061035156,
+        "lastPrice": 91.8499984741211,
         "lastDividend": 0.88,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": 0,
@@ -1519,7 +1508,7 @@
     },
     "NEM": {
         "longName": "Newmont Corporation",
-        "lastPrice": 48.33000183105469,
+        "lastPrice": 48.31999969482422,
         "lastDividend": 0.25,
         "dividendLastDate": "2024-06-04",
         "lastSplitFactor": "5:4",
@@ -1530,7 +1519,7 @@
     },
     "PSA": {
         "longName": "Public Storage",
-        "lastPrice": 305.79998779296875,
+        "lastPrice": 305.6499938964844,
         "lastDividend": 3.0,
         "dividendLastDate": "2024-06-12",
         "lastSplitFactor": 0,
@@ -1552,7 +1541,7 @@
     },
     "MCK": {
         "longName": "McKesson Corporation",
-        "lastPrice": 583.9199829101562,
+        "lastPrice": 583.9500122070312,
         "lastDividend": 0.62,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "2:1",
@@ -1563,7 +1552,7 @@
     },
     "EMR": {
         "longName": "Emerson Electric Co.",
-        "lastPrice": 118.87999725341797,
+        "lastPrice": 118.87000274658203,
         "lastDividend": 0.525,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "2:1",
@@ -1574,7 +1563,7 @@
     },
     "GM": {
         "longName": "General Motors Company",
-        "lastPrice": 49.779998779296875,
+        "lastPrice": 49.77000045776367,
         "lastDividend": 0.12,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": 0,
@@ -1585,7 +1574,7 @@
     },
     "LHX": {
         "longName": "L3Harris Technologies, Inc.",
-        "lastPrice": 240.44000244140625,
+        "lastPrice": 240.4199981689453,
         "lastDividend": 1.16,
         "dividendLastDate": "2024-06-04",
         "lastSplitFactor": "10000:9448",
@@ -1596,7 +1585,7 @@
     },
     "SNPS": {
         "longName": "Synopsys, Inc.",
-        "lastPrice": 613.0800170898438,
+        "lastPrice": 613.010009765625,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1607,7 +1596,7 @@
     },
     "KMB": {
         "longName": "Kimberly-Clark Corporation",
-        "lastPrice": 142.49000549316406,
+        "lastPrice": 142.4600067138672,
         "lastDividend": 1.22,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "1043:1000",
@@ -1618,7 +1607,7 @@
     },
     "MPC": {
         "longName": "Marathon Petroleum Corporation",
-        "lastPrice": 167.64999389648438,
+        "lastPrice": 167.6699981689453,
         "lastDividend": 0.825,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "2:1",
@@ -1640,7 +1629,7 @@
     },
     "EXC": {
         "longName": "Exelon Corporation",
-        "lastPrice": 35.51499938964844,
+        "lastPrice": 35.52000045776367,
         "lastDividend": 0.38,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "1402:1000",
@@ -1651,7 +1640,7 @@
     },
     "KLAC": {
         "longName": "KLA Corporation",
-        "lastPrice": 867.5599975585938,
+        "lastPrice": 867.1799926757812,
         "lastDividend": 1.45,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -1662,7 +1651,7 @@
     },
     "F": {
         "longName": "Ford Motor Company",
-        "lastPrice": 14.385000228881836,
+        "lastPrice": 14.390000343322754,
         "lastDividend": 0.15,
         "dividendLastDate": "2024-05-07",
         "lastSplitFactor": "1748175:1000000",
@@ -1673,7 +1662,7 @@
     },
     "MCO": {
         "longName": "Moody's Corporation",
-        "lastPrice": 452.5199890136719,
+        "lastPrice": 452.3599853515625,
         "lastDividend": 0.85,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "2:1",
@@ -1717,7 +1706,7 @@
     },
     "ADM": {
         "longName": "Archer-Daniels-Midland Company",
-        "lastPrice": 64.58000183105469,
+        "lastPrice": 64.55999755859375,
         "lastDividend": 0.5,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "105:100",
@@ -1728,7 +1717,7 @@
     },
     "AZO": {
         "longName": "AutoZone, Inc.",
-        "lastPrice": 2985.969970703125,
+        "lastPrice": 2985.330078125,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1750,7 +1739,7 @@
     },
     "ROP": {
         "longName": "Roper Technologies, Inc.",
-        "lastPrice": 567.4199829101562,
+        "lastPrice": 567.0700073242188,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "2:1",
@@ -1761,7 +1750,7 @@
     },
     "O": {
         "longName": "Realty Income Corporation",
-        "lastPrice": 56.36000061035156,
+        "lastPrice": 56.369998931884766,
         "lastDividend": 0.263,
         "dividendLastDate": "2024-07-01",
         "lastSplitFactor": "1032:1000",
@@ -1783,7 +1772,7 @@
     },
     "ORLY": {
         "longName": "O'Reilly Automotive, Inc.",
-        "lastPrice": 1043.9200439453125,
+        "lastPrice": 1043.52001953125,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1794,7 +1783,7 @@
     },
     "AIG": {
         "longName": "American International Group, Inc.",
-        "lastPrice": 78.30999755859375,
+        "lastPrice": 78.29000091552734,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "1:20",
@@ -1816,7 +1805,7 @@
     },
     "CDNS": {
         "longName": "Cadence Design Systems, Inc.",
-        "lastPrice": 311.6199951171875,
+        "lastPrice": 311.7300109863281,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -1827,7 +1816,7 @@
     },
     "IQV": {
         "longName": "IQVIA Holdings Inc.",
-        "lastPrice": 232.9600067138672,
+        "lastPrice": 232.97000122070312,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -1838,7 +1827,7 @@
     },
     "PSX": {
         "longName": "Phillips 66",
-        "lastPrice": 139.82000732421875,
+        "lastPrice": 139.77999877929688,
         "lastDividend": 1.15,
         "dividendLastDate": "2024-05-17",
         "lastSplitFactor": 0,
@@ -1849,7 +1838,7 @@
     },
     "HCA": {
         "longName": "HCA Healthcare, Inc.",
-        "lastPrice": 319.010009765625,
+        "lastPrice": 318.9100036621094,
         "lastDividend": 0.66,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -1860,7 +1849,7 @@
     },
     "XEL": {
         "longName": "Xcel Energy Inc.",
-        "lastPrice": 53.91999816894531,
+        "lastPrice": 53.93000030517578,
         "lastDividend": 0.548,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "2:1",
@@ -1871,7 +1860,7 @@
     },
     "CTVA": {
         "longName": "Corteva, Inc.",
-        "lastPrice": 54.209999084472656,
+        "lastPrice": 54.20000076293945,
         "lastDividend": 0.16,
         "dividendLastDate": "2024-06-04",
         "lastSplitFactor": 0,
@@ -1893,7 +1882,7 @@
     },
     "NXPI": {
         "longName": "NXP Semiconductors N.V.",
-        "lastPrice": 290.79998779296875,
+        "lastPrice": 290.7799987792969,
         "lastDividend": 1.014,
         "dividendLastDate": "2024-06-13",
         "lastSplitFactor": 0,
@@ -1904,7 +1893,7 @@
     },
     "FTNT": {
         "longName": "Fortinet, Inc.",
-        "lastPrice": 59.470001220703125,
+        "lastPrice": 59.47999954223633,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "5:1",
@@ -1915,7 +1904,7 @@
     },
     "STZ": {
         "longName": "Constellation Brands, Inc.",
-        "lastPrice": 248.07000732421875,
+        "lastPrice": 248.08999633789062,
         "lastDividend": 1.01,
         "dividendLastDate": "2024-05-02",
         "lastSplitFactor": "2:1",
@@ -1926,7 +1915,7 @@
     },
     "MAR": {
         "longName": "Marriott International, Inc.",
-        "lastPrice": 255.1199951171875,
+        "lastPrice": 255.11000061035156,
         "lastDividend": 0.63,
         "dividendLastDate": "2024-05-23",
         "lastSplitFactor": "1061:1000",
@@ -1948,7 +1937,7 @@
     },
     "ADSK": {
         "longName": "Autodesk, Inc.",
-        "lastPrice": 253.75999450683594,
+        "lastPrice": 253.82000732421875,
         "lastDividend": 0.015,
         "dividendLastDate": "2005-03-22",
         "lastSplitFactor": "2:1",
@@ -1959,7 +1948,7 @@
     },
     "APH": {
         "longName": "Amphenol Corporation",
-        "lastPrice": 70.43000030517578,
+        "lastPrice": 70.41000366210938,
         "lastDividend": 0.11,
         "dividendLastDate": "2024-06-18",
         "lastSplitFactor": "2:1",
@@ -1970,7 +1959,7 @@
     },
     "WMB": {
         "longName": "The Williams Companies, Inc.",
-        "lastPrice": 42.33000183105469,
+        "lastPrice": 42.349998474121094,
         "lastDividend": 0.475,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "10000:8152",
@@ -1981,7 +1970,7 @@
     },
     "WELL": {
         "longName": "Welltower Inc.",
-        "lastPrice": 105.91999816894531,
+        "lastPrice": 105.94000244140625,
         "lastDividend": 0.61,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "3:2",
@@ -1992,7 +1981,7 @@
     },
     "DLR": {
         "longName": "Digital Realty Trust, Inc.",
-        "lastPrice": 162.36000061035156,
+        "lastPrice": 162.3300018310547,
         "lastDividend": 1.22,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -2003,7 +1992,7 @@
     },
     "PAYX": {
         "longName": "Paychex, Inc.",
-        "lastPrice": 124.30999755859375,
+        "lastPrice": 124.27999877929688,
         "lastDividend": 0.98,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "3:2",
@@ -2014,7 +2003,7 @@
     },
     "PRU": {
         "longName": "Prudential Financial, Inc.",
-        "lastPrice": 126.54000091552734,
+        "lastPrice": 126.5199966430664,
         "lastDividend": 1.3,
         "dividendLastDate": "2024-05-20",
         "lastSplitFactor": 0,
@@ -2025,7 +2014,7 @@
     },
     "CMG": {
         "longName": "Chipotle Mexican Grill, Inc.",
-        "lastPrice": 57.75,
+        "lastPrice": 57.7400016784668,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "50:1",
@@ -2036,7 +2025,7 @@
     },
     "TEL": {
         "longName": "TE Connectivity Ltd.",
-        "lastPrice": 159.64999389648438,
+        "lastPrice": 159.66000366210938,
         "lastDividend": 0.65,
         "dividendLastDate": "2024-05-23",
         "lastSplitFactor": 0,
@@ -2047,7 +2036,7 @@
     },
     "SBAC": {
         "longName": "SBA Communications Corporation",
-        "lastPrice": 213.10000610351562,
+        "lastPrice": 213.05999755859375,
         "lastDividend": 0.98,
         "dividendLastDate": "2024-05-22",
         "lastSplitFactor": 0,
@@ -2091,7 +2080,7 @@
     },
     "MNST": {
         "longName": "Monster Beverage Corporation",
-        "lastPrice": 50.46099853515625,
+        "lastPrice": 50.4900016784668,
         "lastDividend": 0.005208,
         "dividendLastDate": "1990-11-08",
         "lastSplitFactor": "2:1",
@@ -2113,7 +2102,7 @@
     },
     "DLTR": {
         "longName": "Dollar Tree, Inc.",
-        "lastPrice": 104.80999755859375,
+        "lastPrice": 104.81999969482422,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -2124,7 +2113,7 @@
     },
     "EA": {
         "longName": "Electronic Arts Inc.",
-        "lastPrice": 146.66000366210938,
+        "lastPrice": 146.6699981689453,
         "lastDividend": 0.19,
         "dividendLastDate": "2024-05-29",
         "lastSplitFactor": "2:1",
@@ -2135,7 +2124,7 @@
     },
     "ED": {
         "longName": "Consolidated Edison, Inc.",
-        "lastPrice": 91.55999755859375,
+        "lastPrice": 91.55000305175781,
         "lastDividend": 0.83,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -2146,7 +2135,7 @@
     },
     "AJG": {
         "longName": "Arthur J. Gallagher & Co.",
-        "lastPrice": 267.54998779296875,
+        "lastPrice": 267.6199951171875,
         "lastDividend": 0.6,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "2:1",
@@ -2212,7 +2201,7 @@
     },
     "HPQ": {
         "longName": "HP Inc.",
-        "lastPrice": 38.0099983215332,
+        "lastPrice": 38.0,
         "lastDividend": 0.276,
         "dividendLastDate": "2024-06-12",
         "lastSplitFactor": "2202:1000",
@@ -2223,7 +2212,7 @@
     },
     "CTAS": {
         "longName": "Cintas Corporation",
-        "lastPrice": 725.6199951171875,
+        "lastPrice": 725.4500122070312,
         "lastDividend": 1.35,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "3:2",
@@ -2234,7 +2223,7 @@
     },
     "BAX": {
         "longName": "Baxter International Inc.",
-        "lastPrice": 35.52000045776367,
+        "lastPrice": 35.540000915527344,
         "lastDividend": 0.29,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "1841:1000",
@@ -2245,7 +2234,7 @@
     },
     "KMI": {
         "longName": "Kinder Morgan, Inc.",
-        "lastPrice": 20.2450008392334,
+        "lastPrice": 20.239999771118164,
         "lastDividend": 0.288,
         "dividendLastDate": "2024-04-29",
         "lastSplitFactor": 0,
@@ -2256,7 +2245,7 @@
     },
     "PEG": {
         "longName": "Public Service Enterprise Group Incorporated",
-        "lastPrice": 74.55999755859375,
+        "lastPrice": 74.54000091552734,
         "lastDividend": 0.6,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "2:1",
@@ -2267,7 +2256,7 @@
     },
     "WEC": {
         "longName": "WEC Energy Group, Inc.",
-        "lastPrice": 80.79000091552734,
+        "lastPrice": 80.80999755859375,
         "lastDividend": 0.835,
         "dividendLastDate": "2024-05-13",
         "lastSplitFactor": "2:1",
@@ -2278,7 +2267,7 @@
     },
     "PH": {
         "longName": "Parker-Hannifin Corporation",
-        "lastPrice": 568.8499755859375,
+        "lastPrice": 568.6799926757812,
         "lastDividend": 1.63,
         "dividendLastDate": "2024-05-09",
         "lastSplitFactor": "3:2",
@@ -2289,7 +2278,7 @@
     },
     "HSY": {
         "longName": "The Hershey Company",
-        "lastPrice": 189.97500610351562,
+        "lastPrice": 189.97000122070312,
         "lastDividend": 1.37,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": "2:1",
@@ -2300,7 +2289,7 @@
     },
     "KR": {
         "longName": "The Kroger Co.",
-        "lastPrice": 53.61989974975586,
+        "lastPrice": 53.599998474121094,
         "lastDividend": 0.29,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -2322,7 +2311,7 @@
     },
     "RMD": {
         "longName": "ResMed Inc.",
-        "lastPrice": 206.83999633789062,
+        "lastPrice": 206.8000030517578,
         "lastDividend": 0.48,
         "dividendLastDate": "2024-05-08",
         "lastSplitFactor": "2:1",
@@ -2333,7 +2322,7 @@
     },
     "WBD": {
         "longName": "Warner Bros. Discovery, Inc.",
-        "lastPrice": 7.96999979019165,
+        "lastPrice": 7.980000019073486,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "1957:1000",
@@ -2344,7 +2333,7 @@
     },
     "BK": {
         "longName": "The Bank of New York Mellon Corporation",
-        "lastPrice": 65.01000213623047,
+        "lastPrice": 65.0199966430664,
         "lastDividend": 0.42,
         "dividendLastDate": "2024-04-25",
         "lastSplitFactor": "9434:10000",
@@ -2366,7 +2355,7 @@
     },
     "SPG": {
         "longName": "Simon Property Group, Inc.",
-        "lastPrice": 151.52000427246094,
+        "lastPrice": 151.50999450683594,
         "lastDividend": 2.0,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "1063:1000",
@@ -2377,7 +2366,7 @@
     },
     "MCHP": {
         "longName": "Microchip Technology Incorporated",
-        "lastPrice": 94.79000091552734,
+        "lastPrice": 94.80999755859375,
         "lastDividend": 0.452,
         "dividendLastDate": "2024-05-21",
         "lastSplitFactor": "2:1",
@@ -2388,7 +2377,7 @@
     },
     "BIIB": {
         "longName": "Biogen Inc.",
-        "lastPrice": 224.97999572753906,
+        "lastPrice": 225.02000427246094,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:1",
@@ -2399,7 +2388,7 @@
     },
     "CARR": {
         "longName": "Carrier Global Corporation",
-        "lastPrice": 69.88999938964844,
+        "lastPrice": 69.87999725341797,
         "lastDividend": 0.19,
         "dividendLastDate": "2024-06-21",
         "lastSplitFactor": 0,
@@ -2410,7 +2399,7 @@
     },
     "TT": {
         "longName": "Trane Technologies plc",
-        "lastPrice": 346.2300109863281,
+        "lastPrice": 346.32000732421875,
         "lastDividend": 0.84,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "1289:1000",
@@ -2421,7 +2410,7 @@
     },
     "OTIS": {
         "longName": "Otis Worldwide Corporation",
-        "lastPrice": 99.61000061035156,
+        "lastPrice": 99.62000274658203,
         "lastDividend": 0.39,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": 0,
@@ -2432,7 +2421,7 @@
     },
     "DXCM": {
         "longName": "DexCom, Inc.",
-        "lastPrice": 116.0999984741211,
+        "lastPrice": 116.05999755859375,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "4:1",
@@ -2443,7 +2432,7 @@
     },
     "IDXX": {
         "longName": "IDEXX Laboratories, Inc.",
-        "lastPrice": 499.8699951171875,
+        "lastPrice": 499.5199890136719,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -2454,7 +2443,7 @@
     },
     "IFF": {
         "longName": "International Flavors & Fragrances Inc.",
-        "lastPrice": 98.12000274658203,
+        "lastPrice": 98.11000061035156,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-06-21",
         "lastSplitFactor": "3:1",
@@ -2465,7 +2454,7 @@
     },
     "ES": {
         "longName": "Eversource Energy",
-        "lastPrice": 59.709999084472656,
+        "lastPrice": 59.720001220703125,
         "lastDividend": 0.715,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": 0,
@@ -2476,7 +2465,7 @@
     },
     "ILMN": {
         "longName": "Illumina, Inc.",
-        "lastPrice": 125.26000213623047,
+        "lastPrice": 125.2300033569336,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "1028:1000",
@@ -2498,7 +2487,7 @@
     },
     "HES": {
         "longName": "Hess Corporation",
-        "lastPrice": 150.5500030517578,
+        "lastPrice": 150.52999877929688,
         "lastDividend": 0.438,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "3:1",
@@ -2509,7 +2498,7 @@
     },
     "PCAR": {
         "longName": "PACCAR Inc",
-        "lastPrice": 108.91999816894531,
+        "lastPrice": 108.88999938964844,
         "lastDividend": 0.3,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "3:2",
@@ -2531,7 +2520,7 @@
     },
     "MTB": {
         "longName": "M&T Bank Corporation",
-        "lastPrice": 163.3000030517578,
+        "lastPrice": 163.1199951171875,
         "lastDividend": 1.35,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "10:1",
@@ -2542,7 +2531,7 @@
     },
     "FAST": {
         "longName": "Fastenal Company",
-        "lastPrice": 69.04000091552734,
+        "lastPrice": 69.02999877929688,
         "lastDividend": 0.39,
         "dividendLastDate": "2024-04-24",
         "lastSplitFactor": "2:1",
@@ -2586,7 +2575,7 @@
     },
     "VRSK": {
         "longName": "Verisk Analytics, Inc.",
-        "lastPrice": 281.1300048828125,
+        "lastPrice": 281.1400146484375,
         "lastDividend": 0.39,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -2608,7 +2597,7 @@
     },
     "RSG": {
         "longName": "Republic Services, Inc.",
-        "lastPrice": 204.1699981689453,
+        "lastPrice": 204.17999267578125,
         "lastDividend": 0.535,
         "dividendLastDate": "2024-07-02",
         "lastSplitFactor": "3:2",
@@ -2619,7 +2608,7 @@
     },
     "CMI": {
         "longName": "Cummins Inc.",
-        "lastPrice": 299.55999755859375,
+        "lastPrice": 299.42999267578125,
         "lastDividend": 1.68,
         "dividendLastDate": "2024-05-23",
         "lastSplitFactor": "2:1",
@@ -2630,7 +2619,7 @@
     },
     "AWK": {
         "longName": "American Water Works Company, Inc.",
-        "lastPrice": 139.0500030517578,
+        "lastPrice": 139.0800018310547,
         "lastDividend": 0.765,
         "dividendLastDate": "2024-05-13",
         "lastSplitFactor": 0,
@@ -2641,7 +2630,7 @@
     },
     "WBA": {
         "longName": "Walgreens Boots Alliance, Inc.",
-        "lastPrice": 11.725000381469727,
+        "lastPrice": 11.729999542236328,
         "lastDividend": 0.25,
         "dividendLastDate": "2024-05-20",
         "lastSplitFactor": "2:1",
@@ -2652,7 +2641,7 @@
     },
     "DFS": {
         "longName": "Discover Financial Services",
-        "lastPrice": 141.83999633789062,
+        "lastPrice": 141.82000732421875,
         "lastDividend": 0.7,
         "dividendLastDate": "2024-05-22",
         "lastSplitFactor": 0,
@@ -2663,7 +2652,7 @@
     },
     "KHC": {
         "longName": "The Kraft Heinz Company",
-        "lastPrice": 32.849998474121094,
+        "lastPrice": 32.84000015258789,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-06-06",
         "lastSplitFactor": 0,
@@ -2696,7 +2685,7 @@
     },
     "MTD": {
         "longName": "Mettler-Toledo International Inc.",
-        "lastPrice": 1380.68994140625,
+        "lastPrice": 1382.8900146484375,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -2707,7 +2696,7 @@
     },
     "KDP": {
         "longName": "Keurig Dr Pepper Inc.",
-        "lastPrice": 32.66999816894531,
+        "lastPrice": 32.65999984741211,
         "lastDividend": 0.215,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": 0,
@@ -2718,7 +2707,7 @@
     },
     "AMP": {
         "longName": "Ameriprise Financial, Inc.",
-        "lastPrice": 429.3500061035156,
+        "lastPrice": 429.04998779296875,
         "lastDividend": 1.48,
         "dividendLastDate": "2024-05-03",
         "lastSplitFactor": 0,
@@ -2740,7 +2729,7 @@
     },
     "ENPH": {
         "longName": "Enphase Energy, Inc.",
-        "lastPrice": 116.13999938964844,
+        "lastPrice": 116.16999816894531,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -2762,7 +2751,7 @@
     },
     "WY": {
         "longName": "Weyerhaeuser Company",
-        "lastPrice": 29.735000610351562,
+        "lastPrice": 29.729999542236328,
         "lastDividend": 0.2,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "3:2",
@@ -2773,7 +2762,7 @@
     },
     "ROST": {
         "longName": "Ross Stores, Inc.",
-        "lastPrice": 148.85000610351562,
+        "lastPrice": 148.8699951171875,
         "lastDividend": 0.368,
         "dividendLastDate": "2024-06-11",
         "lastSplitFactor": "2:1",
@@ -2784,7 +2773,7 @@
     },
     "OKE": {
         "longName": "ONEOK, Inc.",
-        "lastPrice": 85.1050033569336,
+        "lastPrice": 85.05999755859375,
         "lastDividend": 0.99,
         "dividendLastDate": "2024-04-30",
         "lastSplitFactor": "11422:10000",
@@ -2795,7 +2784,7 @@
     },
     "TSN": {
         "longName": "Tyson Foods, Inc.",
-        "lastPrice": 59.08000183105469,
+        "lastPrice": 59.06999969482422,
         "lastDividend": 0.49,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "3:2",
@@ -2806,7 +2795,7 @@
     },
     "KEYS": {
         "longName": "Keysight Technologies, Inc.",
-        "lastPrice": 149.49000549316406,
+        "lastPrice": 149.4600067138672,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -2817,7 +2806,7 @@
     },
     "DTE": {
         "longName": "DTE Energy Company",
-        "lastPrice": 114.69000244140625,
+        "lastPrice": 114.69999694824219,
         "lastDividend": 1.02,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": "1175:1000",
@@ -2828,7 +2817,7 @@
     },
     "CBRE": {
         "longName": "CBRE Group, Inc.",
-        "lastPrice": 97.25,
+        "lastPrice": 97.2300033569336,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:1",
@@ -2839,7 +2828,7 @@
     },
     "EQR": {
         "longName": "Equity Residential",
-        "lastPrice": 69.05000305175781,
+        "lastPrice": 69.04000091552734,
         "lastDividend": 0.675,
         "dividendLastDate": "2024-07-01",
         "lastSplitFactor": "2:1",
@@ -2850,7 +2839,7 @@
     },
     "APTV": {
         "longName": "Aptiv PLC",
-        "lastPrice": 73.4000015258789,
+        "lastPrice": 73.41000366210938,
         "lastDividend": 0.22,
         "dividendLastDate": "2020-02-04",
         "lastSplitFactor": "1193:1000",
@@ -2861,7 +2850,7 @@
     },
     "ODFL": {
         "longName": "Old Dominion Freight Line, Inc.",
-        "lastPrice": 203.86000061035156,
+        "lastPrice": 203.83999633789062,
         "lastDividend": 0.26,
         "dividendLastDate": "2024-06-05",
         "lastSplitFactor": "2:1",
@@ -2883,7 +2872,7 @@
     },
     "EIX": {
         "longName": "Edison International",
-        "lastPrice": 73.88999938964844,
+        "lastPrice": 73.91999816894531,
         "lastDividend": 0.78,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "2:1",
@@ -2894,7 +2883,7 @@
     },
     "EBAY": {
         "longName": "eBay Inc.",
-        "lastPrice": 55.40999984741211,
+        "lastPrice": 55.41999816894531,
         "lastDividend": 0.27,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "2376:1000",
@@ -2905,7 +2894,7 @@
     },
     "ALB": {
         "longName": "Albemarle Corporation",
-        "lastPrice": 97.69000244140625,
+        "lastPrice": 97.70999908447266,
         "lastDividend": 0.4,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "2:1",
@@ -2938,7 +2927,7 @@
     },
     "CPRT": {
         "longName": "Copart, Inc.",
-        "lastPrice": 53.97999954223633,
+        "lastPrice": 54.0,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -2949,7 +2938,7 @@
     },
     "EXR": {
         "longName": "Extra Space Storage Inc.",
-        "lastPrice": 164.86000061035156,
+        "lastPrice": 164.80999755859375,
         "lastDividend": 1.62,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -2971,7 +2960,7 @@
     },
     "BALL": {
         "longName": "Ball Corporation",
-        "lastPrice": 62.11000061035156,
+        "lastPrice": 62.099998474121094,
         "lastDividend": 0.2,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "2:1",
@@ -2982,7 +2971,7 @@
     },
     "FITB": {
         "longName": "Fifth Third Bancorp",
-        "lastPrice": 40.22999954223633,
+        "lastPrice": 40.220001220703125,
         "lastDividend": 0.35,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "3:2",
@@ -3004,7 +2993,7 @@
     },
     "ROK": {
         "longName": "Rockwell Automation, Inc.",
-        "lastPrice": 294.3399963378906,
+        "lastPrice": 294.3699951171875,
         "lastDividend": 1.25,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "2:1",
@@ -3015,7 +3004,7 @@
     },
     "CHD": {
         "longName": "Church & Dwight Co., Inc.",
-        "lastPrice": 102.32499694824219,
+        "lastPrice": 102.33000183105469,
         "lastDividend": 0.284,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "2:1",
@@ -3037,7 +3026,7 @@
     },
     "WST": {
         "longName": "West Pharmaceutical Services, Inc.",
-        "lastPrice": 329.2200012207031,
+        "lastPrice": 329.1099853515625,
         "lastDividend": 0.2,
         "dividendLastDate": "2024-04-23",
         "lastSplitFactor": "2:1",
@@ -3048,7 +3037,7 @@
     },
     "EFX": {
         "longName": "Equifax Inc.",
-        "lastPrice": 264.6400146484375,
+        "lastPrice": 264.6000061035156,
         "lastDividend": 0.39,
         "dividendLastDate": "2024-05-23",
         "lastSplitFactor": "2:1",
@@ -3059,7 +3048,7 @@
     },
     "LH": {
         "longName": "Labcorp Holdings Inc.",
-        "lastPrice": 216.67999267578125,
+        "lastPrice": 216.5,
         "lastDividend": 0.72,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "1164:1000",
@@ -3070,7 +3059,7 @@
     },
     "FE": {
         "longName": "FirstEnergy Corp.",
-        "lastPrice": 38.959999084472656,
+        "lastPrice": 38.970001220703125,
         "lastDividend": 0.425,
         "dividendLastDate": "2024-05-06",
         "lastSplitFactor": 0,
@@ -3081,7 +3070,7 @@
     },
     "TSCO": {
         "longName": "Tractor Supply Company",
-        "lastPrice": 283.19000244140625,
+        "lastPrice": 283.1700134277344,
         "lastDividend": 1.1,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "2:1",
@@ -3092,7 +3081,7 @@
     },
     "ZBH": {
         "longName": "Zimmer Biomet Holdings, Inc.",
-        "lastPrice": 107.44999694824219,
+        "lastPrice": 107.45999908447266,
         "lastDividend": 0.24,
         "dividendLastDate": "2024-06-26",
         "lastSplitFactor": "103:100",
@@ -3103,7 +3092,7 @@
     },
     "WTW": {
         "longName": "Willis Towers Watson Public Limited Company",
-        "lastPrice": 264.3699951171875,
+        "lastPrice": 264.32000732421875,
         "lastDividend": 0.88,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "3775:10000",
@@ -3125,7 +3114,7 @@
     },
     "ARE": {
         "longName": "Alexandria Real Estate Equities, Inc.",
-        "lastPrice": 127.61000061035156,
+        "lastPrice": 127.58999633789062,
         "lastDividend": 1.3,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": 0,
@@ -3147,7 +3136,7 @@
     },
     "CTRA": {
         "longName": "Coterra Energy Inc.",
-        "lastPrice": 27.364999771118164,
+        "lastPrice": 27.3700008392334,
         "lastDividend": 0.21,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "2:1",
@@ -3158,7 +3147,7 @@
     },
     "CDW": {
         "longName": "CDW Corporation",
-        "lastPrice": 239.75,
+        "lastPrice": 239.83999633789062,
         "lastDividend": 0.62,
         "dividendLastDate": "2024-05-23",
         "lastSplitFactor": 0,
@@ -3169,7 +3158,7 @@
     },
     "STE": {
         "longName": "STERIS plc",
-        "lastPrice": 227.72000122070312,
+        "lastPrice": 227.63999938964844,
         "lastDividend": 0.52,
         "dividendLastDate": "2024-06-12",
         "lastSplitFactor": "2:1",
@@ -3191,7 +3180,7 @@
     },
     "ANET": {
         "longName": "Arista Networks, Inc.",
-        "lastPrice": 358.42999267578125,
+        "lastPrice": 358.2300109863281,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "4:1",
@@ -3202,7 +3191,7 @@
     },
     "ANSS": {
         "longName": "ANSYS, Inc.",
-        "lastPrice": 330.0799865722656,
+        "lastPrice": 330.3699951171875,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -3213,7 +3202,7 @@
     },
     "PPL": {
         "longName": "PPL Corporation",
-        "lastPrice": 28.299999237060547,
+        "lastPrice": 28.290000915527344,
         "lastDividend": 0.258,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": "10000:9314",
@@ -3224,7 +3213,7 @@
     },
     "WAT": {
         "longName": "Waters Corporation",
-        "lastPrice": 316.5299987792969,
+        "lastPrice": 316.7300109863281,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -3246,7 +3235,7 @@
     },
     "MKC": {
         "longName": "McCormick & Company, Incorporated",
-        "lastPrice": 73.33000183105469,
+        "lastPrice": 73.31999969482422,
         "lastDividend": 0.42,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "2:1",
@@ -3257,7 +3246,7 @@
     },
     "ON": {
         "longName": "ON Semiconductor Corporation",
-        "lastPrice": 78.75,
+        "lastPrice": 78.73999786376953,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3268,7 +3257,7 @@
     },
     "NTRS": {
         "longName": "Northern Trust Corporation",
-        "lastPrice": 90.69999694824219,
+        "lastPrice": 90.76000213623047,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-06-07",
         "lastSplitFactor": "2:1",
@@ -3279,7 +3268,7 @@
     },
     "MTCH": {
         "longName": "Match Group, Inc.",
-        "lastPrice": 34.399898529052734,
+        "lastPrice": 34.40999984741211,
         "lastDividend": 2.0,
         "dividendLastDate": "2018-12-04",
         "lastSplitFactor": "3502:1000",
@@ -3290,7 +3279,7 @@
     },
     "MAA": {
         "longName": "Mid-America Apartment Communities, Inc.",
-        "lastPrice": 142.6199951171875,
+        "lastPrice": 142.6300048828125,
         "lastDividend": 1.47,
         "dividendLastDate": "2024-07-15",
         "lastSplitFactor": 0,
@@ -3301,7 +3290,7 @@
     },
     "GWW": {
         "longName": "W.W. Grainger, Inc.",
-        "lastPrice": 988.6900024414062,
+        "lastPrice": 988.0700073242188,
         "lastDividend": 2.05,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "2:1",
@@ -3312,7 +3301,7 @@
     },
     "IT": {
         "longName": "Gartner, Inc.",
-        "lastPrice": 465.92999267578125,
+        "lastPrice": 466.1000061035156,
         "lastDividend": 1.195,
         "dividendLastDate": "1999-07-19",
         "lastSplitFactor": "2:1",
@@ -3323,7 +3312,7 @@
     },
     "ULTA": {
         "longName": "Ulta Beauty, Inc.",
-        "lastPrice": 409.9200134277344,
+        "lastPrice": 409.70001220703125,
         "lastDividend": 1.0,
         "dividendLastDate": "2012-03-16",
         "lastSplitFactor": 0,
@@ -3367,7 +3356,7 @@
     },
     "LEN": {
         "longName": "Lennar Corporation",
-        "lastPrice": 169.60000610351562,
+        "lastPrice": 169.6199951171875,
         "lastDividend": 0.5,
         "dividendLastDate": "2024-07-05",
         "lastSplitFactor": "1017:1000",
@@ -3378,7 +3367,7 @@
     },
     "CTLT": {
         "longName": "Catalent, Inc.",
-        "lastPrice": 57.869998931884766,
+        "lastPrice": 57.849998474121094,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3411,7 +3400,7 @@
     },
     "AMCR": {
         "longName": "Amcor plc",
-        "lastPrice": 10.079999923706055,
+        "lastPrice": 10.069999694824219,
         "lastDividend": 0.125,
         "dividendLastDate": "2024-05-21",
         "lastSplitFactor": 0,
@@ -3433,7 +3422,7 @@
     },
     "DAL": {
         "longName": "Delta Air Lines, Inc.",
-        "lastPrice": 46.0099983215332,
+        "lastPrice": 46.02000045776367,
         "lastDividend": 0.1,
         "dividendLastDate": "2024-05-13",
         "lastSplitFactor": 0,
@@ -3455,7 +3444,7 @@
     },
     "MLM": {
         "longName": "Martin Marietta Materials, Inc.",
-        "lastPrice": 576.8599853515625,
+        "lastPrice": 577.4600219726562,
         "lastDividend": 0.74,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": 0,
@@ -3466,7 +3455,7 @@
     },
     "K": {
         "longName": "Kellanova",
-        "lastPrice": 57.060001373291016,
+        "lastPrice": 57.04999923706055,
         "lastDividend": 0.56,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "1065:1000",
@@ -3477,7 +3466,7 @@
     },
     "ALGN": {
         "longName": "Align Technology, Inc.",
-        "lastPrice": 247.5500030517578,
+        "lastPrice": 247.5399932861328,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3488,7 +3477,7 @@
     },
     "RF": {
         "longName": "Regions Financial Corporation",
-        "lastPrice": 21.774999618530273,
+        "lastPrice": 21.770000457763672,
         "lastDividend": 0.24,
         "dividendLastDate": "2024-06-03",
         "lastSplitFactor": "12346:10000",
@@ -3499,7 +3488,7 @@
     },
     "NDAQ": {
         "longName": "Nasdaq, Inc.",
-        "lastPrice": 63.290000915527344,
+        "lastPrice": 63.29999923706055,
         "lastDividend": 0.24,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "3:1",
@@ -3510,7 +3499,7 @@
     },
     "PWR": {
         "longName": "Quanta Services, Inc.",
-        "lastPrice": 259.29998779296875,
+        "lastPrice": 259.3699951171875,
         "lastDividend": 0.09,
         "dividendLastDate": "2024-07-01",
         "lastSplitFactor": "3:2",
@@ -3521,7 +3510,7 @@
     },
     "CINF": {
         "longName": "Cincinnati Financial Corporation",
-        "lastPrice": 125.16000366210938,
+        "lastPrice": 125.12999725341797,
         "lastDividend": 0.81,
         "dividendLastDate": "2024-06-18",
         "lastSplitFactor": "105:100",
@@ -3543,7 +3532,7 @@
     },
     "CF": {
         "longName": "CF Industries Holdings, Inc.",
-        "lastPrice": 73.19000244140625,
+        "lastPrice": 73.19999694824219,
         "lastDividend": 0.5,
         "dividendLastDate": "2024-05-14",
         "lastSplitFactor": "5:1",
@@ -3554,7 +3543,7 @@
     },
     "HOLX": {
         "longName": "Hologic, Inc.",
-        "lastPrice": 78.4800033569336,
+        "lastPrice": 78.45999908447266,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -3565,7 +3554,7 @@
     },
     "TDY": {
         "longName": "Teledyne Technologies Incorporated",
-        "lastPrice": 403.19000244140625,
+        "lastPrice": 403.4200134277344,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3576,7 +3565,7 @@
     },
     "URI": {
         "longName": "United Rentals, Inc.",
-        "lastPrice": 743.219970703125,
+        "lastPrice": 743.010009765625,
         "lastDividend": 1.63,
         "dividendLastDate": "2024-05-07",
         "lastSplitFactor": 0,
@@ -3587,7 +3576,7 @@
     },
     "CLX": {
         "longName": "The Clorox Company",
-        "lastPrice": 135.88999938964844,
+        "lastPrice": 135.86000061035156,
         "lastDividend": 1.2,
         "dividendLastDate": "2024-04-23",
         "lastSplitFactor": "2:1",
@@ -3598,7 +3587,7 @@
     },
     "DOV": {
         "longName": "Dover Corporation",
-        "lastPrice": 191.55999755859375,
+        "lastPrice": 191.49000549316406,
         "lastDividend": 0.51,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "1238:1000",
@@ -3609,7 +3598,7 @@
     },
     "HBAN": {
         "longName": "Huntington Bancshares Incorporated",
-        "lastPrice": 14.265000343322754,
+        "lastPrice": 14.270000457763672,
         "lastDividend": 0.155,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": "11:10",
@@ -3631,7 +3620,7 @@
     },
     "MOS": {
         "longName": "The Mosaic Company",
-        "lastPrice": 29.770000457763672,
+        "lastPrice": 29.780000686645508,
         "lastDividend": 0.21,
         "dividendLastDate": "2024-06-06",
         "lastSplitFactor": "2:1",
@@ -3653,7 +3642,7 @@
     },
     "EPAM": {
         "longName": "EPAM Systems, Inc.",
-        "lastPrice": 209.13999938964844,
+        "lastPrice": 209.35000610351562,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3664,7 +3653,7 @@
     },
     "IR": {
         "longName": "Ingersoll Rand Inc.",
-        "lastPrice": 100.37000274658203,
+        "lastPrice": 100.33999633789062,
         "lastDividend": 0.02,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": 0,
@@ -3675,7 +3664,7 @@
     },
     "BR": {
         "longName": "Broadridge Financial Solutions, Inc.",
-        "lastPrice": 209.69000244140625,
+        "lastPrice": 209.74000549316406,
         "lastDividend": 0.8,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": 0,
@@ -3708,7 +3697,7 @@
     },
     "VRSN": {
         "longName": "VeriSign, Inc.",
-        "lastPrice": 179.7899932861328,
+        "lastPrice": 179.8000030517578,
         "lastDividend": 2.75,
         "dividendLastDate": "2011-05-05",
         "lastSplitFactor": "2:1",
@@ -3752,7 +3741,7 @@
     },
     "DGX": {
         "longName": "Quest Diagnostics Incorporated",
-        "lastPrice": 148.6699981689453,
+        "lastPrice": 148.60000610351562,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-07-08",
         "lastSplitFactor": "2:1",
@@ -3763,7 +3752,7 @@
     },
     "KEY": {
         "longName": "KeyCorp",
-        "lastPrice": 15.994999885559082,
+        "lastPrice": 15.989999771118164,
         "lastDividend": 0.205,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "2:1",
@@ -3785,7 +3774,7 @@
     },
     "ATO": {
         "longName": "Atmos Energy Corporation",
-        "lastPrice": 122.3499984741211,
+        "lastPrice": 122.33999633789062,
         "lastDividend": 0.805,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "3:2",
@@ -3818,7 +3807,7 @@
     },
     "ZBRA": {
         "longName": "Zebra Technologies Corporation",
-        "lastPrice": 335.7699890136719,
+        "lastPrice": 335.760009765625,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "3:2",
@@ -3829,7 +3818,7 @@
     },
     "MPWR": {
         "longName": "Monolithic Power Systems, Inc.",
-        "lastPrice": 889.969970703125,
+        "lastPrice": 889.47998046875,
         "lastDividend": 1.25,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": 0,
@@ -3851,7 +3840,7 @@
     },
     "COO": {
         "longName": "The Cooper Companies, Inc.",
-        "lastPrice": 90.11000061035156,
+        "lastPrice": 90.13999938964844,
         "lastDividend": 0.0075,
         "dividendLastDate": "2023-07-26",
         "lastSplitFactor": "4:1",
@@ -3884,7 +3873,7 @@
     },
     "EVRG": {
         "longName": "Evergy, Inc.",
-        "lastPrice": 54.7400016784668,
+        "lastPrice": 54.77000045776367,
         "lastDividend": 0.643,
         "dividendLastDate": "2024-05-17",
         "lastSplitFactor": "2:1",
@@ -3895,7 +3884,7 @@
     },
     "PARA": {
         "longName": "Paramount Global",
-        "lastPrice": 11.954999923706055,
+        "lastPrice": 11.949999809265137,
         "lastDividend": 0.05,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": 0,
@@ -3917,7 +3906,7 @@
     },
     "SWKS": {
         "longName": "Skyworks Solutions, Inc.",
-        "lastPrice": 120.69999694824219,
+        "lastPrice": 120.68000030517578,
         "lastDividend": 0.68,
         "dividendLastDate": "2024-05-20",
         "lastSplitFactor": "2:1",
@@ -3928,7 +3917,7 @@
     },
     "LNT": {
         "longName": "Alliant Energy Corporation",
-        "lastPrice": 54.68000030517578,
+        "lastPrice": 54.65999984741211,
         "lastDividend": 0.48,
         "dividendLastDate": "2024-04-29",
         "lastSplitFactor": "2:1",
@@ -3939,7 +3928,7 @@
     },
     "AKAM": {
         "longName": "Akamai Technologies, Inc.",
-        "lastPrice": 97.48999786376953,
+        "lastPrice": 97.4800033569336,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": 0,
@@ -3950,7 +3939,7 @@
     },
     "FDS": {
         "longName": "FactSet Research Systems Inc.",
-        "lastPrice": 442.25,
+        "lastPrice": 442.239990234375,
         "lastDividend": 1.04,
         "dividendLastDate": "2024-05-31",
         "lastSplitFactor": "3:2",
@@ -3983,7 +3972,7 @@
     },
     "GRMN": {
         "longName": "Garmin Ltd.",
-        "lastPrice": 173.7100067138672,
+        "lastPrice": 173.74000549316406,
         "lastDividend": 0.75,
         "dividendLastDate": "2024-06-17",
         "lastSplitFactor": "2:1",
@@ -4005,7 +3994,7 @@
     },
     "INCY": {
         "longName": "Incyte Corporation",
-        "lastPrice": 64.01000213623047,
+        "lastPrice": 64.0,
         "lastDividend": 0,
         "dividendLastDate": "",
         "lastSplitFactor": "2:1",
@@ -4038,7 +4027,7 @@
     },
     "CPT": {
         "longName": "Camden Property Trust",
-        "lastPrice": 111.23999786376953,
+        "lastPrice": 111.2300033569336,
         "lastDividend": 1.03,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": 0,
@@ -4049,7 +4038,7 @@
     },
     "EXPE": {
         "longName": "Expedia Group, Inc.",
-        "lastPrice": 139.75,
+        "lastPrice": 139.6999969482422,
         "lastDividend": 0.34,
         "dividendLastDate": "2020-03-09",
         "lastSplitFactor": "1:2",
@@ -4060,7 +4049,7 @@
     },
     "SYF": {
         "longName": "Synchrony Financial",
-        "lastPrice": 51.70000076293945,
+        "lastPrice": 51.709999084472656,
         "lastDividend": 0.25,
         "dividendLastDate": "2024-05-03",
         "lastSplitFactor": 0,
@@ -4071,7 +4060,7 @@
     },
     "LDOS": {
         "longName": "Leidos Holdings, Inc.",
-        "lastPrice": 151.7899932861328,
+        "lastPrice": 151.80999755859375,
         "lastDividend": 0.38,
         "dividendLastDate": "2024-06-14",
         "lastSplitFactor": "405:1000",
@@ -4093,7 +4082,7 @@
     },
     "AES": {
         "longName": "The AES Corporation",
-        "lastPrice": 17.645000457763672,
+        "lastPrice": 17.649999618530273,
         "lastDividend": 0.173,
         "dividendLastDate": "2024-04-30",
         "lastSplitFactor": "2:1",
@@ -4104,7 +4093,7 @@
     },
     "VFC": {
         "longName": "V.F. Corporation",
-        "lastPrice": 14.229999542236328,
+        "lastPrice": 14.220000267028809,
         "lastDividend": 0.09,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": "1062:1000",
@@ -4115,7 +4104,7 @@
     },
     "SJM": {
         "longName": "The J. M. Smucker Company",
-        "lastPrice": 117.48999786376953,
+        "lastPrice": 117.5,
         "lastDividend": 1.06,
         "dividendLastDate": "2024-05-16",
         "lastSplitFactor": 0,
@@ -4126,7 +4115,7 @@
     },
     "XYL": {
         "longName": "Xylem Inc.",
-        "lastPrice": 141.32000732421875,
+        "lastPrice": 141.25999450683594,
         "lastDividend": 0.36,
         "dividendLastDate": "2024-05-30",
         "lastSplitFactor": 0,
@@ -4137,7 +4126,7 @@
     },
     "POOL": {
         "longName": "Pool Corporation",
-        "lastPrice": 336.7300109863281,
+        "lastPrice": 336.8999938964844,
         "lastDividend": 1.2,
         "dividendLastDate": "2024-05-15",
         "lastSplitFactor": "3:2",
@@ -4148,7 +4137,7 @@
     },
     "NTAP": {
         "longName": "NetApp, Inc.",
-        "lastPrice": 131.57000732421875,
+        "lastPrice": 131.58999633789062,
         "lastDividend": 0.52,
         "dividendLastDate": "2024-07-05",
         "lastSplitFactor": "2:1",
@@ -4159,7 +4148,7 @@
     },
     "TER": {
         "longName": "Teradyne, Inc.",
-        "lastPrice": 162.97999572753906,
+        "lastPrice": 163.0,
         "lastDividend": 0.12,
         "dividendLastDate": "2024-05-21",
         "lastSplitFactor": "2:1",
@@ -4170,7 +4159,7 @@
     },
     "PAYC": {
         "longName": "Paycom Software, Inc.",
-        "lastPrice": 161.05999755859375,
+        "lastPrice": 161.02999877929688,
         "lastDividend": 0.375,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": 0,
@@ -4181,7 +4170,7 @@
     },
     "IEX": {
         "longName": "IDEX Corporation",
-        "lastPrice": 210.91000366210938,
+        "lastPrice": 210.80999755859375,
         "lastDividend": 0.69,
         "dividendLastDate": "2024-07-12",
         "lastSplitFactor": "3:2",
@@ -4192,7 +4181,7 @@
     },
     "UDR": {
         "longName": "UDR, Inc.",
-        "lastPrice": 41.07500076293945,
+        "lastPrice": 41.08000183105469,
         "lastDividend": 0.425,
         "dividendLastDate": "2024-07-10",
         "lastSplitFactor": "2:1",
@@ -4203,7 +4192,7 @@
     },
     "STX": {
         "longName": "Seagate Technology Holdings plc",
-        "lastPrice": 108.69999694824219,
+        "lastPrice": 108.70999908447266,
         "lastDividend": 0.7,
         "dividendLastDate": "2024-06-20",
         "lastSplitFactor": 0,
@@ -4214,7 +4203,7 @@
     },
     "BRO": {
         "longName": "Brown & Brown, Inc.",
-        "lastPrice": 93.30000305175781,
+        "lastPrice": 93.30999755859375,
         "lastDividend": 0.13,
         "dividendLastDate": "2024-05-03",
         "lastSplitFactor": "2:1",
@@ -4225,7 +4214,7 @@
     },
     "TECH": {
         "longName": "Bio-Techne Corporation",
-        "lastPrice": 79.8499984741211,
+        "lastPrice": 79.81999969482422,
         "lastDividend": 0.08,
         "dividendLastDate": "2024-05-10",
         "lastSplitFactor": "4:1",
@@ -4236,7 +4225,7 @@
     },
     "GNRC": {
         "longName": "Generac Holdings Inc.",
-        "lastPrice": 159.2480010986328,
+        "lastPrice": 159.22999572753906,
         "lastDividend": 5.0,
         "dividendLastDate": "2013-06-10",
         "lastSplitFactor": 0,
@@ -4247,7 +4236,7 @@
     },
     "FMC": {
         "longName": "FMC Corporation",
-        "lastPrice": 59.25,
+        "lastPrice": 59.2400016784668,
         "lastDividend": 0.58,
         "dividendLastDate": "2024-06-28",
         "lastSplitFactor": "1153:1000",
@@ -4258,7 +4247,7 @@
     },
     "TYL": {
         "longName": "Tyler Technologies, Inc.",
-        "lastPrice": 528.9400024414062,
+        "lastPrice": 528.9199829101562,
         "lastDividend": 0.006667,
         "dividendLastDate": "1990-01-31",
         "lastSplitFactor": "3:1",
@@ -4280,7 +4269,7 @@
     },
     "AVY": {
         "longName": "Avery Dennison Corporation",
-        "lastPrice": 223.5399932861328,
+        "lastPrice": 223.47000122070312,
         "lastDividend": 0.88,
         "dividendLastDate": "2024-06-05",
         "lastSplitFactor": "2:1",
@@ -4291,7 +4280,7 @@
     },
     "BBY": {
         "longName": "Best Buy Co., Inc.",
-        "lastPrice": 87.26000213623047,
+        "lastPrice": 87.25,
         "lastDividend": 0.94,
         "dividendLastDate": "2024-06-20",
         "lastSplitFactor": "3:2",
@@ -4302,7 +4291,7 @@
     },
     "JKHY": {
         "longName": "Jack Henry & Associates, Inc.",
-        "lastPrice": 169.75,
+        "lastPrice": 169.74000549316406,
         "lastDividend": 0.55,
         "dividendLastDate": "2024-05-24",
         "lastSplitFactor": "2:1",
@@ -4313,7 +4302,7 @@
     },
     "HRL": {
         "longName": "Hormel Foods Corporation",
-        "lastPrice": 31.3700008392334,
+        "lastPrice": 31.360000610351562,
         "lastDividend": 0.283,
         "dividendLastDate": "2024-07-15",
         "lastSplitFactor": "2:1",
@@ -4324,981 +4313,13 @@
     },
     "OMC": {
         "longName": "Omnicom Group Inc.",
-        "lastPrice": 95.37000274658203,
+        "lastPrice": 95.3499984741211,
         "lastDividend": 0.7,
         "dividendLastDate": "2024-06-10",
         "lastSplitFactor": "2:1",
         "lastSplitDate": "2007-06-26",
         "marketCap": 18672771072,
         "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "TXT": {
-        "longName": "Textron Inc.",
-        "lastPrice": 94.0,
-        "lastDividend": 0.02,
-        "dividendLastDate": "2024-06-14",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2007-08-27",
-        "marketCap": 17929519104,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "CHRW": {
-        "longName": "C.H. Robinson Worldwide, Inc.",
-        "lastPrice": 87.76000213623047,
-        "lastDividend": 0.61,
-        "dividendLastDate": "2024-06-07",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-10-17",
-        "marketCap": 10273914880,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "JBHT": {
-        "longName": "J.B. Hunt Transport Services, Inc.",
-        "lastPrice": 176.0,
-        "lastDividend": 0.43,
-        "dividendLastDate": "2024-05-09",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-05-24",
-        "marketCap": 18162671616,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "LKQ": {
-        "longName": "LKQ Corporation",
-        "lastPrice": 45.36000061035156,
-        "lastDividend": 0.3,
-        "dividendLastDate": "2024-05-15",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2012-09-19",
-        "marketCap": 12100959232,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "PKG": {
-        "longName": "Packaging Corporation of America",
-        "lastPrice": 190.9600067138672,
-        "lastDividend": 1.25,
-        "dividendLastDate": "2024-06-14",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 17149621248,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "NVR": {
-        "longName": "NVR, Inc.",
-        "lastPrice": 8508.3603515625,
-        "lastDividend": 0.167,
-        "dividendLastDate": "1990-02-23",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 26625144832,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "VTRS": {
-        "longName": "Viatris Inc.",
-        "lastPrice": 11.385000228881836,
-        "lastDividend": 0.12,
-        "dividendLastDate": "2024-05-23",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "2003-10-09",
-        "marketCap": 13549939712,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "BXP": {
-        "longName": "BXP, Inc.",
-        "lastPrice": 69.33000183105469,
-        "lastDividend": 0.98,
-        "dividendLastDate": "2024-06-28",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 12220648448,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "CE": {
-        "longName": "Celanese Corporation",
-        "lastPrice": 147.4499969482422,
-        "lastDividend": 0.7,
-        "dividendLastDate": "2024-04-26",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 16111041536,
-        "sector": "Basic_Materials",
-        "stockNumber": 0
-    },
-    "KIM": {
-        "longName": "Kimco Realty Corporation",
-        "lastPrice": 21.190000534057617,
-        "lastDividend": 0.24,
-        "dividendLastDate": "2024-06-06",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-08-24",
-        "marketCap": 14284517376,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "MAS": {
-        "longName": "Masco Corporation",
-        "lastPrice": 74.30999755859375,
-        "lastDividend": 0.29,
-        "dividendLastDate": "2024-05-23",
-        "lastSplitFactor": "1138:1000",
-        "lastSplitDate": "2015-07-01",
-        "marketCap": 16364130304,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "NI": {
-        "longName": "NiSource Inc.",
-        "lastPrice": 30.030000686645508,
-        "lastDividend": 0.265,
-        "dividendLastDate": "2024-04-29",
-        "lastSplitFactor": "2545:1000",
-        "lastSplitDate": "2015-07-02",
-        "marketCap": 13462599680,
-        "sector": "Utilities",
-        "stockNumber": 0
-    },
-    "CBOE": {
-        "longName": "Cboe Global Markets, Inc.",
-        "lastPrice": 173.10000610351562,
-        "lastDividend": 0.55,
-        "dividendLastDate": "2023-11-29",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 18175868928,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "LVS": {
-        "longName": "Las Vegas Sands Corp.",
-        "lastPrice": 42.900001525878906,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-05-06",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 31962515456,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "HWM": {
-        "longName": "Howmet Aerospace Inc.",
-        "lastPrice": 81.38999938964844,
-        "lastDividend": 0.05,
-        "dividendLastDate": "2024-05-09",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 33217931264,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "APA": {
-        "longName": "APA Corporation",
-        "lastPrice": 31.68000030517578,
-        "lastDividend": 0.25,
-        "dividendLastDate": "2024-04-19",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2004-01-15",
-        "marketCap": 11755651072,
-        "sector": "Energy",
-        "stockNumber": 0
-    },
-    "TFX": {
-        "longName": "Teleflex Incorporated",
-        "lastPrice": 229.3800048828125,
-        "lastDividend": 0.34,
-        "dividendLastDate": "2024-05-14",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1997-06-17",
-        "marketCap": 10799683584,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "L": {
-        "longName": "Loews Corporation",
-        "lastPrice": 78.3499984741211,
-        "lastDividend": 0.063,
-        "dividendLastDate": "2024-05-29",
-        "lastSplitFactor": "3:1",
-        "lastSplitDate": "2006-05-09",
-        "marketCap": 17347160064,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "UAL": {
-        "longName": "United Airlines Holdings, Inc.",
-        "lastPrice": 47.08000183105469,
-        "lastDividend": 2.15,
-        "dividendLastDate": "2008-01-07",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 15476757504,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "SBNY": {
-        "longName": "Signature Bank",
-        "lastPrice": 2.299999952316284,
-        "lastDividend": 0.7,
-        "dividendLastDate": "2023-01-26",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 144840192,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "EMN": {
-        "longName": "Eastman Chemical Company",
-        "lastPrice": 100.18000030517578,
-        "lastDividend": 0.81,
-        "dividendLastDate": "2024-06-17",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2011-10-04",
-        "marketCap": 11781067776,
-        "sector": "Basic_Materials",
-        "stockNumber": 0
-    },
-    "PTC": {
-        "longName": "PTC Inc.",
-        "lastPrice": 184.19000244140625,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "2:5",
-        "lastSplitDate": "2006-02-28",
-        "marketCap": 22042476544,
-        "sector": "Technology",
-        "stockNumber": 0
-    },
-    "LYV": {
-        "longName": "Live Nation Entertainment, Inc.",
-        "lastPrice": 97.18000030517578,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 22489317376,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "HST": {
-        "longName": "Host Hotels & Resorts, Inc.",
-        "lastPrice": 18.559999465942383,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-06-28",
-        "lastSplitFactor": "10215:10000",
-        "lastSplitDate": "2009-11-04",
-        "marketCap": 13265723392,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "NDSN": {
-        "longName": "Nordson Corporation",
-        "lastPrice": 243.4600067138672,
-        "lastDividend": 0.68,
-        "dividendLastDate": "2024-05-20",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2011-04-13",
-        "marketCap": 13936934912,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "CRL": {
-        "longName": "Charles River Laboratories International, Inc.",
-        "lastPrice": 227.36000061035156,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 11709124608,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "IPG": {
-        "longName": "The Interpublic Group of Companies, Inc.",
-        "lastPrice": 30.655000686645508,
-        "lastDividend": 0.33,
-        "dividendLastDate": "2024-06-04",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1999-07-16",
-        "marketCap": 11568045056,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "AAP": {
-        "longName": "Advance Auto Parts, Inc.",
-        "lastPrice": 63.65999984741211,
-        "lastDividend": 0.25,
-        "dividendLastDate": "2024-07-12",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "2005-09-26",
-        "marketCap": 3795555584,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "BIO": {
-        "longName": "Bio-Rad Laboratories, Inc.",
-        "lastPrice": 314.6400146484375,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2002-03-08",
-        "marketCap": 8872954880,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "HSIC": {
-        "longName": "Henry Schein, Inc.",
-        "lastPrice": 67.58999633789062,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "1275:1000",
-        "lastSplitDate": "2019-02-08",
-        "marketCap": 8654966784,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "SNA": {
-        "longName": "Snap-on Incorporated",
-        "lastPrice": 278.989990234375,
-        "lastDividend": 1.86,
-        "dividendLastDate": "2024-05-17",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1996-09-11",
-        "marketCap": 14702135296,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "MGM": {
-        "longName": "MGM Resorts International",
-        "lastPrice": 46.79999923706055,
-        "lastDividend": 0.003,
-        "dividendLastDate": "2022-12-08",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-05-19",
-        "marketCap": 14673949696,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "FOXA": {
-        "longName": "Fox Corporation",
-        "lastPrice": 36.7400016784668,
-        "lastDividend": 0.26,
-        "dividendLastDate": "2024-03-05",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 16554724352,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "TAP": {
-        "longName": "Molson Coors Beverage Company",
-        "lastPrice": 52.59000015258789,
-        "lastDividend": 0.44,
-        "dividendLastDate": "2024-06-07",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2007-10-04",
-        "marketCap": 11169832960,
-        "sector": "Consumer_Defensive",
-        "stockNumber": 0
-    },
-    "HAS": {
-        "longName": "Hasbro, Inc.",
-        "lastPrice": 62.099998474121094,
-        "lastDividend": 0.7,
-        "dividendLastDate": "2024-04-30",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1999-03-16",
-        "marketCap": 8648097792,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "LW": {
-        "longName": "Lamb Weston Holdings, Inc.",
-        "lastPrice": 77.9000015258789,
-        "lastDividend": 0.36,
-        "dividendLastDate": "2024-05-02",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 11249504256,
-        "sector": "Consumer_Defensive",
-        "stockNumber": 0
-    },
-    "LUMN": {
-        "longName": "Lumen Technologies, Inc.",
-        "lastPrice": 1.3250000476837158,
-        "lastDividend": 0.25,
-        "dividendLastDate": "2022-08-29",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1999-04-01",
-        "marketCap": 1339852800,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "ETSY": {
-        "longName": "Etsy, Inc.",
-        "lastPrice": 65.45999908447266,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 7655603712,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "PHM": {
-        "longName": "PulteGroup, Inc.",
-        "lastPrice": 124.56999969482422,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-06-18",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-09-02",
-        "marketCap": 26200199168,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "QRVO": {
-        "longName": "Qorvo, Inc.",
-        "lastPrice": 129.22000122070312,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 12278672384,
-        "sector": "Technology",
-        "stockNumber": 0
-    },
-    "AIZ": {
-        "longName": "Assurant, Inc.",
-        "lastPrice": 170.25,
-        "lastDividend": 0.72,
-        "dividendLastDate": "2024-06-10",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 8850063360,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "CPB": {
-        "longName": "Campbell Soup Company",
-        "lastPrice": 46.099998474121094,
-        "lastDividend": 0.37,
-        "dividendLastDate": "2024-07-03",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1997-03-18",
-        "marketCap": 13763338240,
-        "sector": "Consumer_Defensive",
-        "stockNumber": 0
-    },
-    "CMA": {
-        "longName": "Comerica Incorporated",
-        "lastPrice": 57.45000076293945,
-        "lastDividend": 0.71,
-        "dividendLastDate": "2024-06-14",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1998-04-02",
-        "marketCap": 7615797248,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "MKTX": {
-        "longName": "MarketAxess Holdings Inc.",
-        "lastPrice": 221.55999755859375,
-        "lastDividend": 0.74,
-        "dividendLastDate": "2024-05-21",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 8399469056,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "NRG": {
-        "longName": "NRG Energy, Inc.",
-        "lastPrice": 76.44999694824219,
-        "lastDividend": 0.408,
-        "dividendLastDate": "2024-04-30",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2007-06-01",
-        "marketCap": 15933820928,
-        "sector": "Utilities",
-        "stockNumber": 0
-    },
-    "GL": {
-        "longName": "Globe Life Inc.",
-        "lastPrice": 88.56999969482422,
-        "lastDividend": 0.24,
-        "dividendLastDate": "2024-07-05",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "2014-07-02",
-        "marketCap": 8166791168,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "REG": {
-        "longName": "Regency Centers Corporation",
-        "lastPrice": 65.12999725341797,
-        "lastDividend": 0.67,
-        "dividendLastDate": "2024-06-12",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 12106299392,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "FFIV": {
-        "longName": "F5, Inc.",
-        "lastPrice": 182.9499969482422,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2007-08-21",
-        "marketCap": 10726471680,
-        "sector": "Technology",
-        "stockNumber": 0
-    },
-    "JNPR": {
-        "longName": "Juniper Networks, Inc.",
-        "lastPrice": 37.279998779296875,
-        "lastDividend": 0.22,
-        "dividendLastDate": "2024-06-03",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2000-06-16",
-        "marketCap": 12115552256,
-        "sector": "Technology",
-        "stockNumber": 0
-    },
-    "ALLE": {
-        "longName": "Allegion plc",
-        "lastPrice": 128.02000427246094,
-        "lastDividend": 0.48,
-        "dividendLastDate": "2024-06-14",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 11194159104,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "WHR": {
-        "longName": "Whirlpool Corporation",
-        "lastPrice": 112.33999633789062,
-        "lastDividend": 1.75,
-        "dividendLastDate": "2024-05-16",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1987-01-02",
-        "marketCap": 6137774592,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "HII": {
-        "longName": "Huntington Ingalls Industries, Inc.",
-        "lastPrice": 267.4599914550781,
-        "lastDividend": 1.3,
-        "dividendLastDate": "2024-05-31",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 10546830336,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "SEE": {
-        "longName": "Sealed Air Corporation",
-        "lastPrice": 36.810001373291016,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-06-14",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2007-03-19",
-        "marketCap": 5360088576,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "OGN": {
-        "longName": "Organon & Co.",
-        "lastPrice": 20.81999969482422,
-        "lastDividend": 0.28,
-        "dividendLastDate": "2024-05-10",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 5351728640,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "AAL": {
-        "longName": "American Airlines Group Inc.",
-        "lastPrice": 11.180000305175781,
-        "lastDividend": 0.1,
-        "dividendLastDate": "2020-02-04",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 7341646848,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "PNW": {
-        "longName": "Pinnacle West Capital Corporation",
-        "lastPrice": 80.55000305175781,
-        "lastDividend": 0.88,
-        "dividendLastDate": "2024-04-30",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 9147177984,
-        "sector": "Utilities",
-        "stockNumber": 0
-    },
-    "RHI": {
-        "longName": "Robert Half Inc.",
-        "lastPrice": 66.01000213623047,
-        "lastDividend": 0.53,
-        "dividendLastDate": "2024-05-23",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2000-06-13",
-        "marketCap": 6928726016,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "CZR": {
-        "longName": "Caesars Entertainment, Inc.",
-        "lastPrice": 39.76100158691406,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 8592428032,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "BWA": {
-        "longName": "BorgWarner Inc.",
-        "lastPrice": 34.529998779296875,
-        "lastDividend": 0.11,
-        "dividendLastDate": "2024-06-03",
-        "lastSplitFactor": "1136:1000",
-        "lastSplitDate": "2023-07-05",
-        "marketCap": 7862688768,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "TPR": {
-        "longName": "Tapestry, Inc.",
-        "lastPrice": 42.970001220703125,
-        "lastDividend": 0.35,
-        "dividendLastDate": "2024-06-07",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2005-04-05",
-        "marketCap": 9871047680,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "LNC": {
-        "longName": "Lincoln National Corporation",
-        "lastPrice": 32.79999923706055,
-        "lastDividend": 0.45,
-        "dividendLastDate": "2024-07-10",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1999-06-22",
-        "marketCap": 5576885760,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "RCL": {
-        "longName": "Royal Caribbean Cruises Ltd.",
-        "lastPrice": 172.1699981689453,
-        "lastDividend": 0.78,
-        "dividendLastDate": "2020-03-05",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1998-08-03",
-        "marketCap": 44284616704,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "XRAY": {
-        "longName": "DENTSPLY SIRONA Inc.",
-        "lastPrice": 26.799999237060547,
-        "lastDividend": 0.16,
-        "dividendLastDate": "2024-06-28",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2006-07-18",
-        "marketCap": 5566587392,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "ZION": {
-        "longName": "Zions Bancorporation, National Association",
-        "lastPrice": 50.220001220703125,
-        "lastDividend": 0.41,
-        "dividendLastDate": "2024-05-15",
-        "lastSplitFactor": "4:1",
-        "lastSplitDate": "1997-05-15",
-        "marketCap": 7415234560,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "ROL": {
-        "longName": "Rollins, Inc.",
-        "lastPrice": 49.25,
-        "lastDividend": 0.15,
-        "dividendLastDate": "2024-05-09",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "2020-12-11",
-        "marketCap": 23868192768,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "PNR": {
-        "longName": "Pentair plc",
-        "lastPrice": 83.30000305175781,
-        "lastDividend": 0.23,
-        "dividendLastDate": "2024-04-18",
-        "lastSplitFactor": "1489:1000",
-        "lastSplitDate": "2018-05-01",
-        "marketCap": 13826561024,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "AOS": {
-        "longName": "A. O. Smith Corporation",
-        "lastPrice": 92.01000213623047,
-        "lastDividend": 0.32,
-        "dividendLastDate": "2024-04-29",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2016-10-06",
-        "marketCap": 13490707456,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "DXC": {
-        "longName": "DXC Technology Company",
-        "lastPrice": 19.559999465942383,
-        "lastDividend": 0.21,
-        "dividendLastDate": "2020-03-24",
-        "lastSplitFactor": "1156:1000",
-        "lastSplitDate": "2018-06-01",
-        "marketCap": 3524336896,
-        "sector": "Technology",
-        "stockNumber": 0
-    },
-    "NWL": {
-        "longName": "Newell Brands Inc.",
-        "lastPrice": 6.650000095367432,
-        "lastDividend": 0.07,
-        "dividendLastDate": "2024-05-31",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1994-09-02",
-        "marketCap": 2764972032,
-        "sector": "Consumer_Defensive",
-        "stockNumber": 0
-    },
-    "UHS": {
-        "longName": "Universal Health Services, Inc.",
-        "lastPrice": 183.8800048828125,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-06-03",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2009-12-16",
-        "marketCap": 12306941952,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "CCL": {
-        "longName": "Carnival Corporation & plc",
-        "lastPrice": 19.170000076293945,
-        "lastDividend": 0.5,
-        "dividendLastDate": "2020-02-20",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1998-06-15",
-        "marketCap": 25128294400,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "FRT": {
-        "longName": "Federal Realty Investment Trust",
-        "lastPrice": 108.68499755859375,
-        "lastDividend": 1.09,
-        "dividendLastDate": "2024-06-21",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1985-11-06",
-        "marketCap": 9085570048,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "BBWI": {
-        "longName": "Bath & Body Works, Inc.",
-        "lastPrice": 38.65999984741211,
-        "lastDividend": 0.2,
-        "dividendLastDate": "2024-06-07",
-        "lastSplitFactor": "1237:1000",
-        "lastSplitDate": "2021-08-03",
-        "marketCap": 8630111232,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "MHK": {
-        "longName": "Mohawk Industries, Inc.",
-        "lastPrice": 132.7100067138672,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "3:2",
-        "lastSplitDate": "1997-12-05",
-        "marketCap": 8474633216,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "BEN": {
-        "longName": "Franklin Resources, Inc.",
-        "lastPrice": 23.969999313354492,
-        "lastDividend": 0.31,
-        "dividendLastDate": "2024-06-28",
-        "lastSplitFactor": "3:1",
-        "lastSplitDate": "2013-07-26",
-        "marketCap": 12610401280,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "NWSA": {
-        "longName": "News Corporation",
-        "lastPrice": 28.440000534057617,
-        "lastDividend": 0.1,
-        "dividendLastDate": "2024-03-12",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 16305704960,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "WYNN": {
-        "longName": "Wynn Resorts, Limited",
-        "lastPrice": 85.95500183105469,
-        "lastDividend": 0.25,
-        "dividendLastDate": "2024-05-17",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 9632501760,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "IVZ": {
-        "longName": "Invesco Ltd.",
-        "lastPrice": 16.479999542236328,
-        "lastDividend": 0.205,
-        "dividendLastDate": "2024-05-13",
-        "lastSplitFactor": "25:10",
-        "lastSplitDate": "2000-11-08",
-        "marketCap": 7413214720,
-        "sector": "Financial_Services",
-        "stockNumber": 0
-    },
-    "PENN": {
-        "longName": "PENN Entertainment, Inc.",
-        "lastPrice": 19.895000457763672,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "4423:1000",
-        "lastSplitDate": "2013-11-04",
-        "marketCap": 3033675264,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "ALK": {
-        "longName": "Alaska Air Group, Inc.",
-        "lastPrice": 40.529998779296875,
-        "lastDividend": 0.375,
-        "dividendLastDate": "2020-02-14",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2014-07-10",
-        "marketCap": 5139125760,
-        "sector": "Industrials",
-        "stockNumber": 0
-    },
-    "DVA": {
-        "longName": "DaVita Inc.",
-        "lastPrice": 137.7899932861328,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "2013-09-09",
-        "marketCap": 12078402560,
-        "sector": "Healthcare",
-        "stockNumber": 0
-    },
-    "NCLH": {
-        "longName": "Norwegian Cruise Line Holdings Ltd.",
-        "lastPrice": 20.371000289916992,
-        "lastDividend": 0,
-        "dividendLastDate": "",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 8739565568,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "VNO": {
-        "longName": "Vornado Realty Trust",
-        "lastPrice": 29.81999969482422,
-        "lastDividend": 0.3,
-        "dividendLastDate": "2023-12-14",
-        "lastSplitFactor": "1237:1000",
-        "lastSplitDate": "2017-07-18",
-        "marketCap": 6188555776,
-        "sector": "Real_Estate",
-        "stockNumber": 0
-    },
-    "FOX": {
-        "longName": "Fox Corporation",
-        "lastPrice": 34.224998474121094,
-        "lastDividend": 0.26,
-        "dividendLastDate": "2024-03-05",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 16548586496,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "RL": {
-        "longName": "Ralph Lauren Corporation",
-        "lastPrice": 173.17999267578125,
-        "lastDividend": 0.825,
-        "dividendLastDate": "2024-06-28",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 10851236864,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "PVH": {
-        "longName": "PVH Corp.",
-        "lastPrice": 106.44000244140625,
-        "lastDividend": 0.038,
-        "dividendLastDate": "2024-06-05",
-        "lastSplitFactor": "2:1",
-        "lastSplitDate": "1991-10-10",
-        "marketCap": 5948297216,
-        "sector": "Consumer_Cyclical",
-        "stockNumber": 0
-    },
-    "NWS": {
-        "longName": "News Corporation",
-        "lastPrice": 29.290000915527344,
-        "lastDividend": 0.1,
-        "dividendLastDate": "2024-03-12",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 16420150272,
-        "sector": "Communication_Services",
-        "stockNumber": 0
-    },
-    "EMBC": {
-        "longName": "Embecta Corp.",
-        "lastPrice": 13.210000038146973,
-        "lastDividend": 0.15,
-        "dividendLastDate": "2024-05-24",
-        "lastSplitFactor": 0,
-        "lastSplitDate": "",
-        "marketCap": 761246656,
-        "sector": "Healthcare",
         "stockNumber": 0
     }
 }

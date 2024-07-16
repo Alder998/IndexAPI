@@ -22,44 +22,6 @@ import Objects.Stock;
 
 @Component
 public class DataClass {
-	
-	// custom Messages service
-	public class IndexNotFoundException extends Exception {
-	    public IndexNotFoundException(String message) {
-	        super(message);
-	    }
-	}
-	
-	public class StockNotFoundException extends Exception {
-	    public StockNotFoundException(String message) {
-	        super(message);
-	    }
-	}
-	
-	public class IndexAlreadyExistsException extends Exception {
-	    public IndexAlreadyExistsException(String message) {
-	        super(message);
-	    }
-	}
-	
-	
-	public class StockAlreadyExistsException extends Exception {
-	    public StockAlreadyExistsException(String message) {
-	        super(message);
-	    }
-	}
-	
-	public class ValidationException extends Exception {
-	    public ValidationException(String message) {
-	        super(message);
-	    }
-	}
-	
-	public class TwoMembersException extends Exception {
-	    public TwoMembersException(String message) {
-	        super(message);
-	    }
-	}
 
 	// Here we are storing the methods to Complete the requested Tasks. Therefore, the create update and Calculate Methods for indexes
 
@@ -124,7 +86,7 @@ public class DataClass {
 			 return filteredIndex;
 		 }
 		 else {
-	         throw new IndexNotFoundException("ERROR: The Index:" + indexName + " has not been found!");
+	         throw new customExceptions.IndexNotFoundException("ERROR: The Index:" + indexName + " has not been found!");
 		 }
 	}
 	
@@ -143,7 +105,7 @@ public class DataClass {
 			 return filteredStock;
 		 }
 		 else {
-	         throw new IndexNotFoundException("ERROR: The Index:" + stockName + " has not been found!");
+	         throw new customExceptions.IndexNotFoundException("ERROR: The Index:" + stockName + " has not been found!");
 		 }
 	}
 	
@@ -199,7 +161,7 @@ public class DataClass {
 		// Any index must have at least two members, so if the total value is low, it could happen that the stock present in the
 		// Index would be less than two
 		if (selectedStocks.size() <= 2) {
-			throw new TwoMembersException ("ERROR: the number of stocks in the index is less than two!");
+			throw new customExceptions.TwoMembersException ("ERROR: the number of stocks in the index is less than two!");
 		}
 		
 		// Add stocks to index and set index parameters
@@ -215,7 +177,7 @@ public class DataClass {
 		// Check the presence of the index created now among the existing Indexes
 		for (Index index : existingIndexes) {
 			if (index.getIndexName().equals(indexName)) {
-				throw new IndexAlreadyExistsException ("ERROR Index " + indexName + " already Existing!");
+				throw new customExceptions.IndexAlreadyExistsException ("ERROR Index " + indexName + " already Existing!");
 			}
 		}
         // Convert newIndex to JSON string
@@ -251,7 +213,7 @@ public class DataClass {
 		for (Stock stock : index.getIndexShares()) {
 			// Check presence of the stock in the index
 			if (stock.getTicker().equals(stockToAdd.getTicker())) {
-				throw new StockAlreadyExistsException("ERROR Stock " + stockToAdd.getTicker() + " already Present in Index:" + indexName);
+				throw new customExceptions.StockAlreadyExistsException("ERROR Stock " + stockToAdd.getTicker() + " already Present in Index:" + indexName);
 			}
 		}
 		// Add the stock to the Index
@@ -291,7 +253,7 @@ public class DataClass {
 		ArrayList<Stock> updatedShares = selectedIndex.getIndexShares().stream().filter(x -> !x.getTicker().equals(stockToDelete.getTicker())).collect(Collectors.toCollection(ArrayList::new));
 		
 		if (updatedShares.size()==selectedIndex.getIndexShares().size()) {
-			throw new StockNotFoundException("ERROR Stock " + stockToDelete.getTicker() + " Not Present in Index:" + indexName);
+			throw new customExceptions.StockNotFoundException("ERROR Stock " + stockToDelete.getTicker() + " Not Present in Index:" + indexName);
 		}
 		
 		// Set the other Index Parameters

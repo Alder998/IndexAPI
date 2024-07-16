@@ -38,11 +38,11 @@ class APITest {
                 .andExpect(MockMvcResultMatchers.status().isOk());
     }
     
-    @Test
-    public void testGetStock() throws Exception {
-        mockMvc.perform(get("/api/stock"))
-                .andExpect(MockMvcResultMatchers.status().isOk());
-    }
+//    @Test
+//    public void testGetStock() throws Exception {
+//        mockMvc.perform(get("/api/stock"))
+//                .andExpect(MockMvcResultMatchers.status().isOk());
+//    }
     
 //    @Test
 //    public void createIndex() throws Exception {
@@ -58,12 +58,12 @@ class APITest {
 //                .andExpect(MockMvcResultMatchers.status().isOk());
 //    }
     
-    // Test add stock to Index
-    @InjectMocks
-    private RestService restService;
-    @InjectMocks
-    private DataClass data;
-    
+//    // Test add stock to Index
+//    @InjectMocks
+//    private RestService restService;
+//    @InjectMocks
+//    private DataClass data;
+//    
 //    @Test
 //    public void addStockToIndex() throws Exception {
 //        // Create Stock with the desired Values

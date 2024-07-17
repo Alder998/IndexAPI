@@ -51,7 +51,7 @@ class APITest {
 //       								 	   .param("indexTotalValue", String.valueOf(10000)))
 //               .andExpect(MockMvcResultMatchers.status().isOk());
 //    }
-    
+//    
 //    @Test
 //    public void deleteIndex() throws Exception {
 //        mockMvc.perform(get("/api/deleteIndex").param("indexName", "TopS&P500_200"))

@@ -91,7 +91,7 @@ public class DataClass {
 	}
 	
 	// TODO: for this Method, same as above, replace the for loop with a .stream, faster and better
-	public Stock getStockFromJsonDataByIndexName (String stockName) throws Exception {
+	public Stock getStockFromJsonDataByStockName (String stockName) throws Exception {
 		 ArrayList<Stock> allStocks = this.getStocksFromJsonData();
 		 Stock filteredStock = new Stock();
 		 // TODO for spare time: this method to filter is super slow, may look for other alternatives, for example, look for
@@ -397,7 +397,7 @@ public class DataClass {
 			// Iterate for each Stock in the Index
 			ArrayList<Stock> updatedStocks = new ArrayList<Stock>();
 			for (Stock stock : index.getIndexShares()) {
-				float newPrice = this.getStockFromJsonDataByIndexName(stock.getTicker()).getLastPrice();
+				float newPrice = this.getStockFromJsonDataByStockName(stock.getTicker()).getLastPrice();
 				stock.setLastPrice(newPrice);
 				updatedStocks.add(stock);
 			}

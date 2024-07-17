@@ -73,7 +73,7 @@ public class APIController {
     }
     
     // API Add Stock to existing Index
-    public IndexOperations deleteStockFromIndex(@RequestBody Stock stockToDelete, @RequestParam String indexName) throws IndexNotFoundException, StockNotFoundException, ValidationException{
+    public IndexOperations deleteStockFromIndex(@RequestBody Stock stockToDelete, @RequestParam String indexName) throws IndexNotFoundException, StockNotFoundException, ValidationException {
         try {
             return data.deleteStockFromIndex(stockToDelete, indexName);
         } catch (Exception e) {
@@ -83,7 +83,7 @@ public class APIController {
     }
     
     // API AdjustForDividends
-    public IndexOperations adjustIndexForDividend(@RequestParam String indexName) {
+    public IndexOperations adjustIndexForDividend(@RequestParam String indexName) throws StockNotFoundException, ValidationException {
         try {
             return data.adjustIndexForDividend(indexName);
         } catch (Exception e) {

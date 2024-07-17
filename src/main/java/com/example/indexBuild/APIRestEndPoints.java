@@ -17,7 +17,7 @@ import Objects.IndexOperations;
 import Objects.Stock;
 
 @RestController
-public class RestService {
+public class APIRestEndPoints {
 
     @Autowired
     private APIController apiController;
@@ -84,8 +84,17 @@ public class RestService {
     }
     
     @PostMapping("/api/adjustIndexForDividend")
-    public IndexOperations adjustIndexForDividend(@RequestParam String indexName) throws Exception {
-    	return apiController.adjustIndexForDividend(indexName);
+    public ResponseEntity<String> adjustIndexForDividend(@RequestParam String indexName) throws Exception {
+    	try {
+    	apiController.adjustIndexForDividend(indexName);
+    	return ResponseEntity.status(HttpStatus.CREATED).body("dividend Updated in Index");
+    	} catch (customExceptions.StockNotFoundException e) {
+	        return ResponseEntity.status(HttpStatus.ACCEPTED).body("Stock Not Found");
+	    } catch (customExceptions.ValidationException e) {
+	        return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Validation Exception");
+	    } catch (Exception e) {
+	        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("An unexpected error occurred.");
+	    }
     }
     
     @GetMapping("/api/indexesStateAll")

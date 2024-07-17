@@ -1,8 +1,7 @@
 # Index Build
 
 ### 1. How to load the project 
-For further reference, please consider the following sections:
-
+This project is shared on GitHub and can be Downloaded from there.
 
 ### 2. Project Structure
 The project has been developed on a structure with the following points:
